@@ -1,0 +1,75 @@
+# Toute mesure d'ablation part de ce fichier. Rien en dur dans le code (§8).
+run_name: default
+seed: 42
+
+corpus:
+  # index strictement séparés : mélanger permettrait de "retrouver"
+  # une thèse maison dans le canon et détruirait le cas d'usage.
+  collections: [maison, canon]
+
+chunking:
+  target_tokens: 400
+  overlap_tokens: 60
+  # en-tête contextuel préfixé avant embedding — change fortement le recall (§5)
+  context_header: true
+  strategies:
+    prose_fr:  structural_sections   # alt: sliding
+    prose_en:  structural_sections
+    lean:      per_declaration       # alt: sliding
+    canon:     canonical_unit        # alt: section, sliding
+
+retrieval:
+  dense:
+    enabled: true
+    profile: fast                    # fast | quality
+    models:
+      fast:    sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2  # 384d, 27.8 chunks/s mesurés
+      quality: intfloat/multilingual-e5-large                               # 1024d
+    top_k: 50
+  sparse:
+    enabled: true
+    backend: bm25s
+    k1: 1.5
+    b: 0.75
+    stemmer: french
+    protect_codes: true          # ablatable : protège XVII-bis, R-XVII, snake_case
+    top_k: 50
+  fusion:
+    enabled: true
+    method: rrf
+    k: 60                            # paramètre exposé et testé (§6)
+  rerank:
+    enabled: true
+    profile: fast
+    models:
+      fast:    jinaai/jina-reranker-v2-base-multilingual   # top_n réduit
+      quality: jinaai/jina-reranker-v2-base-multilingual
+    top_n:
+      fast: 20                       # 18 min/passe
+      quality: 50                    # 46 min/passe
+    keep: 10
+
+generation:
+  provider: anthropic          # anthropic | ollama
+  model: claude-opus-5
+  thinking: true               # adaptatif ; budget_tokens est rejeté sur ces modèles
+  max_tokens: 16000
+  effort: high                 # low | medium | high | xhigh | max
+
+# Jalon 10 : deux process, deux modèles distincts (§A2A)
+a2a:
+  defenseur: {provider: anthropic, model: claude-opus-5}
+  objecteur: {provider: anthropic, model: claude-sonnet-5}
+
+guardrails:
+  grounding_check: {enabled: true, check_polarity: true}
+  injection_defense: {enabled: true}
+  budget: {max_steps: 8, max_tool_calls: 12, max_tokens: 60000}
+
+cache:
+  # ROI réel ici : le trafic répétitif est la boucle d'ablation, pas l'utilisateur.
+  # Mesuré : 12 configs x 100 questions = 9,2 h sans cache, ~50 min avec.
+  rerank_scores: {enabled: true, path: .cache/rerank.sqlite}
+  embeddings:    {enabled: true, path: .cache/emb.sqlite}
+  exact:         {enabled: false}
+  semantic:      {enabled: false, threshold: 0.95}

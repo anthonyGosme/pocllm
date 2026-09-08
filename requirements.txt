@@ -1,0 +1,10 @@
+# figé pour reproductibilité (§8) — macOS x86_64, Python 3.12, sans torch
+fastembed==0.8.0
+onnxruntime==1.23.2
+pypdf==6.1.1
+bm25s==0.2.13
+PyStemmer==3.0.0
+psycopg[binary]==3.2.10
+pgvector==0.4.1
+PyYAML==6.0.3
+numpy==2.5.3
