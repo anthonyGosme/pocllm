@@ -1,0 +1,49 @@
+[[p.323]]
+
+Imperfection de certaines définitions de Kant (raison, entendement, etc.). 
+
+[[p.21]] Il est étonnant de voir à quel point Kant poursuit son chemin sans réfléchir davantage ; il se laisse guider par la symétrie ; il ordonne tout d’après elle, et jamais il ne considère en lui-même aucun des objets ainsi abordés. Je vais m’expliquer plus à fond. Pour la connaissance intuitive, il se contente de la considérer dans les mathématiques ; il néglige complètement une autre espèce de connaissance intuitive, celle qui, sous nos yeux, constitue le monde ; et il s’en tient à la pensée abstraite, bien que celle-ci tire toute son importance et toute sa valeur du monde intuitif, lequel est infiniment plus significatif, plus général, plus riche de contenu que la partie abstraite de notre connaissance. Il n’a même, et cela est capital, distingué nulle part d’une façon nette la connaissance intuitive et la connaissance abstraite ; et il s’est par le fait, comme nous le verrons plus tard, engagé dans des contradictions inextricables avec lui-même. Après s’être débarrassé de tout le monde sensible au moyen de cette formule vide : « Il est donné », il dresse, ainsi que nous l’avons dit, le tableau logique des jugements et il en fait la pierre angulaire de sa construction. Mais ici encore il ne réfléchit pas un instant à ce qui est en réalité actuellement devant lui. Les formes des jugements sont des mots et des assemblages de mots. Il fallait, à coup sûr, commencer par se demander ce que désignent directement ces mots et assemblages de mots : l’on aurait trouvé qu’ils désignent des concepts. La question suivante eût porté sur l’essence des concepts. En y répondant, l’on aurait déterminé quel rapport les concepts ont avec les représentations intuitives qui constituent le monde : alors la distinction eût été faite entre intuition et réflexion. Il eût fallu rechercher comment se produisent dans la conscience non seulement l’intuition pure et formelle a priori, mais aussi l’intuition empirique qui en est [[p.22]] le contenu. Mais en ce cas l’on aurait vu quelle part a l’entendement dans cette intuition, et surtout l’on aurait vu en même temps ce qu’est l’entendement et ce qu’est par contre la raison proprement dite, cette raison dont Kant écrivait la critique. Il est tout à fait frappant que jamais non plus Kant ne précise ce dernier point d’une manière méthodique et suffisante ; il n’en donne que des explications incomplètes et sans rigueur, d’une façon d’ailleurs tout à fait incidente, selon qu’il y est amené par les matières qu’il traite ; il est en cela tout à fait en contradiction avec la règle de Descartes invoquée plus haut. En voici quelques exemples : la raison, dit Kant, est la faculté de connaître les principes a priori ; plus loin, même définition, la raison est la faculté de connaître les principes, et elle s’oppose à l’entendement, en ce que celui-ci est la faculté de connaître les règles. Cela donnait à penser qu’entre principes et règles il devait y avoir un abîme, puisque Kant prend sur lui d’admettre pour les uns et pour les autres deux facultés de connaître différentes. Pourtant cette grande différence doit consister simplement en ceci : est une règle ce qui est connu a priori par l’intuition pure ou par les formes de l’entendement ; n’est un principe que ce qui découle de purs concepts a priori. Nous reviendrons encore dans la suite, à propos de la dialectique, sur cette distinction arbitraire et inopportune. — Ailleurs, la raison est la faculté de raisonner ; quant au simple jugement, Kant le donne généralement comme le produit de l’entendement. D’une manière plus précise, il dit : le jugement est le produit de l’entendement tant que la raison du jugement est empirique, transcendantale ou métalogique ; si au contraire cette raison est logique, si, en d’autres termes, la raison du jugement est un raisonnement, nous sommes en présence d’une faculté de connaître toute particulière et bien supérieure, la raison. Chose plus singulière encore, il prétend que les conséquences immédiates d’un principe sont encore du ressort de l’entendement : ne sont élaborées par la raison que les conséquences pour la démonstration desquelles on invoque un concept intermédiaire ; et il cite à l’appui l’exemple suivant : étant donné le [[p.23]] principe « tous les hommes sont mortels », on arrive à la conséquence « quelques hommes sont mortels » par le simple entendement, tandis que celle-ci : « tous les savants sont mortels », exige une faculté toute différente et bien supérieure, la raison. Comment est-il possible qu’un grand penseur ait pu faire une pareille assertion. — Ailleurs, et à brûle-pourpoint, la raison est déclarée la condition constante de toute action libre. — Ailleurs elle est la faculté qui nous permet de rendre compte de nos affirmations. — Ailleurs elle est ce qui réduit à l’unité les concepts de l’entendement pour en faire des idées, comme l’entendement réduit à l’unité la pluralité des objets pour en faire des concepts. — Ailleurs elle n’est pas autre chose que la faculté de déduire le particulier du général.
+
+L’entendement aussi reçoit sans cesse des définitions nouvelles : en sept passages de la Critique de la raison pure, il est tantôt la faculté de produire les représentations, tantôt celle de formuler des jugements, c’est-à-dire de penser, autrement dit de connaître par le moyen des concepts ; tantôt d’une manière générale il est la faculté de connaître ; tantôt il est celle de connaître les règles ; tantôt au contraire il est défini non seulement la faculté de connaître les règles, mais encore la source des principes, grâce à laquelle tout est réglé dans le monde, bien que pourtant Kant l’opposât naguère à la raison, sous prétexte que celle-ci seule était la faculté de connaître les principes ; tantôt encore il est la faculté de connaître les concepts ; tantôt enfin il est celle d’introduire l’unité dans les phénomènes par le moyen des règles.
+
+Pour l’une et l’autre de ces facultés de connaître, j’ai moi-même donné des définitions rigoureuses, exactes, précises, simples, toujours en harmonie avec le langage usuel de tous les peuples et de tous les temps ; je crois inutile de les justifier contre celles de Kant qui ne sont, — sauf le respect qui s’attache à son nom, — que paroles confuses et vides de sens. Je ne les ai citées que pour confirmer ma critique, pour prouver que Kant poursuit son système symétrique et logique, sans réfléchir suffisamment à l’objet même qu’il traite. [[p.24]]
+
+Kant, ainsi que je le disais, aurait dû rechercher dans quelle mesure il y a lieu de distinguer ainsi deux facultés de connaître différentes, et dont l’une est la caractéristique même de l’humanité ; il aurait dû rechercher également ce que désignent, dans la langue usuelle de tous les peuples et de tous les philosophes, les mots « raison » et « entendement ». Après cet examen, sans autre autorité que les expressions scolastiques intellectus theoreticus, intellectus practicus, — qui ont d’ailleurs un tout autre sens, — jamais il n’eût scindé la raison en raison théorétique et raison pratique, jamais il n’eût fait de cette dernière la source de toute action vertueuse. Avant de faire une distinction si minutieuse entre les concepts de l’entendement, d’une part, — sous lesquels il comprend tantôt les catégories, tantôt la totalité des concepts généraux, — et, d’autre part, les concepts de la raison, — qu’il nomme les idées de la raison ; avant de faire des uns et des autres la matière de la philosophie, laquelle ne traite la plupart du temps que de la valeur, de l’emploi et de l’origine de tous ces concepts ; avant cela, dis-je, il eût fallu rechercher avec exactitude ce qu’était, dans son acception générale, un concept. Mais une recherche si nécessaire a été malheureusement tout à fait négligée ; et cette omission n’a pas peu contribué à la confusion irrémédiable entre la connaissance intuitive et la connaissance abstraite, confusion sur laquelle je vais bientôt insister. — Kant n’avait point suffisamment réfléchi : voilà pourquoi il a escamoté des questions telles que celles-ci : qu’est-ce que l’intuition ? qu’est-ce que la réflexion ? qu’est-ce que le concept ? qu’est-ce que la raison ? qu’est-ce que l’entendement ? C’est aussi le même manque de réflexion qui lui a fait négliger les recherches suivantes, non moins indispensables, non moins nécessaires : quel est l’objet que je distingue de la représentation ? qu’est-ce que l’existence ? l’objet ? le sujet ? la vérité ? l’apparence ? l’erreur ? — Mais il ne réfléchit ni ne regarde autour de lui ; il poursuit le développement de son schema logique et symétrique. Il faut, bon gré mal gré, que le tableau des concepts soit la clef de toute science.
+
+↑ J’avertis le lecteur que, dans toutes mes citations de la Critique de la raison pure, je me réfère à la pagination de la première édition ; cette pagination est reproduite intégralement dans Rozenkranz (éd. des Œuvres complètes de Kant). J’indique en outre la pagination de la cinquième édition ; toutes les éditions, à partir de la seconde, sont d’accord avec la cinquième, même pour la pagination.
+
+↑ « Das Vermœgen der Principien a priori » (Critique de la raison pure, p. 11,5 éd., p. 24).
+
+↑ Ibid., p. 299 ; 5 éd., p. 356.
+
+↑ « Das Vermœgen der Regeln. »
+
+↑ « Das Vermœgen zu Schliessen » ; p. 330 ; 5 éd., p. 386.
+
+↑ P. 69 ; 5 éd., p. 94.
+
+↑ Traité du principe de raison, §§ 31,32,33.
+
+↑ P. 303 ; 5 éd., p. 360.
+
+↑ P. 553 ; 5 éd., p. 581.
+
+↑ P. 614 ; 5 éd., p. 642.
+
+↑ P. 643, 644 ; 5 éd., p. 671-674.
+
+↑ P. 646 ; 5 éd., p. 674.
+
+↑ P. 51 ; 5 éd., p. 75.
+
+↑ P. 69 ; 5 éd., p. 94.
+
+↑ 5 éd., p. 137.
+
+↑ P. 132 ; 5 éd., p. 171.
+
+↑ P. 158 ; 5 éd., p. 197.
+
+↑ P. 160 ; 5 éd., p. 199.
+
+↑ P. 302 ; 5 éd., p. 359.

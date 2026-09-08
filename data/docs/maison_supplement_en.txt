@@ -1,0 +1,173 @@
+Supplementary Material
+To Be Is to Make Oneself One: Finite Unity as Made, and How to Test It
+Scope
+This supplement documents the claims of the article that have been checked in Lean
+4. It is not required in order to follow the argument, and it is deliberately short: the
+formalization is a consistency apparatus, not a proof engine.
+What a machine check establishes here is narrow, and I state it once so that it is not
+overread. It establishes that a stated structure is consistent, that a stated conclusion
+follows from stated definitions, and, in two cases below, that a stated limitation is
+real. It does not establish that the encoded structures are faithful to the philosophical
+notions they are named after. Fidelity is defended by the argument of the article and
+by nothing in this file.
+Two of the sections below certify limits rather than results. Section C ships a
+theorem together with the counterexample that bounds its scope; Section D ships,
+as a posited field rather than a derived proposition, the one commitment the article
+declares as a debt. A formalization that recorded only what succeeds would be of little
+evidential use.
+All files compile under Lean4.28.0(toolchainleanprover/lean4:v4.28.0) with
+nosorry, no added domain axiom, and noimport: each is standalone and may be
+checked withlean <file>. Each ends with an audit reproducing, via#print axioms,
+the footprint of every theorem cited here. Lean identifiers are given in monospace;
+where an identifier carries a name different from the article’s term, the correspondence
+is stated. In particular the Lean constructorportageis the article’scarriage.
+A. Endorsement is independent of closure
+Supports §5.7, the section the article identifies as carrying its principal claim.
+File:RosenEndorsement.lean(242 lines, 7 theorems, 0sorry, 0 imports).
+Two axes are encoded separately and are given no field in common. Closure to
+efficient causation reads a catalyst graph alone:
+structure Network where
+requires : List Nat
+produces : List Nat
+def RosenClosed (net : Network) : Prop :=
+net.requires.all (fun c => net.produces.contains c) = true
+Endorsement reads an energetic profile alone:
+structure EnergyProfile where
+margin : Nat
+reconfig_cost : Nat
+energy_external : Bool
+def EndogenousEndorsement (p : EnergyProfile) : Prop :=
+p.margin≥p.reconfig_cost∧p.margin > 0
+The fieldenergy_externalis present and is deliberately idle. Energetic depen-
+dence on a milieu is universal, as §5.6 argues, so it must not sort, and no theorem
+below turns on it.
+Fourwitnessesinhabitthefourcellsofclosure×endorsement(square_inhabited),
+so neither axis is a function of the other. The decisive one is a network that produces
+every catalyst it requires and carries no store: the flow reactor of §5.7.
+theorem closure_does_not_entail_endorsement :
+¬(∀e : Entity, closed e→endorses e)
+theorem endorsement_separates_within_closure :
+closed organism∧closed selfCatalyzingFlow∧
+verdict organism = Verdict.self∧
+verdict selfCatalyzingFlow = Verdict.carriage
+The second is the pair the argument needs.organismandselfCatalyzingFlow
+are both closed, so Rosen’s criterion cannot tell them apart, and the endorsement
+criterion assigns opposite verdicts. Note that this is not the organism/whirlpool pair
+of §5.4, which closure already separates and which therefore establishes only the weaker
+claim that cost is present where closure is silent.
+Functionalindependenceisthenstateddirectly: entitiessharinganenergeticprofile
+share a verdict, whatever their catalyst graph.
+theorem verdict_ignores_closure (e1 e2 : Entity)
+(h : e1.profile = e2.profile) : verdict e1 = verdict e2
+On the strength of the rendering.Closure is encoded minimally, as internal produc-
+tion of every required catalyst. Richer(M, R)structure adds constraints, and adding
+2
+constraints cannot manufacture the witness that matters here, which is a closed entity
+that fails to endorse. The independence therefore holds a fortiori for any faithful or
+richer rendering, provided closure remains silent about energy storage, which it does.
+B. The verdict is a function of the cost profile alone
+Supports §5.8, at the point identified there as the account’s greatest exposure.
+File:gradient.lean(91 theorems, 0sorry, 0 imports); the result is at line 602.
+structure CostProfile where
+self_cost : Nat
+host_cost : Nat
+def regimeOf (p : CostProfile) : CostRegime :=
+if p.self_cost > 0 then CostRegime.closure
+else if p.host_cost > 0 then CostRegime.portage
+else CostRegime.aggregate
+theorem cost_profile_determines_regime (p1 p2 : CostProfile)
+(h_self : p1.self_cost = p2.self_cost)
+(h_host : p1.host_cost = p2.host_cost) :
+regimeOf p1 = regimeOf p2
+The article claims that the location of the irreversible trace does not vary with the
+observer’s carving, and concedes that the claim is empirical in form. A formalization
+cannot settle an empirical claim. What it settles is the prior question of whether the
+criterionas encodedcontains any discriminant other than the cost split, and it does
+not: the regime is a function of the pair(self_cost, host_cost), so two entities
+agreeing on that pair agree on their regime whatever else differs between them.
+The proof is a rewriting under the definition, and I do not present it as more than
+that. A reader is entitled to observe that a profile type with two numeric fields will
+not exhibit a third parameter. The point is what the type omits: substrate, scale,
+topology, label, and observer are not fields ofCostProfile, so no theorem in the file
+can appeal to them, and this is checkable rather than asserted.
+C.Thefirstbranch, andthecounterexamplethatbounds
+it
+Supports §5.3 and the first question of Figure 1.
+File:7autoOnto.lean(40 theorems, 0sorry, 0 imports); the result is at line 854.
+3
+theorem no_third_regime (sys : FiniteSystem) (start : Fin sys.states) :
+classifyTrajectory sys start = Regime.dissolves∨
+classifyTrajectory sys start = Regime.closure
+A companion result,closure_has_cycle, bridges the two: if a trajectory does not
+dissolve then it revisits a state, and every intermediate state has positive margin.
+Two restrictions belong with the theorem, and both are recorded in the source
+rather than left implicit.
+First, the scope.FiniteSystempresupposes a finite discrete state space (Fin
+states) and deterministic succession. The article’s “every exposed finite being” be-
+comes, in the formalization, “every system on a finite discrete state space”. A being
+bounded in margin but with a continuous configuration space is not covered; the
+corresponding statement there would fall under Poincaré recurrence, and I have not
+established it. The counterexample is explicit: onNwith successorn7→n+ 1the
+trajectory never revisits a state, and neither disjunct holds.
+Second, what the theorem does not give. It yields recurrence, not endorsement.
+That a trajectory returns to a state says nothing about which margin paid for the
+return, and the trichotomy of §5.3 is settled at the second branch, not this one.
+A further result records the status of the third regime. Under conservation of the
+maintenance cost together with its strict positivity, no entity has both shares null:
+theorem aggregate_impossible (e : FiniteEntity) :¬noRegeneration e
+Caution on use.This concerns the distribution of a cost already taken as given, and it
+is the formal counterpart of the article’s claim in §5.3 that carriage and aggregate are
+privations rather than positive kinds. It is not a claim about the stone, and it does not
+bear on the equivocation §2.5 refuses, where the drain of an aggregate is distinguished
+from an expenditure that buys continuation.
+D. A declared debt, mechanized
+Supports §7.3.
+File:7autoOnto.lean, line 287.
+class FiniteExposed (α: Type) where
+margin :α→Nat
+drain :α→Nat
+drain_pos :∀a, 0 < drain a
+The strict positivity of the drain is a field of the class, not a proposition derived
+within it. This is the formal shape of the debt §7.3 declares: the article presents
+4
+the drain as a posit about our irreversible world, and the development enters it as a
+constraint rather than proving it. Every result carrying the class inherits that status,
+including the exhaustion theoremgeneric_exhaustionproved for allFiniteExposed
+types.
+I include this section because a supplement certifying only successes would leave
+the most checkable of the article’s four debts uncorroborated.
+E. The separating model of immanent necessity
+Supports §6.2.
+File:INu_Necessity.lean(352 lines, 13 theorems, 0sorry, 0 imports).
+The argument of §6 turns on the alternative being coherent: if the contingent
+act could not be constructed without contradiction, the necessity claimed for the self-
+grounded act would be obtained by definition.
+Two act types are opposed.SelfGroundedActhas an endogenous margin and no
+external ground;act_is_necessaryestablishes that persistence requires the cost to
+be payable on the proper margin, andinaction_is_dissolutionthat inaction is not
+a stable state.ContingentActcarries anexternal_groundthat compensates the cost;
+contingent_survives_without_economyandcontingent_waste_not_existential
+establishthatforitthecostofrenewalisoptionalandwasteisnotexistential.contingency_needs_external
+showsthatanon-necessaryactwouldrequireanexternalground, andself_ground_suffices
+that self-grounding excludes one.
+What this certifies is joint constructibility: the two acts coexist in one consistent
+development, so the necessity of §6.2 is conditional on self-grounding rather than an-
+alytic. It does not certify that “self-grounded” as encoded captures self-grounding as
+the article uses the term.
+F. What is not formalized
+Stated for completeness, so that the unlisted is not taken to be unformalizable.
+The argument of §2 is not mechanized and is not a candidate for mechanization:
+that finitude entails exposure, and that the ideal crystal removes exposure while retain-
+ing finitude, are conceptual claims about the notions involved and not consequences
+of a stated structure.
+The independence result of Section A above is proved for a minimal rendering of
+closure. A rendering with full(M, R)replacement structure has not been carried out,
+and the article’s claim that the independence survives it is argued rather than checked.
+The material on the intermediate regime and its parameter of modal renewal,
+5
+present in earlier presentations of this framework, has no referent in the present article
+and is not included here.
+Availability
+The Lean sources are supplied with this submission. The public repository address is
+withheld to preserve anonymity and will be supplied on acceptance.
+6

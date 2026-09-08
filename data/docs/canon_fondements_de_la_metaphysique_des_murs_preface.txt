@@ -1,0 +1,1047 @@
+[[p.71]]
+
+### PRÉFACE
+
+L’ancienne philosophie grecque se divisait en trois
+sciences la Physique, l’Éthique et la Logique. Cette
+division est parfaitement conforme à la nature des choses,
+et l’on n’a guère d’autre perfectionnement à y apporter
+que celui qui consiste à y ajouter le principe sur lequel
+elle se fonde, afin que de cette façon on s’assure d’une
+part qu’elle est complète, que d’autre part l’on puisse
+déterminer exactement les subdivisions nécessaires.
+
+Toute connaissance rationnelle ou bien est matérielle
+et se rapporte à quelque objet, ou bien est formelle et ne
+s’occupe que de la forme de l’entendement et de la raison [[p.72]] en eux-mêmes et des règles universelles de la pensée en
+général sans acception d’objets. La philosophie formelle
+s’appelle Logique, tandis que la philosophie matérielle,
+celle qui a affaire à des objets déterminés et aux lois
+auxquelles ils sont soumis, se divise à son tour en deux. Car
+ces lois sont ou des lois de la nature ou des lois de la
+liberté. La science de la première s’appelle Physique,
+celle de la seconde s’appelle Éthique ; celle-là est encore
+nommée Philosophie naturelle, celle-ci Philosophie morale.
+
+La Logique ne peut avoir de partie empirique, c’est-à-dire
+de partie où les lois universelles et nécessaires de
+la pensée s’appuieraient sur des principes qui seraient
+tirés de l’expérience ; car autrement dit elle ne serait pas [[p.73]] une logique, c’est-à-dire un canon pour l’entendement
+et la raison qui vaut pour toute pensée et qui doit être
+démontré. Au contraire, la Philosophie naturelle aussi
+bien que la Philosophie morale peuvent avoir chacune sa
+partie empirique, car il faut qu’elles assignent leurs lois,
+l’une à la nature en tant qu’objet d’expérience, l’autre à la
+volonté de l’homme en tant qu’elle est affectée par la
+nature : lois, dans le premier cas, d’après lesquelles tout
+arrive ; dans le second cas, d’après lesquelles tout doit
+arriver, mais en tenant compte pourtant encore des
+conditions qui font que souvent ce qui doit arriver
+n’arrive point.
+
+On peut appeler empirique toute philosophie qui s’appuie
+sur des principes de l’expérience ; pure, au contraire,
+celle qui expose ses doctrines en partant uniquement
+de principes a priori. Celle-ci, lorsqu’elle est sim [[p.74]] plement formelle, se nomme Logique, mais si elle est restreinte
+à des objets déterminés de l’entendement, elle se
+nomme Métaphysique.
+[[p.75]]
+
+De la sorte naît l’idée d’une double métaphysique, une
+Métaphysique de la nature et une Métaphysique des mœurs.
+La Physique aura ainsi, outre sa partie empirique, une
+partie rationnelle ; de même l’Éthique ; cependant ici la
+partie empirique pourrait recevoir particulièrement le
+nom d’Anthropologie pratique, la partie rationnelle proprement
+celui de Morale.
+[[p.76]]
+
+Toutes les industries, tous les métiers et tous les arts
+ont gagné à la division du travail. La raison en est
+qu’alors ce n’est pas un seul qui fait tout, mais que chacun
+se borne à une certaine tâche qui, par son mode d’exécution,
+se distingue sensiblement des autres, afin de pouvoir
+s’en acquitter avec la plus grande perfection possible
+et avec plus d’aisance. Là où les travaux ne sont
+pas ainsi distingués et divisés, où chacun est un artiste à
+tout faire, les industries restent encore dans la plus grande
+barbarie. Or ce serait sans doute un objet qui en lui-même
+ne serait pas indigne d’examen que de se demander
+si la philosophie pure n’exige pas dans toutes ses parties
+un homme spécial qui soit à elle, et si pour l’ensemble de
+cette industrie qui est la science, il ne vaudrait pas mieux
+que ceux qui sont habitués à débiter, conformément au
+goût du public, l’empirique mêlé au rationnel en toutes
+sortes de proportions qu’eux-mêmes ne connaissent pas,
+qui se qualifient eux-mêmes de vrais penseurs tandis
+qu’ils traitent de songe-creux ceux qui travaillent à la
+partie purement rationnelle, que ceux-là, dis-je, fussent
+avertis de ne pas mener de front deux occupations qui
+demandent à être conduites de façon tout à fait différente,
+dont chacune exige peut-être un talent particulier,
+et dont la réunion en une personne ne fait que des
+gâcheurs d’ouvrage. Néanmoins, je me borne ici à
+[[p.77]] demander si la nature de la science ne requiert pas qu’on
+sépare toujours soigneusement la partie empirique de la
+partie rationnelle, qu’on fasse précéder la Physique proprement
+dite (empirique) d’une Métaphysique de la
+nature, d’autre part, l’Anthropologie pratique d’une
+Métaphysique des mœurs, qui devraient être soigneusement
+expurgées l’une et l’autre de tout élément empirique,
+cela afin de savoir tout ce que la raison pure peut
+faire dans les deux cas et à quelles sources elle puise elle-même
+cet enseignement a priori qui est le sien, que d’ailleurs
+cette dernière tâche soit entreprise par tous les
+moralistes (dont le nom est légion) ou seulement par
+quelques-uns qui s’y sentent appelés.
+
+Comme mes vues portent ici proprement sur la philosophie
+morale, je limite à ces termes stricts la question
+posée : ne pense-t-on pas qu’il soit de la plus extrême
+nécessité d’élaborer une bonne fois une Philosophie
+morale pure qui serait complètement expurgée de tout ce
+qui ne peut être qu’empirique et qui appartient à l’Anthropologie ?
+Car qu’il doive y avoir une telle philosophie,
+cela résulte en toute évidence de l’idée commune
+du devoir et des lois morales. Tout le monde doit convenir
+que pour avoir une valeur morale, c’est-à-dire pour
+fonder une obligation, il faut qu’une loi implique en elle
+une absolue nécessité, qu’il faut que ce commandement :
+« Tu ne dois pas mentir, » ne se trouve pas valable pour
+les hommes seulement en laissant à d’autres êtres raisonnables
+la faculté de n’en tenir aucun compte, et qu’il
+[[p.78]] en est de même de toutes les autres lois morales proprement
+dites ; que par conséquent le principe de l’obligation
+ne doit pas être ici cherché dans la nature de l’homme, ni
+dans les circonstances où il est placé en ce monde, mais
+a priori dans les seuls concepts de la raison pure ; et que
+toute autre prescription qui se fonde sur des principes
+de la simple expérience, fût-elle à certains égards une
+prescription universelle, du moment que pour la
+moindre part, peut-être seulement par un mobile, elle
+s’appuie sur des raisons empiriques, si elle peut être
+appelée une règle pratique, ne peut jamais être dite une
+loi morale.
+
+Ainsi non seulement les lois morales, y compris leurs
+principes, se distinguent essentiellement, dans toute
+connaissance pratique, de tout ce qui renferme quelque
+chose d’empirique, mais encore toute philosophie morale
+repose entièrement sur sa partie pure, et, appliquée à
+l’homme, elle ne fait pas le moindre emprunt à la con [[p.79]] naissance de ce qu’il est (Anthropologie) ; elle lui donne,
+au contraire, en tant qu’il est un être raisonnable, des lois
+a priori. Il est vrai que ces lois exigent encore une faculté
+de juger aiguisée par l’expérience, afin de discerner d’un
+côté dans quels cas elles sont applicables, afin de leur
+procurer d’autre part un accès dans la volonté humaine
+et une influence pour la pratique ; car l’homme, affecté
+qu’il est lui-même par tant d’inclinations, est bien capable
+sans doute de concevoir l’idée d’une raison pure pratique,
+mais n’a pas si aisément le pouvoir de la rendre efficace
+in concreto dans sa conduite.
+
+Une Métaphysique des mœurs est donc rigoureusement
+nécessaire, non pas seulement à cause d’un besoin
+de la spéculation, afin d’explorer la source des principes
+pratiques qui sont a priori dans notre raison, mais parce
+que la moralité elle-même reste exposée à toutes sortes
+de corruptions, aussi longtemps que manque ce fil
+conducteur et cette règle suprême qui permet de l’apprécier
+exactement. Car, lorsqu’il s’agit de ce qui doit
+être moralement bon, ce n’est pas assez qu’il y ait conformité
+à la loi morale ; il faut encore que ce soit pour la loi morale
+que la chose se fasse ; sinon, cette conformité
+n’est que très accidentelle et très incertaine, parce que [[p.80]] le principe qui est étranger à la morale produira sans
+doute de temps à autre ces actions conformes, mais souvent
+aussi des actions contraires à la loi. Or la loi morale
+dans sa pureté et dans sa vérité (ce qui précisément en
+matière pratique est le plus important) ne doit pas être
+cherchée ailleurs que dans une Philosophie pure ; aussi
+faut-il que celle-ci (la Métaphysique) vienne en premier
+lieu ; sans elle il ne peut y avoir en aucune façon de philosophie
+morale. Je dirai même que celle qui mêle ces
+principes purs avec les principes empiriques ne mérite
+pas le nom de philosophie (car la philosophie se distingue
+précisément de la connaissance rationnelle commune
+en ce qu’elle expose dans une science à part ce que cette
+connaissance commune ne saisit que mélangé) ; elle
+mérite bien moins encore le nom de philosophie morale,
+puisque justement par cet amalgame elle porte atteinte à
+la pureté de la moralité elle-même et qu’elle va contre sa
+propre destination.
+
+Qu’on n’aille pas croire cependant que ce qui est
+réclamé ici on l’ait déjà dans la propédeutique que l’illustre
+Wolff a mise en tête de sa philosophie morale, je
+veux dire dans ce qu’il a appelé Philosophie pratique universelle,
+et qu’ici par suite il n’y ait pas précisément un
+champ entièrement nouveau à fouiller. Justement
+parce qu’elle devait être une philosophie pratique uni [[p.81]] verselle, ce qu’elle a considéré, ce n’a pas été une volonté
+de quelque espèce particulière, comme une volonté qui
+serait déterminée sans mobiles empiriques d’aucune sorte,
+tout à fait en vertu de principes a priori, et qu’on pourrait
+nommer une volonté pure, mais le vouloir en général,
+avec toutes les actions et conditions qui dans ce sens
+général lui appartiennent ; elle se distingue donc d’une
+Métaphysique des mœurs de la même façon que la
+Logique générale se distingue de la Philosophie transcendantale ;
+la Logique générale, en effet, expose les opérations
+et les règles de la pensée en général, tandis que la
+Philosophie transcendantale expose uniquement les opérations
+et les règles spéciales de la pensée pure, c’est-à-dire
+de la pensée par laquelle des objets sont connus
+complètement a priori. C’est que la Métaphysique des
+mœurs doit examiner l’idée et les principes d’une volonté
+pure possible, non les actions et les conditions du vouloir
+humain en général, qui pour la plus grande part
+sont tirées de la Psychologie. Le fait que dans la Philosophie
+pratique générale il est aussi question (bien à
+tort cependant) de lois morales et de devoir, ne constitue
+aucune objection à ce que j’affirme. En effet, les auteurs
+de cette science restent encore fidèles en cela à l’idée qu’ils
+s’en font ; ils ne distinguent pas, parmi les principes
+de détermination, ceux qui, comme tels, sont représentés
+tout à fait a priori par la seule raison et sont proprement
+moraux, de ceux qui sont empiriques, que
+l’entendement érige en concepts généraux par la simple
+comparaison des expériences ; ils les considèrent au contraire
+sans avoir égard à la différence de leurs origines, [[p.82]] ne tenant compte que de leur nombre plus ou moins
+grand (car ils sont tous à leurs yeux de la même espèce),
+et ils forment ainsi leur concept d’obligation ; ce concept,
+à la vérité, n’est rien moins que moral ; mais le caractère
+en est tout ce qu’on peut attendre qu’il soit dans une
+philosophie qui sur l’origine de tous les concepts pratiques
+possibles ne décide nullement, s’ils se produisent
+a priori ou simplement a posteriori.
+
+Or, dans l’intention où je suis de publier un jour une
+Métaphysique des mœurs, je la fais précéder de ce livre
+qui en pose les fondements. Sans doute il n’y a à la
+rigueur, pour pouvoir la fonder, que la Critique d’une
+raison pure pratique, comme pour fonder la Métaphysique
+il faut la Critique de la raison pure spéculative
+que j’ai déjà publiée. Mais, d’une part, la première
+de ces Critiques n’est pas d’une aussi extrême nécessité
+que la seconde, parce qu’en matière morale la raison
+humaine, même dans l’intelligence la plus commune,
+peut être aisément portée à un haut degré d’exactitude
+et de perfection, tandis que dans son usage théorique, [[p.83]] mais pur, elle est tout à fait dialectique ; d’autre part,
+pour la Critique d’une raison pure pratique, si elle doit
+être complète, je crois indispensable que l’on se mette à
+même de montrer en même temps l’unité de la raison
+pratique avec la raison spéculative dans un principe
+commun ; car, en fin de compte, il ne peut pourtant y
+avoir qu’une seule et même raison, qui ne doit souffrir
+de distinction que dans ses applications. Or je ne pourrais
+ici encore pousser mon travail à ce point d’achèvement
+sans introduire des considérations d’un tout autre
+ordre et sans embrouiller le lecteur. C’est pourquoi, au
+lieu du titre de Critique de la raison pure pratique, je me
+suis servi de Fondements de la Métaphysique des mœurs.
+
+Et comme aussi, en troisième lieu, une Métaphysique
+[[p.84]] des mœurs, malgré ce que le titre a d’effrayant, peut
+néanmoins à un haut degré être populaire et appropriée à
+l’intelligence commune, je juge utile d’en détacher ce
+travail préliminaire où en sont posés les fondements, afin
+de n’avoir pas besoin dans la suite d’ajouter l’élément de
+subtilité inévitable en ces matières à des doctrines plus
+aisées à entendre.
+
+Quant à ces Fondements, que je présente au public, ils
+ne sont rien de plus que la recherche et l’établissement
+du principe suprême de la moralité, ce qui suffit à constituer
+une tâche complète dans son plan et qu’il y a lieu
+de séparer de toute autre recherche morale. Sans doute
+mes assertions sur ce problème essentiel si important
+et qui jusqu’à présent n’a pas été encore, tant s’en faut,
+traité de façon satisfaisante, recevraient de l’application
+du principe à tout le système et de la puissance d’explication
+suffisante qu’il manifeste en tout une grande confirmation ;
+mais j’ai dû renoncer à cet avantage, qui au
+fond eût été plus d’accord avec mon amour-propre
+qu’avec l’intérêt de tous ; car la facilité à appliquer un
+principe ainsi que son apparente suffisance ne fournissent
+pas de démonstration absolument sûre de son exactitude ;
+elles suscitent plutôt un certain parti pris de ne [[p.85]] pas l’examiner et l’apprécier en toute rigueur pour lui-même,
+sans égard aux conséquences.
+
+J’ai suivi dans cet écrit la méthode qui est, à mon avis,
+la plus convenable, quand on veut procéder analytiquement
+de la connaissance commune à la détermination de
+ce qui en est le principe suprême, puis, par une marche
+inverse, redescendre synthétiquement de l’examen de
+ce principe et de ses sources à la connaissance commune
+où l’on en rencontre l’application. L’ouvrage se trouve
+donc ainsi divisé : [[p.86]]
+
+1 Première section : passage de la connaissance rationnelle
+commune de la moralité à la connaissance philosophique.
+
+2 Deuxième section : passage de la philosophie morale
+populaire à la Métaphysique des mœurs.
+
+3 Troisième section : dernière démarche de la Métaphysique des mœurs à la Critique de la raison pure pratique.
+
+↑ Cette division, familière aux philosophes de la période
+postaristotélicienne, surtout aux
+philosophes stoïciens, a été plus
+ou moins explicitement attribuée
+à Platon (V. Cicéron, Acad., I. 5, 19). Elle n’est pas énoncée expressément dans ses œuvres, et
+rien ne prouve qu’elle l’ait été
+dans son enseignement oral. Elle
+ne s’adapte qu’imparfaitement
+au contenu de la philosophie
+platonicienne. Cependant, comme
+elle est supposée par Aristote
+(Topb., 1, 14, 105 b, 19), qu’elle a
+été employée par le platonicien
+Xénocrate, on peut dire, selon
+la formule de Sextus Empiricus
+(Adv. Math., VII, 16), que Platon
+au moins en a été en puissance
+l’inventeur.
+
+↑ La Logique entendue en
+ce sens, ou Logique générale,
+traite des lois nécessaires sans
+lesquelles l’entendement ne saurait penser avec justesse et avec
+rigueur, en dehors même de son
+application à tel ou tels objets.
+La Logique générale n’a pas à
+considérer l’origine des idées sur
+lesquelles l’entendement opère ;
+elle reste toujours une science
+a priori à laquelle il revient de
+déterminer ce que doivent être
+selon la raison les modes
+d’enchaînement entre ces idées. —
+Il y a pour Kant une autre Logique
+que cette Logique générale :
+c’est la Logique transcendantale,
+qui fait partie de la Critique
+de la raison pure ; elle
+établit qu’il y a des concepts qui
+peuvent non seulement se lier
+entre eux a priori, mais
+essentiellement se rapporter a priori
+à des objets, et elle s’applique
+à déterminer l’origine, l’étendue
+et la valeur objective de la
+connaissance ainsi produite (V. dans
+la Critique de la raison pure
+l’Introduction de la Deuxième partie :
+Idée d’une Logique transcendantale).
+La constitution de cette
+Logique transcendantale est une
+des principales nouveautés, sinon
+la nouveauté la plus importante
+de la philosophie de Kant. —
+Dès qu’il peut y avoir des lois
+a priori, non seulement de la
+connexion des concepts entre
+eux, mais encore du rapport des
+concepts à des objets, on
+comprend qu’il y ait une autre
+philosophie formelle que celle qui
+paraît identifiée ici avec la
+Logique générale ; et de fait, à
+l’intérieur de la connaissance
+matérielle. Kant réintroduit la
+distinction de la matière et de la forme,
+la matière désignant alors le
+donné, le divers, l’élément
+empirique, contingent et déterminable
+tandis que la forme signifie
+l’élément a priori, nécessaire et
+déterminant, l’action unifiante
+de la raison. — La philosophie de
+Kant s’est proposé de montrer
+la présence et le rôle de la forme,
+en ce dernier sens, dans toute
+connaissance matérielle certaine.
+
+↑ Pour Kant, la législation
+de la raison se rapporte à deux
+espèces d’objets : d’une part, à
+ce qui est donné dans l’expérience ;
+d’autre part, à ce qui doit
+se réaliser par la liberté ; elle
+fonde donc, d’un côté, la science,
+de l’autre, la moralité. Mais elle
+est incapable de se rapporter
+légitimement à d’autres objets
+que ceux-là, à des objets que
+l’on prétendrait connaître comme
+choses en soi.
+
+↑ C’est Épicure qui a introduit le terme de « canon » pour désigner les règles de la connaissance. Kant a repris le mot en songeant au caractère restreint qu’avait la canonique épicurienne, comparée à l’ « organon » d’Aristote. Il entend par canon l’ensemble des principes a priori qui règlent l’usage légitime de nos facultés de connaître, mais surtout, semble-t-il, en tant que l’exercice de ces facultés est envisagé du côté du sujet connaissant ; voilà pourquoi il distingue en maint endroit le canon de l’organon, lequel représente ou suppose le système des principes qui rendent possible la constitution et l’extension d’une connaissance a priori des objets. La Logique générale, s’occupant des règles de la pensée en général, abstraction faite de tout contenu, ne peut être qu’un canon : elle témoigne de prétentions abusives quand elle veut s’ériger en organon, affirmer et décider sur des objets. (V. Critique de la raison pure : Logique transcendantale, introduction, ainsi que Méthodologie transcendantale, ch. II ; V. aussi Logique, introduction, In.)
+
+↑ Est pur ce qui en soi est indépendant de l’expérience, tout en étant d’ailleurs susceptible de s’appliquer à des objets d’expérience. Kant d’ordinaire emploie comme équivalents les termes « pur » et « a priori », et même souvent les emploie tous les deux ensemble, l’un à la suite de l’autre.
+
+↑ Kant, par sa doctrine, achève de fixer un sens nouveau des termes a priori et a posteriori. Ces termes, dans leur signification première, se rattachent à l’idée d’Aristote, selon laquelle antériorité et postériorité (πρότερον καί ὓστερον) s’appliquent, entre autres rapports, aux rapports de principe à conséquence ou de cause à effet. Connaître a priori, ce fut donc pour les scolastiques connaître par la cause ; connaître a posteriori, connaître par l’effet. C’est en ce sens que saint Thomas soutenait qu’on ne peut connaître Dieu a priori, c’est-à-dire par sa cause. Cette signification scolastique des deux termes s’est perpétuée dans la philosophie moderne, et on la trouve, non seulement chez Descartes et
+Spinoza, mais encore chez Leibniz ;
+ce dernier pourtant tend à
+désigner par a priori et a posteriori
+l’opposition de la connaissance
+par pure raison et de
+la connaissance expérimentale.
+Pour Wolff, connaître une vérité
+a priori, c’est la tirer de vérités
+déjà reconnues au moyen du
+seul raisonnement ; la connaître
+a posteriori, c’est l’établir au
+moyen des sens. Ce qui paraît
+bien appartenir à Kant, si l’on
+en juge par l’accueil que plusieurs
+de ses contemporains
+firent à cette nouveauté, c’est
+l’usage du terme a priori pour
+montrer dans la raison l’origine
+ou la source des principes et des
+connaissances qui ne dérivent
+pas de l’expérience. Remarquons
+cependant que Lambert, le contemporain
+et le correspondant
+de Kant, s’était, dans son
+Neues Organon, déjà rapproché de ce
+sens plus spécial d’a priori. Kant,
+en consacrant ce dernier sens,
+n’en a pas moins fait d’autres
+emplois du terme, plus conformes
+aux précédents ; il l’applique
+encore à designer simplement
+la dérivation de connaissances
+opérée par la seule pensée, quand
+il dit, par exemple, que tous les
+jugements analytiques sont
+a priori, même si leurs concepts
+sont empiriques.
+
+↑ Pour Kant, l’idée de la
+Métaphysique, c’est avant tout
+l’idée d’une science se produisant
+a priori par concepts purs, et
+il faut maintenir cette idée en
+toute rigueur contre la tendance
+de certains philosophes, en particulier
+des Wolffiens, à la résoudre
+en des caractères qui ne permettent
+plus de distinguer radicalement
+la Métaphysique d’une
+connaissance empirique. L’idée
+d’une telle science exprime un
+besoin essentiel de la raison :
+mais constamment ce besoin a
+cherché à se satisfaire par des
+moyens illégitimes et illusoires.
+C’est ainsi que la Métaphysique
+dogmatique a vainement prétendu
+atteindre à la connaissance
+des choses en soi, et c’est précisément
+le résultat de la Critique
+que de montrer qu’il n’y a
+pour nous de connaissance théorique
+proprement dite que dans
+les limites de l’expérience. En
+retour, il y a une espèce de Métaphysique
+à la fois indispensable
+et légitime, qui provient d’un
+usage, non plus transcendant,
+mais immanent, de la raison.
+c’est-à-dire qui peut et doit déterminer
+par des concepts purs,
+non pas des objets situés au delà
+de toute expérience, mais des
+objets saisissables dans l’intuition
+sensible, ou bien réalisables
+par la liberté. Pour cette
+espèce de Métaphysique, il y a
+donc deux sortes d’objets distincts :
+d’une part, la nature corporelle
+(non la nature pensante,
+car les phénomènes du sens intime
+ne se prêtent pas aux déterminations
+qui les rendraient
+capables d’être scientifiquement
+compris) ; d’autre part, la volonté
+des êtres raisonnables. — Il
+arrive à Kant d’étendre l’emploi
+du terme « Métaphysique » à
+tout ordre d’études qui se constitue
+a priori, par suite à la discipline
+propédeutique qui fixe les
+conditions et les limites de la
+connaissance rationnelle pure,
+c’est-à-dire à la Critique ; la Critique,
+dit-il à l’occasion, c’est la
+Métaphysique de la Métaphysique.
+Cependant, l’on ne saurait
+jamais appliquer le nom de
+Métaphysique à la Mathématique,
+bien que la Mathématique
+offre l’exemple d’une science qui
+se forme et s’étend sans l’intervention
+de l’expérience et que la
+Métaphysique ait été constamment
+tentée par cet exemple. La
+différence irréductible entre la
+Métaphysique et la Mathématique,
+c’est que la Métaphysique
+est une connaissance rationnelle
+par concepts, la Mathématique une connaissance rationnelle par
+construction de concepts : ce qui
+signifie que la Mathématique
+représente a priori dans l’intuition
+les objets qui correspondent
+à ses concepts, tandis que la
+Métaphysique, comme science
+théorique, use de concepts
+a priori uniquement pour opérer
+la synthèse de données empiriques,
+c’est-à-dire pour comprendre
+ses objets dans l’expérience.
+
+↑ Il semble que par la partie
+empirique de la science de la
+nature Kant entende à la fois
+la connaissance rationnelle appliquée
+à divers ordres de faits
+donnés et les connaissances qui
+lui paraissent incapables de recevoir
+ou qui jusqu’à présent n’ont
+reçu d’autre confirmation que
+celle de l’observation sensible :
+selon lui, toute théorie concernant
+la nature doit tendre à se
+fonder sur la Métaphysique de
+la nature. On comprend donc
+qu’en fait et en droit la partie
+empirique de la science de la
+nature, quoique radicalement
+distincte de la partie pure, communique
+avec elle. En ce sens, il
+arrive que certaines propositions
+qui ont commencé par être empiriquement
+reconnues méritaient
+par leur caractère intrinsèque
+d’être rationnellement établies.
+C’est ainsi que Newton
+avait accepté sur le simple témoignage
+de l’expérience la loi de
+l’action et de la réaction : Kant
+déclare l’avoir démontrée rationnellement
+en faisant voir que l’on
+peut déduire d’elle l’ordre des
+phénomènes dans la perception,
+tandis que l’on ne pouvait pas
+rigoureusement la conclure des
+phénomènes. D’un autre côté, les
+lois de la chimie, bien que Kant
+ait entrevu les conditions qui
+permettraient d’en faire une
+connaissance exacte, lui paraissent
+devoir rester en dernière
+analyse empiriques et constituer
+un art systématique plutôt
+qu’une science. Quoi qu’il en
+soit, les généralisations empiriques
+de l’espèce de celles que la
+science de la nature peut accepter
+provisoirement ou provoquer
+utilement, ne sauraient jamais
+convenir dans la morale, elles y
+introduiraient, en représentant
+ce qui doit être d’après ce qui est,
+un vice radical. (V. les
+Premiers Principes métaphysiques de la science de la nature, Préface, et la
+Métaphysique des mœurs, 1 partie, introduction, II.)
+
+↑ L’Anthropologie est pour
+Kant la science de la nature humaine,
+telle qu’elle est donnée
+dans l’expérience et telle aussi
+qu’elle apparaît dans l’histoire.
+Elle est ou théorique ou pratique.
+Comme connaissance théorique,
+elle se confond souvent dans le
+langage de Kant, avec la psychologie
+empirique, bien qu’elle ait
+un objet plus étendu et qu’elle
+emploie, non seulement l’observation
+interne, mais encore l’observation
+externe. Comme connaissance
+pratique, elle étudie
+la nature humaine dans son rapport
+à ses fins principales, qui
+sont le bonheur, l’habileté et la
+sagesse. Kant fit souvent de
+l’Anthropologie la matière de
+son enseignement ; l’Anthropologie
+qu’il enseignait était cette
+espèce d’Anthropologie pratique
+qui envisage les facultés humaines
+au point de vue des ressources
+qu’elles présentent pour
+assurer le bonheur de l’homme ou pour accroître par la culture
+son habileté. Kant publia lui-même
+ses leçons sous le titre
+d’Anthropologie au point de vue pragmatique.
+Des rédactions de deux de ces cours d’Anthropologie
+furent publiées par Starke,
+et l’on possède encore inédites
+plusieurs rédactions analogues.
+Cette espèce d’Anthropologie
+ne pouvait être dite pratique
+qu’au sens large de ce dernier
+mot, lorsque « pratique » signifie
+tout ce qui concerne les objets
+de l’action de l’homme en général
+(voilà pourquoi Kant intitulait
+son ouvrage Anthropologie au point de vue pragmatique) ;
+« pratique », au sens strict, se rapporte
+à la détermination morale de la
+volonté, et c’est dans ce dernier
+sens qu’il est question ici d’une
+Anthropologie pratique. Cette
+dernière sorte d’Anthropologie
+dont l’objet ne semble avoir été
+dans la pensée de Kant ni très
+rigoureusement ni uniformément
+déterminé, devait en tout
+cas avoir pour tâche générale
+d’étudier les conditions subjectives
+ainsi que les moyens divers
+qui favorisent ou entravent
+l’accomplissement du devoir.
+
+↑ Kant vise ici cette philosophie
+populaire qui prétendit
+continuer en Allemagne l’œuvre d’émancipation entreprise par
+Wolff, mais en la dégageant des
+formes didactiques et en l’appropriant à la culture superficielle
+d’un public plus étendu. Cette
+préoccupation dominante eut
+pour résultat de faire négliger
+toutes les questions d’un caractère trop spéculatif ou trop technique
+pour être aisément accessibles, de faire intervenir davantage
+la psychologie dans l’examen
+des problèmes moraux et religieux, de substituer à l’esprit de
+système un éclectisme sans rigueur qui mêlait aux conceptions de Wolff des idées venues
+de l’empirisme et du déisme anglais, ainsi que de la philosophie
+française du xviii siècle. Les
+principaux représentants de la
+philosophie populaire, dont
+quelques-uns d’ailleurs étaient
+personnellement estimés de Kant
+furent Mendelssohn, J.-J. Engel,
+Abbt, Sulzer, Garve, Feder, etc.
+
+↑ Kant soutient et, comme
+on le verra, répète volontiers que
+la loi morale vaut pour tout être
+raisonnable en général, et non
+pas seulement pour l’homme.
+Par là il ne tend point, ainsi qu’on
+le lui a reproché, à constituer
+une morale qui imposerait à
+l’homme une tâche surhumaine
+ou le modèle d’êtres surhumains :
+il veut surtout marquer que le
+principe de la morale ne doit
+point être tiré de l’observation
+de la nature humaine, laquelle
+ne fournit comme telle que
+des déterminations contingentes,
+mais du concept même de l’être
+raisonnable. C’est en tant que
+l’homme possède avec la raison
+une faculté d’agir spécifiquement
+distincte des tendances observables
+dans son existence empirique,
+qu’il est sujet de la moralité.
+La morale est donc bien faite
+pour l’homme, encore qu’elle ne
+s’appuie pas sur ce qui appartient
+à l’homme en dehors de la raison.
+
+↑ L’expérience peut parfois
+donner lieu à des propositions
+universelles, mais dont l’universalité
+alors n’est que comparative
+ou relative, non stricte ou absolue :
+on fait alors d’une règle
+constatée dans la plupart des
+cas une loi qui s’applique à tous,
+comme, par exemple, dans la
+proposition : Tous les corps sont
+pesants, ou comme dans cette
+autre-ci : Tous les hommes aspirent
+à être heureux, des propositions
+universelles de ce genre ne
+font qu’étendre l’emploi d’une
+vérité donnée dans les faits au
+lieu de dériver la vérité de cette
+faculté de connaître absolument
+certaine qu’est la raison.
+
+↑ La loi morale doit être
+absolument rationnelle, non seulement
+en elle-même, mais
+encore dans sa façon de se faire
+accepter du sujet qui l’accomplit ;
+comme nous le verrons, il ne
+suffit pas, pour agir moralement,
+d’agir conformément au devoir ;
+il faut agir encore en vertu d’un
+mobile qui soit tiré uniquement
+de la représentation de la loi.
+
+↑ Kant n’indique ici que
+rapidement ce rôle d’une faculté
+de juger ayant pour objet de
+décider si telle ou telle action,
+possible pour nous dans le monde
+où nous vivons, est ou n’est pas
+un cas qui tombe sous la règle ;
+il en traitera plus complètement
+dans cette partie du chap. ii du
+livre I de la Critique de la raison pratique
+qui est intitulée Typique de la raison pure pratique.
+
+↑ La représentation de la loi
+morale dans toute sa pureté est le
+mobile le plus efficace, mais on
+s’est tellement habitué à faire
+intervenir même en faveur du
+devoir des mobiles étrangers,
+qu’il faut aujourd’hui à l’éducateur
+moral une pénétration et
+une justesse d’esprit toutes spéciales
+pour révéler à l’âme l’intérêt
+qu’elle prend spontanément
+à la pure moralité et lui
+faire reconnaître la puissance
+qu’elle a de se déterminer par
+un mobile exclusivement moral.
+(V. Critique de la raison pratique : Méthodologie.)
+
+↑ C’est donc un motif pratique, autant qu’un motif théorique,
+qui milite en faveur de la
+constitution d’une Philosophie
+morale pure et d’une Métaphysique
+des mœurs ; la Philosophie
+morale qui mêle des principes
+empiriques aux principes purs
+ne peut que renforcer dans les
+esprits le penchant qu’ils ont à
+confondre le devoir avec le contentement
+des inclinations ou à
+rechercher pour l’accomplir l’assistance
+de mobiles sensibles.
+
+↑ Christian Wolff (1679-1754), dans une multitude d’ouvrages
+écrits en allemand et en
+latin, s’était appliqué à examiner
+et à résoudre méthodiquement
+l’ensemble des problèmes philosophiques
+et scientifiques en
+s’appropriant et en développant
+surtout les idées de Leibniz. —
+Sa Philosophia practica universalis methodo scientifica pertractata
+(2 vol.) avait paru en 1738-1739.
+La Philosophie pratique
+universelle est pour Wolff une
+science dont l’objet est de diriger
+les actions libres par les règles les
+plus générales ; elle s’occupe des
+moyens et des motifs autant que
+des fins des actions. (V. Prolegomena.)
+Bien qu’elle traite spécialement
+des actions morales, elle
+définit cependant et distingue
+les actions humaines en général
+d’après l’ordre de la nature. La
+loi morale repose sur une obligation
+naturelle, c’est-à-dire sur
+une obligation qui a sa raison
+suffisante dans l’essence et la
+nature de l’homme et des choses.
+« Lex dicitur regula, juxta quam
+actiones nostras determinare
+obligamur. » (§ 131, édit.
+de 1744. t. I, p. 115.)
+« Posita hominis rerumque essentia atque
+natura, ponitur etiam naturalis obligatio. » (§ 127, p. 114.)
+
+↑ Une volonté pure, c’est
+donc une volonté indépendante
+de toute condition empirique,
+une volonté qui reconnaît ou qui
+pose des principes exclusivement
+rationnels et qui est capable de
+se déterminer uniquement par
+eux. Tout être raisonnable a une
+volonté pure, même s’il a aussi
+une sensibilité. Mais tout être
+raisonnable n’a pas une volonté
+sainte, c’est-à-dire une volonté
+incapable de maximes contraires
+à la loi morale. La sainteté
+suppose que l’être raisonnable n’a
+plus à compter même avec la
+tentation du mal, qu’il ne peut
+se déterminer que par la raison,
+qu’il n’a donc pas de nature sensible.
+
+↑ C’est en 1788 que parut
+la Critique de la raison pratique ;
+dans la Préface et dans l’Introduction
+de son ouvrage, Kant
+expliquait pourquoi il l’avait
+intitulé Critique de la raison pratique,
+et non pas Critique de la raison pure pratique ;
+c’est qu’à ses yeux, en montrant que la
+raison pure est pratique par elle-même,
+en manifestant pour cela
+la corrélation et même en un
+sens l’identité qu’il y a entre le
+concept de la loi morale et celui
+de la liberté, la Critique ne doit
+appliquer sa censure et ses prohibitions
+qu’à l’idée d’une raison
+qui ne serait pas pure, c’est-à-dire
+d’une raison qui chercherait
+l’origine nécessaire de sa
+puissance pratique dans des conditions
+empiriques.
+
+↑ La Critique doit à la fois
+justifier les prétentions légitimes
+et condamner les usurpations
+illicites de la raison : voilà comment
+elle peut servir de fondement
+à la Métaphysique, dans le
+sens et aux conditions qui ont été
+indiqués plus haut. — En 1786,
+Kant publia les Premiers Principes métaphysiques de la science de la nature, en conformité avec les thèses de la Critique de la raison pure et selon la table qu’elle
+avait présentée des catégories.
+
+↑ Contrairement à bien des
+philosophes rationalistes qui pensent
+que la vérité morale ne se
+trouve dans la conscience commune
+que déformée et obscurcie,
+Kant estime que la conscience
+commune enveloppe l’idée juste
+et complète de la moralité, par
+suite qu’elle est toujours capable
+de la retrouver en elle-même ;
+aussi, pour découvrir le principe
+moral, procédera-t-il à l’analyse
+de la façon de juger propre à cette
+conscience. Cela d’ailleurs n’implique
+point que la conscience
+morale commune soit capable d’expliquer ce qu’elle contient :
+il devra y avoir un « passage de
+la connaissance rationnelle commune
+de la moralité à la connaissance
+philosophique ».
+
+↑ Kant emploie le terme
+« dialectique » dans un sens dérivé
+sans doute de celui qu’Aristote
+assignait à ce mot quand il opposait
+à la Dialectique, qui a pour
+objet les raisonnements portant
+sur les opinions simplement probables,
+l’Analytique, qui a pour
+objet la démonstration, c’est-à-dire
+la déduction partant de prémisses
+vraies, Kant toutefois a
+soin de remarquer que la Dialectique,
+telle qu’il l’entend,
+c’est-à-dire comme logique de
+l’apparence, n’est en aucune
+façon une théorie de la vraisemblance ;
+car la vraisemblance
+n’est pour notre connaissance
+qu’une imperfection de degré,
+et peut, avec des moyens d’information
+plus complets, ou
+mieux appliqués, faire place à la
+certitude. La Dialectique, et,
+pour spécifier plus exactement,
+In Dialectique transcendantale,
+traite de l’illusion enfermée dans
+cette connaissance que nous
+paraissons acquérir pour l’usage
+des concepts purs hors des
+limites de l’expérience. Cette
+illusion, naturelle et inévitable,
+vient de ce que la raison considère
+comme objectives et applique
+à la détermination de choses
+en soi des règles qui marquent
+uniquement la direction nécessaire
+de son activité subjective
+(V. Critique de la raison pure :
+Dialectique transcendantale, Introduction.)
+Dans ce passage
+Kant emploie le mot « dialectique »
+adjectivement, pour
+exprimer cette faculté d’illusion
+propre à la raison, dont traite la
+Dialectique transcendantale.
+
+↑ La Critique de la raison pratique
+s’efforcera de montrer
+que raison théorique et raison
+pratique concordent en ce que les
+idées conçues par la première,
+mais sans pouvoir être légitimement
+érigées en connaissances
+(idées de la liberté, de l’immortalité,
+de Dieu) sont précisément
+des idées dont la seconde a
+besoin et auxquelles, à ce titre,
+se rapportent des objets. En
+outre, pour l’appréciation de
+l’intérêt que respectivement elles
+présentent, la raison théorique
+et la raison pratique admettent
+entre elles un rapport de hiérarchie
+selon lequel la raison
+pratique la suprématie sur la
+raison spéculative.
+
+↑ La Métaphysique des mœurs,
+telle que Kant l’a publiée
+plus tard (1797), se réfère en
+effet aux principes moraux sans
+examiner expressément les problèmes
+qu’ils soulèvent pour la
+Critique ; et comme elle s’applique
+surtout à déduire les droits
+et les devoirs particuliers de
+l’homme, elle développe des
+notions bien plus aisément accessibles.
+
+↑ « Un critique, qui voulait
+trouver quelque chose à dire
+contre cet écrit (les Fondements de la Métaphysique des mœurs),
+a rencontré mieux qu’il n’a sans
+doute pensé lui-même, en prétendant
+qu’on n’y établissait
+aucun principe nouveau, mais
+seulement une formule nouvelle
+de la moralité. Car qui prétendrait
+apporter un nouveau principe
+de la moralité, et être en
+quelque sorte le premier à le
+découvrir ? Comme si le monde
+était resté avant lui dans l’ignorance
+ou dans l’erreur complète
+sur ce qu’est le devoir ! Mais
+celui qui sait ce que signifie pour
+le mathématicien une formule
+qui détermine très exactement
+avec une immanquable certitude
+ce qu’il faut faire pour traiter
+un problème, celui-là ne regardera
+pas comme quelque chose
+d’insignifiant et d’inutile une formule
+qui jouerait ce rôle pour
+tout devoir en général. »
+(Critique de la raison pratique : Préface.)
+
+↑ Dans les deux premières
+sections Kant pratique donc la
+méthode analytique, et dans la
+dernière la méthode synthétique.
+La différence des deux méthodes
+consiste en ce que la méthode
+analytique ou régressive part de
+faits donnés pour en dégager les
+conditions fondamentales
+(a principiatis ad principia),
+tandis que la méthode synthétique ou progressive
+part de ces conditions
+telles qu’elles sont dans la raison
+pour en déduire les faits donnés
+(a principiis ad principiata). Dans
+la Critique de la raison pure, Kant
+a employé la méthode synthétique :
+dans les Prolégomènes, la
+méthode analytique. (V. Prolégomènes,
+§§ 4 et 5.) C’est-à-dire
+que dans les Prolégomènes il
+prend pour point de départ le
+fait que la mathématique pure
+et la physique pure existent
+comme sciences, et comme
+sciences certaines ; et il essaye
+de retrouver par l’analyse de ces
+sciences données en fait les conditions
+qui en expliquent la possibilité.
+Au contraire, dans la
+Critique de la raison pure, il part
+des éléments a priori de l’esprit,
+considérés comme conditions
+de l’exercice de la faculté de
+connaître, pour en déduire la possibilité
+de sciences telles que la
+mathématique pure et la physique
+pure. La méthode analytique
+est plus populaire, mais
+moins rigoureuse, puisqu’elle
+s’appuie sur un fait dont elle
+accepte préalablement la légitimité
+sans la prouver ; la méthode
+synthétique est plus difficile
+à suivre, mais plus convaincante,
+parce que, prenant la connaissance
+à sa source même, elle
+montre comment l’acte de penser
+doit nécessairement produire la
+science. Pour ce qui est de la
+morale, la méthode analytique
+consiste à partir de la conscience
+commune pour dégager les conditions
+suprêmes de sa façon de
+juger ; elle suppose donc que
+cette conscience enveloppe la
+vérité ; elle parvient à l’idée de
+l’impératif catégorique, à celle
+de l’autonomie de la volonté,
+finalement au concept de liberté.
+La méthode synthétique part
+de l’idée de la raison pratique et
+du concept dans lequel cette
+idée s’exprime, c’est-à-dire du
+concept de liberté, pour expliquer
+par là comment un impératif
+catégorique est possible et déduire
+de là la validité de la conscience
+commune.
+
+﻿Il faut remarquer que la méthode
+analytique ainsi entendue
+est une méthode abstraite ou
+métaphysique, qui consiste, non
+pas à émettre a part des éléments
+concrets, également donnés et
+de la même façon, mais à dégager
+du donné pour les isoler des éléments
+qui expliquent précisément
+qu’il soit donné pour nous,
+qui jouent en lui et par rapport à
+lui le rôle de conditions, déterminables
+par des concepts purs.
+L’analyse du mathématicien et
+celle du chimiste offrent des analogies
+avec cette analyse du métaphysicien
+et ont pu certainement
+la suggérer ; mais ce sont seulement
+des analogies qu’elles présentent avec elle, non une ressemblance
+complète (V. la Conclusion de la Critique de la raison pratique.)

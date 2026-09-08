@@ -1,6 +1,13 @@
 .venv/
 __pycache__/
 *.pyc
-data/
 .cache/
 logs/
+
+# data/docs/ EST versionné : c'est la couche stable, elle contient les textes
+# téléchargés depuis Wikisource (non reproductibles sans recrawl) et surtout
+# l'espace d'ancrage des spans du jeu d'éval — sans elle la vérité terrain ne
+# désigne rien.
+# Le reste se recalcule en local et ne mérite pas d'être versionné :
+data/chunks/
+data/index/

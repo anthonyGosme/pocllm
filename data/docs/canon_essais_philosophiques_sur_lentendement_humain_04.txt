@@ -1,0 +1,770 @@
+[[p.107]]
+
+### QUATRIEME ESSAI.
+
+Doutes sceptiques touchant les opérations de l’entendement
+
+#### Premiere Partie.
+
+Tous les objets dont la raison humaine
+se propose la recherche, se divisent naturellement
+en deux classes ; la premiere comprend
+les relations des idées, & la seconde
+les choses de fait. À la première appartiennent
+toutes les proposions de géométrie,
+d’algèbre, & d’arithmétique, toutes celles
+en un mot qui sont, ou intuitivement, ou
+démonstrativement, certaines. Dire que le quarré de l’hypotenuse est égal aux quarrés des deux côtés, c’est exprimer une relation
+entre des figures. Dire que trois fois cinq sont égaux à la moitié de trente, c’est en exprimer
+une entre des nombres. Les propositions
+de ce genre se découvrent par de simples
+opérations de la pensée, & ne dépendent
+en rien des choses qui existent dans [[p.108]] l’Univers. N’y eut-il, ni cercle, ni triangle
+dans la nature, les théorèmes démontrés par
+Euclide n’en conserveroient pas moins leur
+évidence & leur éternelle vérité.
+
+Ce n’est pas ainsi que s’établit la certitude
+des choses de fait, qui composent la seconde
+classe des objets sur lesquels la raison s’exerce :
+quelque grande que puisse être cette certitude,
+elle est d’une nature différente. Le
+contraire de chaque fait demeure toujours
+possible, & ne pouvant jamais impliquer
+contradiction, l’esprit le conçoit aussi distinctement
+& aussi facilement que s’il étoit
+vrai & conforme à la réalité. Le soleil se
+lèvera, & le soleil ne se lèvera pas, sont deux
+propositions également intelligibles, & aussi
+peu contradictoires l’une que l’autre. On entreprendroit
+en vain de démontrer la fausseté
+de la derniere : si elle étoit démonstrativement
+fausse, elle impliqueroit contradiction
+& l’esprit ne pourroit jamais se la représenter
+d’une maniere distincte.
+
+S’il y a donc une évidence qui nous certifie
+les existences réelles, & sur laquelle reposent
+ces choses de fait qui ne sont, ni [[p.109]] présentes aux sens, ni enregistrées dans la mémoire,
+sa nature est un objet très-propre à
+exciter notre curiosité. On ne trouve pas
+que, ni les anciens, ni les modernes, se
+soient fort appliqués à cultiver cette branche
+de la philosophie ; & cela doit rendre d’autant
+plus excusables les doutes & les erreurs
+où nous pourrons tomber en travaillant à
+une tâche aussi importante en nous engageant,
+sans guide & sans conseil dans des
+sentiers aussi raboteux. Ces doutes même &
+ces erreurs peuvent devenir utiles, en servant
+à rallumer en nous le desir de connoître,
+& en y détruisant cette sécurité &
+cette foi implicite, qui sont si funestes au
+raisonnement & à la liberté de penser. S’il
+arrive que nous découvrions des défauts dans
+la philosophie commune, je présume que
+cette découverte, loin de nous abattre, nous
+animera plutôt à tenter d’arriver à quelque
+chose de plus parfait & de plus satisfaisant.
+
+Les raisonnemens que nous formons sur
+les choses de fait paroissent avoir tous pour
+fondement la relation qui a lieu entre les
+causes & les effets. Elle est en effet la seule [[p.110]] qui puisse nous transporter au-delà de l’évidence
+qui accompagne les sens & la mémoire.
+Demandez à un homme pourquoi
+il croit un fait qui se passe dans un lieu
+où il n’est pas, par exemple, que son ami
+séjourne à la campagne, ou qu’il voyage
+en France : il vous donnera pour raison un
+autre fait ; il alléguera une lettre qu’il a reçue
+de lui, des résolutions qu’il lui a vu prendre,
+des promettes qu’il lui a entendu faire.
+Je trouve, dans une isle déserte, une montre,
+ou quelqu’autre ouvrage de mécanique : aussitôt
+je conclus que cette isle a été découverte
+avant que j’y abordasse. Tous les autres raisonnemens
+qui concernent des faits, sont de
+la même nature ; on y suppose toujours une
+liaison entre le fait présent & celui qu’on en
+déduit par maniere de conséquence. S’il n’y
+avoit point de liaison, toutes nos inductions
+seraient précaires. Pourquoi une voix articulée,
+& un discours raisonnable, entendu
+dans un lieu ténébreux, m’assurent-ils de la
+présence d’un homme, C’est à cause que ce
+sont-là des actes affectés à l’organifation humaine ?
+Analysez tous les raisonnemens de [[p.111]] cette espece : vous les trouverez tous appuyés
+sur la relation qui subsiste entre les causes
+les effets, & cette relation se présentera toujours,
+ou prochaine ou éloignée, ou directe
+ou collatérale. C’est ainsi que la chaleur & la
+lumière sont des effets collatéraux du feu, &
+qu’on peut légitimement inférer l’existence de
+l’un de l’existence de l’autre.
+
+Pour satisfaire donc l’esprit sur la nature de
+cette évidence qui nous certifie les choses de
+fait, il est besoin d’examiner la route que
+nous tenons dans la recherche des causes &
+des effets.
+
+Je hasarderai ici une proportion que je
+crois générale & sans exception ; c’est qu’il
+n’y a pas un seul cas assignable, où la connoissance
+de rapport, qui est entre la cause &
+l’effet puisse être obtenue à priori; mais qu’au
+contraire cette connoissance est uniquement
+due à l’expérience, qui nous montre certains
+objets dans une liaison confiante. Présentez
+au plus fort raisonneur qui soit sorti des mains
+de la Nature, à l’homme qu’elle a doué de
+la plus haute capacité, un objet qui lui soit
+entièrement nouveau ; laissez-lui examiner [[p.112]] scrupuleusement toutes ses qualités sensibles
+je le défie, après cet examen, de pouvoir indiquer
+une seule de ses causes, ou un seul de
+ses effets. Les facultés de l’ame d’Adam nouvellement
+créé, eussent-elles été plus parfaites
+encore qu’on ne les décrit, ne le mettoient
+pas en état de conclure de la fluidité & de la
+transparence de l’eau, que cet élément pourroit
+le suffoquer, ni de la lumière & de la
+chaleur du feux, qu’il seroit capable de le réduire
+en cendres. Il n’y a point d’objet qui
+manifeste par ses qualités sensibles les causes
+qui l’ont produit, ni les effets qu’il produira
+à son tour : & notre raison, dénuée de secours
+de l’expérience, ne tirera jamais la
+moindre induction qui concerne les faits &
+les réalités.
+
+Cette proposition : Que ce n’est pas la raison
+mais l’expérience qui nous instruit des
+causes & des effets, est admise sans difficulté,
+toutes les fois que nous nous souvenons du
+tems où les objets dont il s’agit nous étoient
+entièrement inconnus, puisqu’alors nous nous
+rappelions nécessairement l’incapacité totale
+où nous étions de prédire, à leur première
+vue, [[p.113]] vue, les effets qui en devoient résulter. Montrez
+deux pièces de marbre poli à un homme
+qui ait autant de bon sens & de raison qu’on
+en peut avoir, mais qui n’ait aucune teinture
+de Physique : il ne découvrira jamais quelles
+s’attacheront l’une à l’autre, avec une force
+qui ne permettra pas de les séparer en ligne
+directe, sans faire de très-grands efforts ;
+pendant qu’elles ne résisteront que légèrement
+aux pressions latérales. On attribue
+aussi, sans peine, à l’expérience, la découverte
+de ces événemens qui ont peu d’analogie
+avec le cours connu de la Nature : personne
+ne s’imagine que l’explosion de la
+poudre à canon, ou l’attraction de l’aimant,
+eussent pu être prévues en raisonnant à priori.
+Il en est de même lorsque les effets dépendent
+d’un mécanisme fort compliqué, ou d’une
+structure cachée ; en ce cas encore on en revient
+aisément à l’expérience. Qui se vantera
+de pouvoir expliquer, par des raisons tirées
+des premiers principes, pourquoi le lait & le
+pain sont des nourritures propres pour l’homme,
+& n’en sont pas pour le lion ou pour le
+tigre ? [[p.114]] Mais cette vérité ne nous paroît pas aussi
+évidente au premier coup-d’œil, lorsqu’il
+s’agit d’événemens avec lesquels nous sommes
+familiarisés depuis notre naissance, qui
+se rapportent étroitement au cours ordinaire
+de la Nature, & que nous supposons dépendre
+des qualités simples des objets, sans tenir
+à la structure intérieure de leurs parties :
+nous sommes enclins à nous croire capables
+de découvrir ces effets par le simple usage de
+la raison, sans réclamer le secours de l’expérience ;
+nous nous faisons même illusion
+jusqu’à croire, que quand à l’heure qu’il est
+nous ne serions que paroître dans ce monde,
+nous pourrions pourtant juger, du premier
+coup, qu’une bille, étant poussée contre une
+autre, la mettroit en mouvement, prononcer
+là-dessus avec certitude, sans avoir
+besoin d’attendre l’événement. Telle est l’influence
+de la coutume ; en exerçant l’empire
+le plus despotique, elle nous déguise notre
+ignorance naturelle, que dis-je ? elle se cache
+à elle-même,& paroît ne prendre aucune part
+aux choses, précisément parce qu’elle y domine
+au plus haut degré. [[p.115]] Les réflexions suivantes suffiront peut-être
+pour nous convaincre que toutes les loix de la
+nature, & toutes les opérations des corps,
+sans en excepter aucune, sont connues par
+la seule expérience. Supposons qu’un objet
+étant donné, nous soyions requis de déterminer,
+sans consulter aucune observation
+précédente, l’effet qu’il doit produire : de
+quelle façon, je vous prie, faudra-t-il s’y
+prendre ? Je ne vois autre chose à faire qu’à
+imaginer quelque événement au hasard, &
+à le donner ensuite pour un effet de la chose
+proposée ; procédé absolument arbitraire,
+comme chacun peut s’en appercevoir. La
+recherche la plus exacte, l’examen le plus
+profond, ne nous peut faire lire un effet
+dans sa prétendue cause : ce sont-là deux
+choses totalement différentes, & qui ne se
+rencontrent jamais ensemble.’Le mouvement
+de la seconde bille est un événement tout-à-fait
+détaché du mouvement de la première :
+& il ne se trouve pas la moindre circonstance
+dans l’un, qui puisse suggérer l’idée de
+l’autre. Une pierre, ou une piece de métal,
+est soutenue dans l’air : ôtez-lui son support, [[p.116]] elle tombera ; mais, à considérer la chose à
+priori, que trouvons-nous dans la situation
+de la pierre qui puisse nous faire naître la
+notion d’en-bas plutôt, que celle d’en-haut,
+toute autre direction ?
+
+Et si, dans les opérations naturelles, tous
+les effets qu’on assigne, sans avoir préalablement
+consulté l’expérience, ne sont que des
+imaginations arbitraires ; il faut juger de
+même du lien par lequel on suppose un effet
+tellement dépendant de sa prétendue cause,
+qu’il soit imposible à tout autre effet d’en
+résulter. Je vois, par exemple, sur un billard
+une bille se mouvant en ligne droite, pour
+en aller choquer une autre qui est en repos :
+je suppose, par surabondance, qu’il me
+vienne accidentellement dans l’esprit, que
+l’effet de contact ou de l’impulsion, fera un
+mouvement produit dans la seconde bille ;
+je demande si je n’aurois pas pu, avec le
+même dtoit, concevoir cent autres événemens
+toutà-fait différens, qui eussent également
+pu résulter de cette cause ? Les billes
+ne pouvoient-elles pas demeurer toutes deux
+dans un repos absolu ? La première, ne pouvoit-elle [[p.117]] pas retourner en ligne droite,
+comme elle étoit venue ? Ne pouvoit-elle
+pas se réfléchir dans une autre ligne en suivant
+une autre direction quelconque ? Ces
+suppositions n’ont rien d’absurde ni d’inconcevable :
+pourquoi donc adopterions-nous
+l’une préférablement aux autres, qui sont
+tout aussi conséquentes, & qui ne sont pas
+plus difficiles à concevoir ? Qu’on argumente
+à priori tant que l’on voudra ; on ne fera jamais
+en état de rendre raison d’une pareille
+préférence.
+
+Pour récapituler en peu de mots, je dis
+que tout effet est un événement distinct
+séparé de la cause ; il ne peut donc être apperçu
+dans sa cause, & les idées qu’on s’en
+voudra former à priori feront arbitraires. Et
+lors même que cet effet sera connu, sa liaison
+avec la cause doit paraître également arbitraire,
+puisque l’entendement concevra
+toujours un grand nombre d’autres effets tout
+aussi naturels, & qui ne répugnent pas davantage.
+Il n’y a donc pas un seul cas où, sans
+l’aide de l’expérience, on puisse déterminer
+les événemens, & en inférer l’existence, [[p.118]] soit en qualité de causes, soit en qualité d’effets.
+Ainsi, ce ne sont-là que de vaines prétentions
+auxquelles il faut renoncer.
+
+Nous comprenons maintenant pourquoi
+les philosophes sages & modérés ne se vantent
+jamais de pouvoir assigner les premières
+causes, ne fût-ce que d’une seule des opérations
+de la nature ; pourquoi ils ne tentent
+pas même de nous dévoiler, dans un seul
+effet produit par les causes que l’univers renferme,
+l’action de la puissance productrice.
+Ils conviennent que le dernier effort de la
+raison humaine se réduit à simplifier les principes
+producteurs des phénomènes naturels,
+& à résoudre, avec le secours de l’analogie,
+de l’expérience, & des observations, la foule
+des effets individuels en un petit nombre de
+causes générales, mais les causes de ces causes
+nous échapperont toujours, & jamais nous
+n’en trouverons une explication satisfaisante.
+Les derniers ressorts, les premiers principes,
+voilà l’écueil éternel de la curiosité de l’homme,
+& des recherches de spéculateur. Élasticité,
+pesanteur, cohésion des parties, communication
+impulsive de mouvement, voilà [[p.119]] nos bornes : il n’est pas vraisemblable que
+nous puissions aller plus loin, trop heureux
+encore si, par un examen précis, & par des
+raisonnemens justes, nous parvenons à faire
+remonter les phénomènes jusqu’à ces principes
+généraux, ou à les en approcher. La physique,
+dans sa plus haute perfection, ne fait
+que reculer un peu notre ignorance : la morale
+& la métaphysique ne servent peut-être
+qu’à nous la montrer dans une plus vaste étendue :
+le résultat total de la philosophie, c’est de
+nous apprendre combien nous savons peu de
+chose, & de nous convaincre de notre insuffisance.
+Nous avons beau nous révolter, faire
+des efforts pour surmonter ces inconvéniens,
+ou pour les éviter ; quelque détour que nous
+prenions, ils nous arrêtent au passage.
+
+La géométrie même, appelée au secours
+des sciences naturelles, ne sauroit remédier
+à ce défaut : cette science, si justement célébrée
+pour l’exactitude de ses raisonnemens,
+n’est pourtant pas en état de nous conduire
+jusqu’à la connoissance des premières causes.
+Toutes les parties des mathématiques mixtes
+se fondent sur la supposition de certaines loix [[p.120]] établies dans la nature : & les abstractions
+géométriques ne peuvent avoir que deux
+usages ; ou elles aident l’expérience dans la
+découverte de ces loix, ou elles déterminent
+leur influence sur les cas particuliers dans
+lesquels cette influence dépend d’un degré
+précis de distance & de quantité. C’est, par
+exemple, une des loix de mouvement découverte
+par l’expérience, que la force d’un
+corps qui se meut suit la raison composée de
+sa masse avec sa vîtesse ; d’où l’on conclut
+que la moindre force pourra vaincre le plus
+grand obstacle, & lever les poids les plus
+énormes, pourvu que par quelque mécanisme
+artificiel nous puissions augmenter
+sa vîtesse jusqu’à un certain point, je veux
+dire, à ce point qui la rend supérieure à
+la force opposée. Or, que fait ici la géométrie !
+Elle nous prête son assistance dans
+l’application de cette loi, en traçant de justes
+dimensions des parties qui peuvent entrer
+dans la composition de toutes sortes de machines,
+& des différentes figures qu’on peut
+leur donner. Mais la découverte de la loi
+même n’est due qu’à l’expérience, & toutes [[p.121]] les abstractions du monde ne nous sauroient
+avancer d’un seul pas dans cette recherche.
+En envisageant un de ces objets que nous
+appelons cause, & en raisonnant sur lui à
+priori, indépendamment de toute observation,
+nous ne voyons absolument rien qui
+nous suggere la notion distincte d’un second
+objet que nous puissions nommer l’effet du
+premier encore moins pourrons-nous comprendre
+cette liaison indissoluble & inaltérable
+que l’on suppose entre les deux objets.
+Il faudroit assurément une sagacité bien supérieure
+à la nôtre, pour trouver que le
+cristal est produit par la chaleur, tandis que
+la glace est produite par le froid, pour le
+trouver, dis-je, par un simple raisonnement,
+& sans avoir préalablement étudié les diverses
+opérations des qualités sensibles.
+
+#### Seconde Partie.
+
+Nous ne sommes pas fort avancés par
+rapport à notre première question : loin
+d’arriver à une solution qui soit au moins
+passable, nous n’en imaginons aucune qui
+ne fasse naître de nouvelles questions & de [[p.122]] nouveaux embarras, & qui ne nous renvoie
+à des recherches ultérieures, On veut savoir,
+quelle est la source commune des raisonnemens
+qui roulent sur des choses de fait ? Nous
+croyons répondre en disant qu’ils sont tous
+fondés sur la relation qui est entre l’effet & la
+cause. Mais, poursuit-on, quel est le fondement
+de tous les raisonnemens que vous faites
+touchant cette relation même, & de toutes
+les conséquences que vous en déduisez ? Nous
+disons que c’est l’expérience. Or, supposons
+qu’un de ces questionneurs, qui veulent tout
+éplucher, continue à nous demander ; quelle
+est la base sur laquelle, s’appuient ses conclusions
+que vous tirez de l’expérience ? Nous
+voilà engagés dans une question toute neuve,
+bien plus embrouillée encore, & bien plus
+difficile à résoudre. Un philosophe qui affiche
+de grands airs, & prend un ton suffisant, le
+charge d’une terrible tâche. Il est à plaindre,
+sur-tout s’il rencontre en son chemin des gens
+dont la curiosité maliciense se plaise à le tourmenter :
+ils le pousseront d’un défilé dans l’autre,
+ils forceront tous ses retranchemens,
+n’auront point de repos qu’ils ne l’aient [[p.123]] réduit à quelque dilemme dangereux. Voulez-vous
+prévenir une pareille disgrace ? Soyez
+modeste dans vos prétentions, découvrez le
+premier les difficultés que vous prévoyez
+pouvoir vous être objectées ; on vous tiendra
+compte de cette ingénuité, & votre ignorance
+même deviendra une espece de mérite.
+
+Ce que je me propose dans cet essai, ne
+me coûtera pas de grands efforts ; je ne
+ferai qu’une réponse négative à la nouvelle
+question qui vient d’être proposée. Si l’on
+suppose que l’expérience nous ait actuellement
+fourni les notions de cause & d’effet ;
+je nierai encore que les conclusions que nous
+tirons de cette expérience puissent être fondées
+sur le raisonnement, ou sur une opération
+intellectuelle. Je vais tâcher d’expliquer
+& de défendre ma these.
+
+Il faut convenir, quelqu’envie qu’on eût
+de le nier, que la nature nous tient dans
+un grand éloignement de tous ses secrets.
+Elle nous dérobe constamment toutes ces
+forces & tous ces principes d’où naît l’influence
+réciproque des objets, elle ne nous
+laisse entrevoir qu’un petit nombre des qualités [[p.124]] les plus superficielles de ces objets ;
+Nos sens nous sont connoître la couleur, le
+poids, & la consistance de pain, mais ni
+les sens, ni la raison, ne sont capables de
+nous instruire des qualités qui le rendent une
+nourriture propre à la conservation de corps
+de l’homme. C’est par la vue ou par le toucher
+que nous acquérons l’idée de mouvement
+actuel ; mais nous ne saurions nous former
+l’idée même la plus éloignée de cette
+merveilleuse force qui est capable d’opérer
+un changement perpétuel de lieu, & que
+les corps ne perdent jamais qu’en la communiquant
+à d’autres corps. Cependant,
+nonobstant l’ignorance où nous sommes de
+ces premières forcesde la nature, nous
+ne laissons pas de les croire semblables par
+tout où nous remarquons de la ressemblance
+entre les qualités sensibles ; & nous nous attendons,
+dans ces cas-là, à des effets pareils
+à ceux que nous avons déjà expérimentés. [[p.125]] On nous présente un corps qui ressemble,
+par la couleur & par la consistance, au pain
+que nous avons mangé d’autres fois ; loin
+de faire la moindre difficulté de répéter
+l’expérience, nous comptons, avec une
+entière certitude, d’en recevoir la même
+nourriture, & le même soutien. C’est
+cette opération de l’ame dont je voudrois
+bien savoir le fondement. Il est incontestable
+qu’on n’apperçoit aucune liaison
+entre les qualités sensibles & ces forces secretes :
+il n’y a donc rien de connu dans
+leur nature qui puisse porter l’esprit à conclure
+qu’elles doivent être constamment &
+régulièrement jointes ensemble. L’expérience
+du passé ne déposant que par rapport à ces
+objets déterminés, & à ce temps précis dont
+elle a pu juger ; de quel droit peut-on la
+transporter à d’autres tems, & à d’autres
+objets, dont la ressemblance avec les précédens
+pourroit bien, à tout prendre, n’être
+qu’apparente ? C’est là le grand point sur
+lequel j’insiste. Le pain que je mangeois, il
+y a quelque tems, me nourrissoit : cela revient
+à dire, qu’un corps doué de telles [[p.126]] qualités sensibles, étoit alors pourvû de telles
+ou telles vertus secrettes ; mais s’enfuit-il que
+d’autre pain doive me nourrir aussi dans
+un autre tems, ou que les mêmes vertus
+doivent toujours se rencontrer avec des
+qualités semblables ? Il n’y a pas ici une
+ombre de nécessité. Au moins ne peut-on
+s’empêcher de convenir que cette conséquence,
+cette suite de pensées, cette induction,
+sont des choses ou nous ne voyons
+pas clair. Il s’en faut bien que la proposition ;
+j’ai toujours trouvé un tel objet suivi tel
+effet, soit la même que celle-ci ; je prévois
+que tous les autres objets qui se ressemblent
+par leurs apparences, se ressembleront aussi
+par leurs effets. J’accorderai, si cela vous
+fait plaisir, que la seconde peut être justement
+déduite de la première, & je fais qu’en
+effet on l’en déduit tous les jours ; mais si
+vous prétendez outre cela que cette conclusion
+tient à une chaîne de raisonnemens,
+je vous somme de me les produire. La liaison
+des deux proportions n’est point apperçue
+par une évidence intuitive ; si c’est donc l’ame
+qui la trouve en raisonnant, il faut [[p.127]] absolument un terme moyen pour former & fonder
+ce raisonnement ; or quel est-il, En
+vérité j’ai l’esprit trop borné pour le découvrir.
+C’est à ceux qui affirment l’existence,
+& qui lui rapportent toutes nos conclusions
+sur les choses de fait, à me l’indiquer.
+
+Quoique l’argument que je viens de proposer,
+soit négatif, je suis persuadé qu’avec
+le tems il en naîtra une pleine conviction ;
+Il ne faut pour cela qu’un bon nombre de
+philosophes habiles & pénétrans, qui, ayant
+médité sur-ce sujet, reconnoissent comme
+moi, qu’on ne sauroit découvrir aucune
+connexion, aucune notion intermédiaire,
+qui puisse soutenir l’entendement dans la
+conclusion mentionnée. Aujourd’hui que la
+question est encore toute neuve, il est assez
+naturel que le lecteur, se défiant de sa pénétration,
+n’ose conclure hardiment qu’une
+preuve n’existe point, par la seule raison
+que son examen & ses recherches ne la lui
+font pas connoître. C’est ce qui nous engage
+à hasarder une entreprise plus difficile,
+savoir celle de faire la revue de toutes les [[p.128]] branches des connoissances humaines & de
+montrer en détail qu’aucune d’entr’elles ne
+nous fournit la preuve desirée.
+
+On peut diviser tous les raisonnemens
+en deux gentres, en raisonnemens démontratifs,
+qui concernent les relations des
+idées, & en raisonnemens moraux ou probables,
+qui concernent les choses existantes
+& les faits. Il me paroît évident que
+la démonstration n’a point lieu dans le cas
+que nous considérons, puisqu’il ne répugne
+en aucune façon, ni que le cours de la nature
+soit changé, ni que les objets semblables
+en apparence à ceux sur lequels nous
+avons fait des expériences, produisent des
+effets différerens, & mêmes, contraires. Ne
+me fais-je pas une idée claire & distincte
+d’un corps, tombant des nues, & semblable
+à la neige à tout autre égard, qui
+auroit le goût de sel, qui affecteroit
+le toucher comme la flamme ? Y a-t-il au
+monde une propositipn plus intelligible que
+de dire que les arbres fleurissent en décembre
+& en janvier, & sont dépouillés
+dans les mois de mai & de juin. Or les
+choses [[p.129]] choses intelligibles, les choses que l’on conçoit
+distinctement, ne peuvent jamais impliquer
+contradiction, & leur fausseté n’est
+jamais démontrable par des argumens abstraits,
+formés à priori.
+
+Si nous étions donc instruits par des argumens,
+à nous fier sur l’expérience du
+passé, jusqu’à en faire la regle des jugemens
+que nous portons de l’avenir ; il faudroit en
+vertu de notre division, que ces argumens
+ne fussent que de simples probabilités,
+comme sont ceux qui concernent les choses
+de fait, & les objets réels; mais qu’il n’y
+en ait point ici de cette nature, c’est ce
+qui doit paroître manifeste à quiconque reconnoîtra
+la solidité de l’explication que nous
+avons donnée de cette classe de raisonnemens.
+Nous avons dit, que tout argument concernant
+les choses existantes est fondé sur la
+relation de cause & d’effet. Nous avons
+ajouté, que l’expérience seule nous fait
+connoître cette relation, & que toute conclusion
+expérimentale s’appuie sur la supposition
+que l’avenir fera conforme au passé.
+Vouloir donc prouver cette dernière supposition [[p.130]] par des probabilités, par des argumens
+relatifs aux objets existans, c’est évidemment
+commettre un cercle, c’est poser
+en fait ce qui est en question.
+
+Dans le vrai, tout argument tiré de l’expérience
+se fonde sur la similitude que nous
+découvrons entre les objets naturels : c’est elle
+qui fait que nous attendons des effets semblables
+à ceux que nous avons vu résulter
+de pareils objets. Et quoiqu’on ne puisse,
+sans renoncer au bon sens, prétendre disputer
+ce droit à l’expérience, & abandonner
+ce grand guide de la vie humaine ; on ne sauroit
+pourtant blâmer la curiosité d’un philosophe,
+lorsqu’il veut au moins approfondir
+ce principe qui donne tant de poids à
+l’expérience, & qui nous fait retirer de si
+grands avantages de cette similarité que la
+nature a répandue dans les diverses productions.
+De la ressemblance des causes nous concluons
+celle des effets ; c’est-là le sommaire de
+toutes nos conclusions expérimentales. Or,
+Si cette conséquence étoit l’ouvrage de la
+raison, il me semble quelle devroit être
+tout aussi parfaite la première fois, & dans [[p.131]] un seul cas donné, qu’elle pourroit le devenir
+après le cours le plus long d’expériences
+réitérées. Mais il en est tout autrement :
+rien ne ressemble davantage que les
+œufs ; personne cependant n’ira se promettre,
+sur cette similitude apparente, de trouver
+dans tous le même goût. Dans chaque genre,
+ce n’est qu’après une longue suite d’expériences
+homogènes que nous acquérons une
+ferme assurance, une sécurité entière, par
+rapport aux événemens particuliers. Mais
+quelle est donc cette chaîne de raisonnemens
+qui nous force à tirer d’un seul cas
+donne, des conclusions si différentes de
+celles que nous tirons de cent cas de la
+même nature, & qui ne different en rien
+du premier ; Ce n’est pas uniquement pour
+faire naître des difficultés, c’est dans le
+dessein de m’instruire, que je propose cette
+question. Je ne puis trouver, je ne puis
+même imaginer le raisonnement dont il
+s’agit mais mon ame est ouverte à l’instruction ;
+il n’y a qu’à prendre la peine de
+l’y introduire.
+
+Me dira-t-on que d’une certaine quantité [[p.132]] d’expériences uniformes nous inférons
+qu’il y a une liaison nécessaire entre les qualités
+sensibles & les vertus secretes ; J’avouerai
+que je ne vois en ceci que la même
+difficulté, répétée en d’autres termes. La question
+revient toujours, sur quelle suite d’argumens
+cette induction est-elle fondée ? Quel
+est le terme moyen ? Où sont les idées qui
+servent à réunir des extrêmes entre lesquels
+il y a une si grande distance ? On convient
+généralement qu’on n’apperçoit rien, ni dans
+la couleur, ni dans la consistance, ni dans
+les autres qualités sensibles du pain, qui ait
+la moindre affinité avec les facultés de nourrir
+& de conserver ; si l’on y voyoit quelque
+chose de pareil, on seroit en état d’inférer
+ces facultés secretes des qualités sensibles,
+dès leur première apparition, & sans
+recourir à l’expérience, ce qui est nié de
+tous les philosophes, & démenti par le fait.
+Ici donc se dévoile notre état naturel, état
+d’ignorance totale par rapport aux facultés
+des objets, & à l’influence qu’ils exercent
+sur nous. Et comment l’expérience y remédieroit-elle ?
+Elle ne fait que nous [[p.133]] montrer un certain nombre d’effets uniformes,
+résultans de certains objets ; elle ne
+fait que nous apprendre que tels ou tels
+objets, dans un tel ou tel tems, étoient
+doués de telles ou telles facultés : un nouvel
+objet paroît revêtu de qualités semblables ;
+aussi-tôt nous lui attribuons les mêmes
+facultés, & nous comptons sur des effets
+semblables : un corps qui a la couleur & la
+consistance de pain y nous fait espérer que
+nous en serons nourris & restaurés. Mais
+c’est-là assurément une progression de pensées,
+sur laquelle il est bon de s’expliquer.
+Un homme dit : J’ai trouvé, en toute occasion,
+une certaine qualité sensible, accompagnée
+d’une certaine faculté secrete; & il
+ajoute : Toutes les qualités sensibles qui se
+ressemblent y seront toujours alliées à des
+facultés qui se ressembleront aussi. Cet
+homme-là ne tombe certainement pas dans
+une redite, & les deux proportions qu’il
+avance, ne sont rien moins qu’identiques.
+Direz-vous que la seconde est une conséquence
+de la première ? Convenez au moins
+que ce n’est, ni une conséquence intuitive, [[p.134]] ni une conséquence démontrée. Quelle est
+donc la nature ? La nommer expérimentale,
+ce seroit supposer ce qui est en question,
+vu que toutes les inductions de l’expérience
+se fondent sur ce que l’avenir ressemblera
+au passé, & sur ce que la ressemblance des
+qualités est inséparable de celle des facultés.
+Dès qu’il y a donc le moindre soupçon que
+la nature peut changer son cours, le passé
+celle d’être une regle pour l’avenir ; l’expérience
+perd tout usage, ne peut faire
+naître aucune conclusion. Ainsi il est impossible
+qu’elle prouve cette ressemblance
+de l’avenir au passé ; puisqu’elle ne sauroit
+employer de preuve qui ne la suppose d’avance.
+Je veux que la marche de la nature
+ait été régulière jusqu’ici, il faudra toujours
+un nouvel argument pour démontrer
+qu’elle continuera de l’être. En vain prétendez-vous
+avoir étudié la nature des corps
+dans le livre de l’expérience : leur nature
+cachée ; & par conséquent leur influence
+& leurs effets, pourraient avoir changé
+sans qu’il se fût fait aucun changement dans
+leurs qualités sensibles ; cela arrive [[p.135]] quelquefois, & dans quelques objets ; pourquoi ne
+pourroit-il pas arriver en tout tems, &
+dans tous les objets ? Quelle logique, quelle
+fuite de raisonnemens, vous met en sûreté
+contre cette supposition ? Votre propre conduite,
+me dites-vous, détruit les doutes que
+vous formez. Mais vous vous méprenez sur
+le sens de la question. Comme agent, je
+n’ai rien à desirer ; mais comme philosophe,
+qui a sa dose de curiosité, pour ne pas
+dire, de scepticisme, je souhaite d’apprendre
+sur quoi cette conclusion est fondée.
+Ni mes lectures, ni mes recherches, n’ont
+encore pu lever cette difficulté, & me donner
+des clartés satisfaisantes sur un sujet d’une
+si grande importance. Que puis-je donc
+faire de mieux que de proposer mes scrupules
+au public, quoique peut-être avec
+peu d’espoir d’en obtenir la solution ? Si
+mes doutes ne servent point à l’accroissement
+de nos connoissances, ils produiront
+au moins le salutaire sentiment de notre
+ignorance.
+
+Ce seroit, je l’avoue, une arrogance impardonnable
+de conclure qu’une preuve [[p.136]] n’existe point, uniquement parce qu’elle
+aurait échappé à nos recherches. Je dis plus ;
+quand tous les savans, pendant plusieurs
+siecles, auroient fait d’inutiles efforts sur
+le même sujet, peut-être y auroit-il encore
+de la précipitation à affirmer positivement
+que ce sujet passe la compréhension
+humaine. Après avoir même examiné toutes
+les sources de nos connoissances, & les
+avoir trouvées toutes défectueuses en ce
+point, il peut rester des soupçons que l’énumération
+aura été incomplète, ou l’examen
+peu exact. Cependant, il se présente,
+dans le cas actuel, quelques considérations
+à faire, qui paroissent nous disculper du
+blâme de l’arrogance, & de tout soupçon
+de méprise.
+
+Il est certain que le paysan le plus ignorant
+& le plus stupide, que les enfans, &
+même les bêtes, font leur profit de l’expérience :
+tous les animaux apprenent à connoître
+les qualités des objets naturels en
+observant les effets qui en résultent : un enfant
+qui aura senti une fois de la douleur
+en approchant sa main d’une chandelle [[p.137]] allumée, prendra bien garde de n’y plus être
+attrappé ; c’est qu’il s’attendra à un effet
+semblable, d’une cause qui a les mêmes qualités
+sensibles, & la même apparence externe.
+Si vous soutenez donc que l’enfant tire
+cette conclusion en vertu d’un acte de raisonnement,
+j’ai tous les droits de monde
+d’exiger de vous la production du raisonnement
+qu’il fait & il n’y a point de prétexte
+sous lequel vous puissiez vous soustraire
+à une demande aussi équitable. Vous ne sauriez
+dire que ce peut être un raisonnement
+abstrus, & qui passe votre capacité, tandis
+que vous convenez qu’il est à la portée d’un
+enfant. Vous vous rendez donc déjà, en
+quelque maniere, pour peu que vous hésitiez
+à me répondre ; & si après y avoir réfléchi,
+vous m’offrez quelque syllogisme profond,
+& compliqué vous faites l’aveu le
+plus formel que ce n’est pas la raison qui
+nous induit à croire l’avenir semblable au
+passé, & à conclure la ressemblance réelle
+des effets de la ressemblance apparente des
+causes. Or c’est là précisément la proposition
+que j’ai voulu établir dans cet essai. Si j’ai [[p.138]] raison, je ne prétends pas avoir fait une
+grande découverte ; mais, si j’ai tort, il faut
+en vérité que j’aie bien rétrogradé dans mes
+études, puisqu’à l’heure qu’il est, je ne saurois
+ratrapper un raisonnement qui m’étoit
+si familier, avant même que j’eusse quitté
+le berceau.
+
+↑ Je me sers ici du mot de force dans un sens vague &
+populaire ; une explication plus exacte de ce mot rendroit
+mon raisonnement encore plus concluant. Voyez Essai VII.
+Note de l’Auteur

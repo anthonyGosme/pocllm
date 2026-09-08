@@ -1,0 +1,299 @@
+[[p.487]]
+
+NOTES.
+[[p.489]]
+
+NOTES
+
+SUR LE CRATYLE.
+
+Nous avons eu sous les yeux l’édition critique de Heindorf, le texte de Bekker, avec la traduction latine de Ficin, celui de Ast et sa nouvelle traduction latine ; enfin, la traduction allemande de Schleiermacher, seconde édition, Berlin, 1824.
+
+Le Cratyle n’avait pas encore été traduit en français. Outre la difficulté du texte et l’apparente aridité du sujet, on avait dû reculer devant la nécessité de reproduire en grec même la multitude de mots indispensables pour rendre raison des étymologies. Partout où il ne s’agit pas de noms propres, Schleiermacher a osé substituer des équivalens, pris dans la langue allemande, en imitant les dérivations imaginées par Platon. Quand même la langue française nous eût offert les mêmes facilités, nous n’aurions pas cru devoir nous livrer à ce travail fort inutile ; car, malgré toutes ces substitutions plus ou moins heureuses, le Cratyle ne peut être compris, dans le [[p.490]] détail de ses étymologies, que par un lecteur qui a une certaine connaissance du grec.
+
+Page 4. — Les nouveaux qu’il nous plaît de leur donner ne valent pas moins que les anciens.
+
+Bekker (partis secundœ volumen secundum, p. 5), enferme cette phrase entre crochets, comme suspecte. Cornarius l’avait déjà considérée comme une glose. Ast incline à la même opinion. Schleiermacher, n’y voit aussi qu’une répétition inutile de ce qui précède, et la néglige dans sa traduction. On n’en trouve pas trace non plus dans la traduction de Ficin. Cependant nous croyons devoir la conserver avec Heindorf. Tous les manuscrits la donnent, et d’ailleurs ce n’est pas une pure répétition. Dans la phrase précédente, la proposition est générale ; ici il s’agit de l’appliquer au changement des noms et des choses ; il est donc assez naturel de la reproduire à peu près dans les mêmes termes. Ces sortes de redites sont fréquentes dans le style de la conversation, Seulement je retrancherais volontiers avec Cornarius le premier κειμένου. Heindorf va trop loin en retranchant aussi τοῦ προτέρου. Il n’y a plus rien alors qui corresponde à ὕστερον, et l’équilibre de la phrase est détruit.
+
+Page 18. — C’est de l’œuvre du législateur qu’il fait usage, etc. [[p.491]]
+
+Je lis ici et partout, avec Bekker et Schleiermacher, ὁ νομοθέτης, et non pas ὁ ἀνομαθέτης.
+
+Page 29. — « Or, tu sais ce que dit Homère, que les Troyens appelaient Astyanax le fils d’Hector ; il est donc clair que c’étaient les femmes qui l’appelaient Scamandrios, puisque les hommes lui donnaient le nom d’Astya-nax, etc. »
+
+On peut voir ici un nouvel exemple de l’abus que Platon fait quelquefois du texte homérique, en le citant de mémoire. Le nom de Scamandrios est opposé à celui d’Astyanax au livre VII, vers 403 sqq. (entrevue d’Hector et d’Andromaque) :
+
+Ἑκτορίδην ἀγαπητὸν ἀλίγκιον ἀστέρι καλῷ,
+
+τόν ῥ᾽ Ἕκτωρ καλέεσκε Σκαμάνδριον, αὐτὰρ οἱ ἄλλοι
+
+Ἀστυάνακτ᾽ : οἶος γὰρ ἐρύετο Ἴλιον Ἕκτωρ.
+
+L’unique fils d’Hector, semblable à un astre brillant :
+
+Scamandrios était le nom qu’Hector donnait à son fils, mais les autres
+
+L’appelaient Astyanax, car Hector seul protégeait Ilion.
+
+Il n’est donc pas question d’un nom donné par le » hommes et d’un autre par des femmes, et le passage d’Homère a fourni de bien faibles élémens à la question discutée par Socrate. [[p.492]]
+
+Page 31. — De même pour la race animale, le nom d’homme ne convient à la progéniture d’un homme qu’autant qu’elle est conforme à son espèce. Bekker, p. 24 : οὐδ᾽ ἂν ἐξ ἀνθρώπου οἶμαι μὴ τὸ ἀνθρώπου ἔκγονον γένηται, ἀλλ᾽ἐὰν τὸ ἔκγονον ἄνθρωπος κλητέος.
+
+Heindorf et Schleiermacher préfèrent à cette leçon celle de H. Étienne : ἄλλο δὲ τὸ ἔκγ. ἄ. κ. Mais d’abord cette dernière leçon n’est dans aucun manuscrit. Ensuite l’ellipse que suppose la leçon authentique, et que Schleiermacher trouve presque intolérable, nous parait, au contraire, fort naturelle et élégante ; ἄλλο δέ serait une redondance qui n’ajouterait rien à μὴ τὸ ἄνθρωπον ἔκγονου.
+
+Page 36, — La preuve de cette inébranlable énergie est dans le long séjour qu’il fit devant Troie. Bekker, p. 28.
+
+Tous les manuscrits donnent : σημεῖον αὐτοῦ ἡ ἐν Τροίᾳ μόνη τοῦ πλήθους τε καὶ καρτερίας. La phrase ainsi écrite, il n’y a pas de construction possible, et πλήθους n’a pas de sens. H. Étienne lit, sans doute sur la seule autorité de la traduction de Ficin : σημεῖον αὐτοῦ τῆς καρτερίας ἡ ἐν Τροίᾳ μονὴ μετὰ τοσούτου πλήθους, et Heindorf adopte cette leçon. Schleiermacher l’a suivie, tout en reconnaissant qu’il serait facile d’en trouver une meilleure sans s’écarter, autant des [[p.493]] manuscrits. Je n’ai pas cru devoir les imiter ; μετὰ τοσούτου πλήθους me semble une addition insignifiante, qui alourdit inutilement la phrase ; il suffirait, je crois, dans la leçon donnée par les manuscrits et conservée par Bekker, de changer πλήθους, et d’y substituer un mot qui répondit au διαπονεῖσθαι de la phrase précédente, comme καρτερία répond à καρτερεῖν. J’ai traduit dans cet esprit.
+
+Page 71. — C’est aussi à ce mot εἴρειν qu’Iris doit sans doute son nom, en sa qualité de messagère. Bekker, p. 54,
+
+Heindorf, Bekker et Ast considèrent cette phrase comme une interpolation ; Schleiermacher incline aussi à la rejeter. Cependant elle se trouve dans tous les manuscrits, et j’ai cru devoir la conserver. Il est vrai, comme Schleiermacher le remarque, qu’il ne s’agit dans ce qui suit comme dans ce qui précède, que de l’étymologie du nom d’Hermès. Mais il est naturel qu’après avoir rapporté ce nom à ἑρμηνεύς, et, en dernière analyse, à εἴρειν (parler), Socrate ajoute en passant et par forme de parenthèse que le nom d’une autre divinité a été également tiré, pour une raison analogue, de la même racine. Il est naturel aussi qu’Hermogène, dans sa réponse, ne rappelle point cette courte parenthèse ; car ce qui l’intéresse et appelle toute son attention, c’est [[p.494]] le nom d’Hermès, d’où dérive celui d’Hermogène, qui est le sien. Il est assez dans l’habitude de Platon de jeter au passage une idée qui se présente à lui, sans avertir, comme le ferait un écrivain moderne, par cette formule, pour le dire en passant, ou toute autre semblable. C’est ainsi qu’à l’occasion du nom de Dionysos (Bacchus), il a donné l’étymologie du mot οἶνος (vin), et qu’ici même il explique ἐμήσατο par μηχανήσασθαι.
+
+Page 81. — En conséquence, il faut retrancher la lettre ε, et dire πιστήμη, fidèle. Bekker, p. 62 : διὸ δὴ ἐμβάλλοντας δεῖ τὸ εἶ ἐπιστήμην αὐτὴν ὀνομάζειν.
+
+La traduction s’écarte du texte de Bekker et des manuscrits, pour adopter avec Schleiermacher la conjecture de Cornarius, par la nécessité de concilier ce passage avec un autre, qui se trouve vers la fin de ce dialogue, où Platon revient sur le mot ἐπιστήμη. On a donc traduit comme s’il y avait : διὸ`δεῖ ἐκβάλλοντας δὴ τὸ ε πιστήμην αὐτὴν ὀνομάζειν. La leçon d’H. Étienne, ἐπιστημένην, est un double barbarisme, qui ne peut être admis, et cela d’autant moins, que si on fait porter l’explication étymologique sur le verbe ἕπεσβαι (ἑπομένης), qui précède, cette explication ne rend compte que de la première partie du mot ἐπιστήμη. Même objection pour ἐπιστήμη conjecture de [[p.495]] Heindorf. Pour rendre raison de la seconde partie de ce mot, il ne suffisait pas de laisser conjecturer au lecteur, comme le fait Heindorf, qu’elle est supposée par Socrate dériver de ἴσημι, savoir. Quant à ἐκβάλλοντας, au lieu de ἐμβάλλοντας, on ne le trouve dans aucun manuscrit, non plus que πιστήίμη : mais en revanche ces deux leçons se trouvent dans le second passage, d’où elles doivent nécessairement être reportées dans celui-ci, sous peine de laisser subsister une incohérence choquante entre deux passages qui doivent se rattacher l’un à l’autre et se correspondre. « Reprenons d’abord le mot ἐπιστήμη, science, en sorte qu’il vaudrait mieux prononcer le commencement, comme on le fait aujourd’hui, et au lieu de retrancher l’ε ajouter un ι, ἐπιιστήή. » Bekker, p. 114 : καὶ ὀρθότερόν ἐστιν ὥς περ νῦν αὐτοῦ τὴν ἀρχὴν λέγειν μᾶλλον ἢ ἐκβάλλοντας τὸ εἶ πιστήμην, ἀλλὰ τὴν ἐμβολήν ποηίσασθαι ἀντὶ τῆς ἐν τῷ εἷ ἐν τῷ ἰῶτα. Ce passage ainsi donné par tous les manuscrits, et accepté de tous les éditeurs, éclaircit et constitue le précédent, et renverse toutes les conjectures de Heindorf, qui, si elles étaient admises sur le premier passage, devraient faire considérer le second comme entièrement défiguré. La vraie critique impose le procédé contraire, et veut que le passage certain serve à expliquer le passage douteux, au lieu d’embrouiller celui-là par celui-ci.
+
+Page 86. — Le mot θάλλω lui-même, végéter, me [[p.496]] paraît représenter ce qu’il y a de rapide et presque de soudain dans la croissance des jeunes gens. Bekker, p. 66.
+
+Heindorf imagine que Platon fait consister l’imitation des mots θεῖν et ἅλλεσθαι par le mot θάλλεσθαι, en ce que dans ce mot on saute de la première lettre de θεῖν à ἅλλεσθαι. Il n’est pas besoin de recourir à cette explication un peu forcée ; il suffit que le mot composé représente, dans sa signification, le sens des deux racines qui lui sont assignées, comme dans la plupart des exemples qui précèdent et qui suivent.
+
+Page 103. — Tu me parais maintenant, Socrate, hâter et presser tes explications, Socr. C’est que les oracles du dieu vont bientôt finir. Je veux pourtant faire encore un essai sur les mots nécessité, ἀνάγκη, et volontaire, ἑκούσιον, qui viennent naturellement à la suite des précédents. Herm. Soit. Socr. D’abord, etc. Bekker, p. 79 : ἙΡΜ. Ταῦτα ἤδη μοι δοκεῖς, ὦ Σώκρατες, πυκνότερα ἐπάγειν· τέλος γὰρ ἤδη θέω· ἀνάγκην δ᾽ οὖν ἔτι βούλομαι διαπερᾶναι, ὅτι τούτοις ἑξῆς ἐστι, καὶ τὸ ἑκούσιον. ΣΩΚΡ. Τὸ μὲν οὖν « ἑκούσιον, etc.
+
+La leçon de Bekker est celle de tous les manuscrits : mais elle ne donne pas un sens qui nous ait satisfait, et nous avons préféré suivre Schleiermacher. D’abord [[p.497]] il nous a paru évident qu’il faut attribuer à Socrate les mots τέλος γὰρ ἢ. θ., ainsi que ce qui suit ; comme le dit Schleiermacher, la seule répétition de ἤδη suffit à le prouver ; et d’ailleurs l’édition d’Alde contient déjà cet ordre d’interlocution. Quant à τέλος γὰρ ἤδη θεῷ, Heindorf, après avoir réfuté les interprétations et les conjectures de Ficin, d’H. Étienne, d’Abresch, de Fischer, toutes très malheureuses, déclare que, grammaticalement, il est impossible de trouver aucun sens à ces mots ; il lui paraiî étrange que Socrate parle ainsi de finir, presque au milieu de son discours et lorsqu’il va bientôt encourager Hermogène à faire de nouvelles questions : ἕως πάρεστιν ἡ ῥώμη… Voici comment cet ingénieux critique croit pouvoir remplir la lacune qu’il suppose exister dans ce passage : ἙΡΜ. Ταῦτα ἤδη μοι δοκεῖς, ὦ Σώκρατες, πυκνότερον ἐπάγειν, τέλος γὰρ ἤδη ἐπιθεῖναι βόύλεσθαι. ΣΩΚΡ, Ἀλλ’οὔπω, πρὶν ἀποκαμεῖν. Ἀλλὰ τοῦτο μὲν μελήσει τῷ θεῷ. Ἀνάγκην οὖν, etc. Mais en vérité il ne faut considérer ceci, de la part d’Heindorf, que comme un essai et comme un jeu de la critique. Sans rien changer au texte de Platon, on peut très bien ajouter, avec Schleiermacher, la courte réponse d’Hermogène, que nous avons admise et rendue par soit. Si on refuse cette addition, il faut attribuer à Hermogène, avec les manuscrits, mais contre toute vraisemblance, les mots ἀνάγκην δ’οὖν ἔτι βούλομαι [[p.498]] διαπερᾶναι…, ou bien il faut, en les attribuant à Socrate, supprimer le signe ΣΩΚΡ., qui vient ensuite dans tous les textes, devant τὸ μὲν οὖν ἐκούσων, et supposer que Socrate continue, sans attendre l’assentiment que ses interlocuteurs sont dans l’usage d’exprimer en pareil cas.
+
+Page 114. — Ces divisions établies il faudrait passer à l’examen des noms. Bekker, p. 88 : καὶ ἐπειδὰν ταῦτα διελώμεθα τὰ ὄντα εὖ πάντα, αὖθις δεῖ ὀνόματα ἐπιθεΐναι…
+
+Cette expression τὰ ὄντα est bizarre, d’autant plus que, selon la remarque d’Heindorf, Platon oppose en général dans ce dialogue les noms aux êtres. Ὀνόματα έπιθεΐναι n’est pas moins étrange ; il semble que cela ne puisse signifier qu’imposer des noms, comme ὀνόματα θέσθαι ou ἐπιφέρειν. Mais cette interprétation ne s’accorderait pas avec ce qui précède ; après l’examen des élémens du nom, il doit s’agir de l’examen des noms eux-mêmes, et au lieu d’ἐπιθεῖναι la raison suggère un mot tel qu’ἐπιδεῖξαι ou ἐπισκέψασθαι. C’est ce que propose Schleiermacher, et j’ai adopté cette correction. Mais je ne me dissimule pas qu’elle est loin d’être satisfaisante ; car il faudrait τὰ ὀνόματα, et non pas la forme indéfinie ὀνόματα. J’incline donc à croire avec Heindorf et Schleiermacher que ce passage est mutilé, qu’après la division [[p.499]] des lettres, il devait être question de la division des êtres, τὰ ὄντα, puis des noms qui doivent leur être appliqués, et de la correspondance des divisions des noms à celles des choses.
+
+Page 118. — Mais il faudrait dire à la rigueur κίεσις. Bekker, p. 92 : ἔδει δὲ κιείνησιν καλεῖσθαι ἢ εἶσιν.
+
+Les manuscrits, au lieu de κίεσις, donnent κιείνησις, et εἷσις ou ἴεισις. Mais quel rapport κιείνησις, εἷσις ou ἴεισις ont-ils avec l’étymologie qui vient d’être assignée à κίνησις ? Platon fait venir çe mot de ἴεσις et de la première lettre de κίειν, comme plus haut θάλλειν de ἅλλεσθαι, et de la première lettre de θεῖν. Il suppose que Γη de κίνησις est une corruption de Γε de ἴεσις, et le ν une addition. La forme primitive de κίνησις doit donc être, selon lui, κίεσις, correction proposée par Schleiermacher.
+
+Nous terminerons ces notes sur le Cratyle par de courts extraits du commentaire de Proclus sur ce dialogue, d’après l’édition de M. Boissonade, Leipsick, 1820.
+
+Ce commentaire n’est lui-même qu’un abrégé de l’ouvrage de Proclus. Il est intitulé : Extraits utiles des scholies du philosophe Proclus sur le Cratyle de Platon : τὰ τῶν τοῦ φιλοσόφου Πρόκλου σχολίων εἰς τὸν Κράτυλον Πλάτωνος ἔκλογαι χρήσιμοι. Quelquefois [[p.500]] l’abréviateur prend la place de l’auteur et en fait l’éloge. La forme habituelle est celle des scholies d’Olympiodore sur le Philèbe : ὅτι. Cet abrégé a 119 pages dans l’édition de M. Boissonade. Il n’embrasse pas la moitié du dialogue de Platon dans les deux manuscrits de Paris et dans celui du Vatican, dont s’est servi l’éditeur. Les manuscrits de Munich, que Werfer et Creuzer ont fait connaître, ne vont pas plus loin, et je puis assurer que les manuscrits de Turin, de Milan et de Venise, que j’ai soigneusement comparés, s’arrêtent au même point.
+
+Ces scholies sont très importantes pour la mythologie alexandrine. C’est de là que Werfer (Acta philologrum Monacensium) et Creuzer (Meletemata critica, etc.) ont tiré un assez grand nombre de fragment orphiques ; et Taylor (Classical Journal, t. 17) y a puisé utilement pour sa collection des oracles chaldaïques. On conçoit combien doit être riche en documens mythologiques le commentaire, même le plus abrégé, d’un dialogue où les noms de tous les dieux et de toutes les déesses antiques sont expliqués, comme étant la représentation fidèle du caractère même et de l’essence des divinités qu’ils désignent.
+
+La valeur philosophique et historique de ces scholies est beaucoup moindre. Il est surtout à regretter que le préambule, où d’ordinaire Proclus fait [[p.501]] connaître les écrits de tes devanciers et expose leurs mérites et leurs défauts, ne nous fournisse aucun renseignement sur les travaux antérieurs à celui-ci.
+
+On y voit partout que Proclus prend fort au sérieux le dialogue de Platon, puisqu’il réfute quelque fois ses étymologies et les remplace par ses propres conjectures, qui ne sont pas toujours plus heureuses que celles de Platon. Si un seul critique, dans l’antiquité, se fût avisé de considérer le Cratyle comme une ironie perpétuelle, il est impossible que Proclus n’eût pas indiqué quelque part dette opinion, et que l’abréviateur inconnu n’en eût pas conservé la trace.
+
+Proclus établit très bien le but du Cratyle, p. 3, ch. VII. :« Le présent dialogue nous enseigne la valeur propre des mots, et c’est par cette étude que doit commencer quiconque veut devenir dialecticien. »
+
+P. 1 ch. II : « Le Cratyle est un dialogue dialectique, non de la dialectique péripatéticienne, qui est toute abstraite, mais de celle du grand Platon, qui place la dialectique après les mathématiques et après l’éthique, comme l’introduction à la haute philosophie, à la connaissance de la cause unique de toutes choses, le bien » [[p.502]] Ibid. « L’analytique péripatéticienne, avec son procédé, la démonstration, est facile à comprendre, et accessible à quiconque n’est pas tout-à-fait aveugle. »
+
+P. 3, ch. VIII : « Comme dans le Parmènide, Platon fait connaître la dialectique, non la vaine, mais celle qui entre dans le fond des choses ; de même ici il traite de la grammaire dans son rapport avec la science des êtres. ».
+
+Ibid., ch. IX : « Évidemment il veut enseigner les principes des êtres et de la dialectique, puisqu’il parle en même temps et des noms et de ce qu’ils désignent. »
+
+P. 4-5, ch. XI : « Les personnages sont : Cratyle l’héraclitéen, dont Platon suivit les leçons, et qui prétend que les noms sont tous naturels ; que ceux qui ne sont pas naturels ne sont pas des noms, de même que celui qui dit faux ne dit rien ; Hermogène le socratique, qui prétendait, au contraire, qu’il n’y a pas de noms naturels, et qu’ils sont tous de convention ; enfin, Socrate, qui divise la question, en faisant voir qu’il y a des noms naturels, et des noms conventionnels qui sont comme l’effet du hasard. » [[p.503]]
+
+Ibid. « Les noms des choses éternelle » viennent plutôt de la nature, et ceux des choses périssables du hasard. »
+
+P. 6, ch. XVII : « L’opinion de Cratyle fut celle de Pythagore et d’Épicure ; Démocrite et Aristote pensèrent comme Hermogène. Comme on demandait à Pythagore quel est de tous les êtres le plus sage : C’est le nombre, répondit-il. Et après le nombre ? C’est, dit-il, celui qui a donné les noms aux choses. Il voulait désigner par le nombre le monde intelligible ; et par celui qui a donné les noms, l’âme, qui doit l’être à l’intelligence. Il n’attribuait donc pas l’institution des noms au hasard, mais au principe qui contemple l’intelligence et la nature des êtres ; il croyait donc que les noms étaient selon la nature.
+
+Ibid. « Démocrite, qui attribuait les noms à une institution humaine, cherchait à établir cette opinion par quatre argumens. Il tirait le premier de l’homonymie : on donne le même nom à des choses différentes ; les noms ne sont donc pas conformes à la nature. Il prenait le second de la synonymie : si des noms différens pouvaient convenir à une seule et même chose, ta réciproque serait vraie, ce qui est [[p.504]] impossible. Il alléguait, pour troisième preuve, le changement des noms. Pourquoi aurait-on changé le nom d’Aristoclès en celui de Platon, et le nom de Tyrtame en celui de Théophraste, si les noms venaient de la nature ? Enfin, il arguait du défaut d’analogie ; pourquoi n’y a-t-il pas un verbe qui vienne de δικαιοσύνη, comme φρονείν de φρόνησις ? Il concluait que les noms viennent du hasard et non de la nature. »
+
+P. 9, ch. XVIII : « Épicure disait que les premiers qui ont établi les noms ne l’ont pas fait avec science, mais par des mouvemens naturels, comme lorsque l’on tousse, qu’on éternue, qu’on se mouche, qu’on sanglote et gémit. »
+
+P. 19. « Aristote dit que le langage est significatif, mais par pure convention. Bien de plus simple, dit-il : la nature nous a donné la voix comme le mouvement corporel ; nous formons les noms avec la voix, comme la danse avec les mouvemens du corps. Mais Proclus lui répond : Le nom n’est pas entièrement l’ouvrage des organes physiques ; en tant que nom, il signifie quelque chose ; car la voix n’est pas le nom. La voix est formée tout entière par les organes [[p.505]] physiques, tels que la langue, les artères et le poumon ; mais si ces organes concourent à la production du nom en en donnant la matière, ce qui l’achève c’est la pensée de celui qui l’institue, laquelle accommode la matière à la forme et au type. »
+
+P. 28. « À ce raisonnement d’Aristote : ce qui est par nature est le même partout ; or les noms ne sont pas partout les mêmes, donc ce qui est par nature n’est pas un nom, et les noms ne sont pas par nature ; Proclus oppose la réfutation suivante. À la majeure il répond : si le nom est une forme qui peut être en des matières différentes, il est le même partout en tant que forme ; or l’hypothèse est vraie, donc la conséquence est vraie aussi. Il répond à la mineure : l’œil est formé par la nature, de même la voix, la couleur et les grandeurs ; or tout cela n’est pas le même partout. »
+
+NOTES
+
+SUR LE SOPHISTE.
+
+Ici, comme pour le Cratyle, nous avons eu l’édition d’Heindorf, les éditions générales de Bekker et de Ast, et la traduction allemande de Schleiermacher. [[p.506]]
+
+Ce dialogue, si important pour l’histoire de la philosophie ancienne, antérieure à Platon, et si peu exploité par les historiens, paraît en français pour la première fois.
+
+PAGE 165. — J’accepte avec grand plaisir Théétète pour interlocuteur, d’après l’entretien que j’ai eu tout à l’heure avec lui…
+
+Il semble qu’il s’agit ici du Théétète, qui se termine en effet par un engagement de reprendre la conversation le lendemain ; et comme dans cette conversation de la veille on avait déjà cherché le philosophe, et que la définition du philosophe peut sembler le but de Théétète, ce dialogue a l’air de servir d’introduction au Sophiste et au Politique, avec lesquels il formerait une trilogie ; et toutes ces raisons paraissent avoir entraîné Ast {Platon’s Leb. u. Schr., p. 212). Mais elles tombent devant ce fait que l’étranger d’Élée ne joue aucun rôle dans le Théétète. Il faut donc supposer ou un autre dialogue de Platon, qui ne serait pas venu jusqu’à nous, et dont Diogène nι personne dans l’antiquité n’aurait entendu parler, ce qui est inadmissible; ou regarder la phrase, dont nous nous occupons, comme une simple donnée dramatique et tout-à-fait imaginaire.
+
+PAGE 175. — Dans cette dernière espèce de [[p.507]] chasse, nous avons pris la division inférieure… BEKKER, p. 135 : ἐνυγροθηρικοῦ δὲ τὸ κάτωθεν τμῆμα ὅλον ἁλιευτικόν…
+
+J’ai cru devoir suivre dans la traduction le sens que Heindorf, Schleiermacher et Ast s’accordent à donner à τὸ κάτωθεν τμῆμα. Cependant cette expression est étrange, appliquée à l’un des deux membres d’une division par opposition à l’autre. Heindorf lui-même en a fait fe remarque ; mais l’explication qu’il propose, à savoir, que Platon ne représenta pas ici les deux membres de chaque division comme à côté l’un de l’autre sur une même ligne, mais comme placés l’un sous l’autre, n’explique rien ; car la difficulté est précisément d’admettre l’hypothèse sur laquelle elle est fondée, puisque Platon lui-même, quelques lignes plus haut, représente chaque division comme partageant un tout en deux moitiés : τὸ ἥμισυ μέρος. Peut-être donc faut-il entendre par τὸ κάτωθεν τμῆμα la division de la chasse qui s’exerce dans le fluide d’en bas, c’est-à-dire dans l’eau, comme il est dit dans les lignes qui suivent : τὴν κάτωθεν ἄνω πλήγην.
+
+PAGE 182. — Ainsi, Théétète, il résulte de tout ce que nous venons de dire, que par la sophistique, il faut entendre l’art de s’approprier, d’acquérir avec violence, à la chasse aux [[p.508]] animaux marcheurs, terrestre» et apprivoisés, à la chasse de l’espèce humaine, chasse privée qui poursuit un salaire, un salaire payable en argent comptant, et qui prend par l’appât trompeur de la science, des jeunes gens riches et de distinction. BEKKER , p. 140 : Κατὰ δὴ τὸν νῦν, ὦ Θεαίτητε, λόγον, ὡς ἔοικεν, ἡ τέχνης οἰκειωτικῆς, χειρωτικῆς (κτητικῆςà, θηρευτικῆς, ζῳοθηρίας (πεζοθηρίας), χερσαίας (ἡμεροθηρικῆς), ἀνθρωποθηρίας, ἰδιοθηρίας (μισθαρνικῆς), νομισματοπωλικῆς, δοξοπαιδευτικῆς, νέων πλουσίων καὶ ἐνδόξων γιγνομένη θήρα προσρητέον, ὡς ὁ νῦν λόγος ἡμῖν συμβαίνει, σοφιστική.
+
+Malgré l’autorité de Schleiermacher et de Bekker, et malgré le tour plus aisé que les retranchemens proposés donneraient à la traduction, je n’ai pu considérer ce passage comme corrompu et interpolé. 1° Les manuscrits ne contiennent aucune variante essentielle. 2° Les mots prétendus interpolés, κτητικῆς, πεζοθηρίας, ἡμεροθηρικῆς, μισθαρνικῆς, ne sont pas des commentaires arbitraires ; ce sont des termes déjà employés dans la division qui sert de fondement à la définition. Ils sont ici dans l’ordre où Platon les à dabord placés, et ils marquent des degrés dans l’énumération qu’il est impossible d’omettre dans le résumé : plusieurs même se trouvent déjà dans un premier résumé, placé plus [[p.509]] haut, comme une première halte sur la route assez pénible de cette définition par énumération. Les critiques proposent de retrancher κτητικῆς ; mais c’est avec οἰκειωτικῆς, le mot général qui soutient tout ce morceau, et qui exprime le but dernier de la sophistique : ce but, c’est de s’approprier, οἰκειωτικῆς ; c’est d’acquérir, κτητικῆς. Ce mot est déjà employé à l’entrée même de la définition, Bekker. P. 132. Puis il est modifié par celui de χειρωτικῆς, l’art d’acquérir violemment. Χειρωτικης tout seul, sans κτητικῆς, présenterait le genre inférieur sans le genre supérieur, la modification sans la chose à modifier ; et en grec rien n’empêche que la modification ne précède, comme en français elle suit ; ou plutôt χειρωτικῆς κτητικῆς sont inséparables : c’est le développement de οἰκειωτικῆς. Pour πεζοθηρίας, il est déjà, p. 133, et il devait être reproduit, car il exprime un progrès nécessaire de la définition. Nous voilà à la chasse aux animaux marcheurs ; nous nous approchons de l’homme ; nous y arrivons par ἡμεροθηρικῆς, la chasse aux animaux marcheurs apprivoisés. Supposez que dans ce résumé ἀνθωποθηρίας ne soit pas précédé, comme dans énumération, par ἡμεροθηρικῆς, la transition serait trop brusque et le résumé sans lumière. Le résumé ne doit reprendre que les points essentiels, mais il doit les reprendre tous et dans leur ordre. Je défendrais même μισθαρ [[p.510]] νίκῆς, qui est expliqué par ce qui suit, νομισματοπολικῆς. Le salaire cherché n’est pas seulement la nourriture, ce qui est l’objet du parasite, c’est de l’argent comptant.
+
+En avançant on rencontre une nouvelle discussion sur la sophistique, dont κτητικῆς est encore le point de départ, p. 140-143 : ἴθι δὴ, et cette discussion a aussi son résumé. Dans ce résumé il ne faut exclure aucun mot du texte connu, car tous ces mots résument les progrès de la discussion. Schleiermacher et Bekker ont ici été fidèles au texte. Par le même principe, ils auraient du l’être aussi dans le premier passage, qui est analogue à celui-ci.
+
+Enfin, p. 146, nouvelle discussion, nouveau résumé, où reparaît encore κτητική, comme le pivot de toutes ces discussions, τῆς κτητικῆς, ὡς ὁ λόγος αὖ μεμήνυκε νῦν.
+
+Par ces motifs, je maintiens toutes les anciennes leçons de ce passage.
+
+PAGE 192. — Par exemple, des mots clarifier, cribler, vanner, trier. BEKKER, p. 146: τὰ τοίαδε, οἷον διηθεῖν τε λέγομεν καὶ διαττᾶν καὶ. βράττειν καὶ διακρίνειν.
+
+Les critiques ont remarqué que le mot διακρίνειν n’est pas un terme technique, désignant une opération particulière, comme les mots précédents, διηθεῖν [[p.511]] διαττᾶν, βράτττειν, et comme les suivants, ξαίνειν, κατάγειν, κερκίζειν; et qu’en outre il est étrange que Platon fasse d’un même mot, διακρίνειν, le nom du genre et le nom de l’une des espèces. Il est donc permis de conjecturer que διακρίνειν cache ici un mot analogue, désignant une opération particulière de démêlement. Mais quel peut être ce mot ? C’est ce qu’il est impossible de déterminer avec certitude. J’ai donc cru devoir me servir dans la traduction du mot indéterminé et vague de trier, qui s’éloigne le moins possible de διακρίνειν. Toutefois, dans l’unanimité des manuscrits, je ne regarde pas comme absolument impossible que Platon ait employé deux fois le même mot, en le prenant d’abord dans le sens le plus matériel et le plus étroit, puis dans un sens plus général. Διακρίνειν, déméler, est d’abord un des quatre exemples qu’il cite ; puis il les résume tous sous le nom de celui d’entre eux qui est le plus compréhensif.
+
+PAGE 211. — Tu veux parler sans doute des écrits de Protagoras, sur la palestre et les autres arts.
+
+Schleiermacher soupçonne que c’est de ce passage que Diogène a tiré la mention de l’écrit de Protagoras sur la palestre ; il prétend qu’il n’est pas vraisemblable que Protagoras ait jamais composé un tel [[p.512]] écrit, et que c’est ici une variante, en style figure, du titre des fameuses ἀντιλογίαι de Protagoras. Je repousse toutes ces conjectures. Platon s’exprime ici trop positivement, et il est bien plus raisonnable d’expliquer Platon et Diogène l’un par l’autre, que de les accuser tous deux sans aucun fondement. Les sophistes enseignaient tous les arts. Par exemple, dans l’Enthydème, on voit qu’Euthydème et Dionysodore savaient fort bien se battre, armés de toutes pièces, et qu’ils l’enseignaient à qui les payait, p. 362 de notre traduction, t. III, et surtout p. 365 : « Ils ont une parfaite connaissance de l’art militaire,, de tout ce qu’il faut à un bon général pour bien commander une année, la ranger en bataille et lui faire faire l’exercice. »
+
+Pages 232-233. — Eh bien ! étranger, que dire d’un simulacre, sinon… Bekker, p. 176,
+
+Ici je suis Bekker contre Schleiermacher et Heindorf. Le vice radical de la ponctuation de Schleiermacher, c’est de donner au jeune Théétète la reprise: ἀλλ’ ἔστι γε μήν, reprise qui ouvre une autre voie au raisonnement et conduit à une conséquence opposée à la précédente. C’est l’auteur de cette remarque qui est le vrai chef de la conversation. Car elle contient d’avance la conséquente extrême : donc l’apparence, ce qui paraît être, n’est pas réellement un [[p.513]] non être. Il est évident que l’étranger seul peut faire cette réserve. Ce point établi, tout le reste s’ensuit. Avec Bekker, je ne laisse à Théétête que πῶς, exclamation naturelle dans sa bouche à l’étrange énoncé de l’Éléate. Et celui-ci répond : « Oui, puisque tu as dit que réellement il n’est pas. » Et Théétête qui n’aperçoit pas la portée de cet aveu, le répète bravement. : « Non, il n’existe pas : ce n’est réellement qu’une apparence. » Et alors l’Éléate tire la conclusion : « Donc ce que nous appelons réellement une apparence n’est réellement pas un pur non-être. » Autant ce raisonnement est clair et simple dans sa subtilité même, autant celui de Schleiermacher est embrouillé : Théétête y est tout aussi délié que l’Éléate..
+
+Raisons de détail contre la leçon de Schleiermacher.
+
+1. Si on veut lire avec Heindorf et Schleiermacher οὐκοῦν ἀληθῶς γε φής, sur la foi d’un grand nombre de manuscrits, alors il faudrait lire aussi οὐκοῦν ἄρα dans la reprise de l’Éléate ; car les mêmes manuscrits qui donnent la première leçon donnent la seconde, et on ne peut les accueillir dans un cas et les repousser dans un autre. Or, les admettre tous renverse le sens entier de la phrase. Donc il faut lire : οὐκ ὃν ἀληθ.
+
+2. Si on lit οὐκοῦν ἀληθῶς γε φής, il faut entendre : mais tu ne le dis pas véritablement (que ce qui pa [[p.514]] raît étre est). D’abord ce sous-entendu aurait dû être exprimé. Ensuite le γε après οὐκοῦν n’a plus sa force naturelle et devient superflu.
+
+3. La réponse : πλήν γε εἰκὼν ὄντως voudrait dire en ce cas : mais l’apparence est réellement. Or, le grec résiste à ce sens. D’abord il n’y a pas ἡ εἰκών. Puis, γε, qui est toujours restrictif, serait ici employé dans une intention bien différente. Enfin, πλήν est inexplicable. Le sens naturel est : οὐ γὰρ οὖν, non; il n’est pas, ce n’est qu’une apparence réellement.
+
+4. Enfin, ὄντος, que propose Heindorf, au lieu de ὄντως, dans la conclusion de l’Éléate, se trouve dans très peu de manuscrits, et exigerait toῦ.
+
+5. Un dernier motif, c’est que plus bas l’Éléate dit : « Tu vois qu’au moyen de ce changement inattendu notre sophiste nous a forcés de reconnaître en dépit de nous-mêmes (οὐκ ἐκόντας ἠνάγκακε ὁμολογεῖν) que l’être est d’une certaine manière. » Or, si Théétète eût dit : Et pourtant l’apparence existe, et s’il fallait entendre dans sa bouche πλὴν γ’ εἰκὼν ὄντως par : l’apparence existe réellement ; il serait impossible de lui dire qu’il a été forcé d’avouer : ce serait lui bien plutôt qui aurait forcé l’Éléate, et qui aurait été l’introducteur et l’interprète du sophiste. Il semble donc que celui qui parle ici est l’auteur de ce changement inattendu qui commence à : ἀλλ’ ἔστι γε μήν. [[p.515]]
+
+PAGE 236. — Après que nous ayons précédemment reconnu que ce qui n'est pas… BEKKER, p. 178: δταν ἄφθ… προδιωμολογημένα ᾗ τὰ πρὸ τούτων ὁμολογήθέντα.
+
+J'admets avec Heindorf et Schleiermacher que τὰ πρὸ τ. ὁμολ. soit là pour τὰ μηδαμῶς ὄντα, dont il a été en effet parlé plus haut. Il serait même possible que cette formule τὰ π. τ. ὁμ., si peu élégante, après προδιωμολογημένα, fût, non la périphrase, mais la corruption de τὰ μηφαμῶς ὄντα. Je ne conçois pas que Bekker trouvant dans ses manuscrits λέγει, rapporté au sophiste, ait conservé la leçon λεγεῖν si évidemment vicieuse.
+
+PAGE 247. — Il ne serait même pas raisonnable de reconnaître qu'il y eût aucun nom. BEKKER, p. 186 : καὶ τὸ παράπαν γε ἀποδέχεσθαι τοῦ λέγοντος ὡς ἔστιν ὄνομά τι, λόγον οὐκ ἂν ἔχον.
+
+La leçon ἔχον, que contiennent un grand nombre de manuscrits, et que Schleiermacher et Bekker adoptent, donne un sens trop embarrassé. La correction si spécieuse d'H. Etienne, λόγον οὐκ ἂν ἔχοι, s'appuie aussi sur un manuscrit, et je n'ai pas hésité à l'adopter, à l'exemple d'Heindorf.
+
+PAGE 250. — Parce que, ce qui arrive à l'exis [[p.516]] tence, y arrive toujours formant un tout; en sorte qu’on ne doit reconnaître ni existence ni génération, si l’on ne met pas le tout au nombre des êtres. BEKKER, p. 189 : (τὸ ἓν ἢ) τὸ ὅλον ἐν τοῖς οὖσι μὴ τιθέντα.
+
+Pour la facilité du raisonnement et de la traduction, j’ai, avec Heindorf, Schleiermacher et Bekker, retranché τὸ ἓν ἢ ; mais je n’entends pas rejeter ces mots du texte ; et même, à la réflexion, je suis plutôt d’avis de les replacer dans la traduction. D’abord ils sont dans tous les manuscrits. Ensuite le tout venant de l’un, et s’y rapportant, l’attire ici dans la phrase comme dans la pensée. Tout ce qui est pu paraît est nécessairement un, soi et non pas un autre ; donc, si on n’admet pas l’unité ou la totalité qui en dérive au nombre des êtres, on ne peut admettre ni être ni génération. Loin de retrancher τὸ ἕν ἢ devant τὸ ὅλον, pour bien comprendre la phrase, il faut le replacer en idée devant le premier ὅλον : tout ce qui arrive à l’existence y arrive un et formant un tout. Les mots un tout marquent déjà le rapport exprimé plus bas positivement.
+
+PAGE 252. -- Aussi leurs adversaires s’en vont-ils avec raison pour les combattre, chercher dans une région supérieure et invisible des formes intelligibles et incorporelles, qu’ils les [[p.517]] forcent cle reconnaître pour les véritables êtres. BEKKER , p. 190 : τοιγαροῦν οἱ πρὸς αὐτοὺς ἀμφισβητοῦντες μάλα εὐλαβώς ἄνωθεν ἐξ ἀοράτου πόθεν ἀμύνονται, νοητὰ ἅττα καὶ ἀσώματα εἴδη βιαζόμενοι τὴν ἀληθινὴν οὐσίαν εἶναι…
+
+Par cette philosophie qui reconnaît εἴδη νοητὰ καὶ ἀσώματα, Platon ne peut entendre sa propre école; car on verra plus bas qu’il met cette philosophie, avec le matérialisme des physiciens de l’école d’Ionie et la doctrine des Éléates, au nombre des hypothèses incomplètes, qui ne peuvent rendre compte ni de l’être ni du non-être. P. 271 : « Aussi bien parmi ceux qui mettent l’univers en mouvement que parmi ceux qui le tiennent au repos, comme étant un, et ceux enfin qui, dans le système des idées, veulent que l’être demeure toujours invariable et dans le même état… » Bekker, p. 203 : ὅσοι κατ’ εἴδη τὰ ὄντα κατὰ ταῦτα ὡσαύτως ἔχοντα εἶναί φασιν ἀεί. Ajoutez que dans ce dernier passage on ne peut mieux distinguer de l’école d’Élée, qui fait l’univers immobile dans l’unité, les partisans des idées qui le font toujours le même dans les idées qui le dominent. On ne peut done croire que Platon, dans le passage précédent, ait parlé des Éléates ; et il faut chercher une autre école à laquelle on puisse rapporter à la fois ces deux passages ; et la seule école qui se présenta est celle [[p.518]] de Mégare, sortie à la fois de l’école de Parmédide et de l’école de Socrate, et contemporaine de Platon.
+
+PAGE 260. — Évidemment ils diront que ce ne sont là ni des actions ni des passions ; autrement ils diraient le contraire de ce qu’ils ont avancé tout à l’heure. — J’entends. — C’est à dire que… BEKKER, p. 195.
+
+Je me suis décidé, avec Schleiermacher, a maintenir l’ancien ordre d’interlocution. Van-Heusde, Heindorf et Bekker rapportent à Théétète la phrase évidemment, en réunissant j’entends et c’est-à-dire en une seule phrase, qu’ils attribuent à l’étranger. Schleiermacher avoue que la phrase affirmative, évidemment, n’est pas très naturelle dans la bouche de l’étranger, à la suite des phrases interrogatives qui précèdent, et que celle-là, comme le remarque Heindorf, devrait aussi être interrogative, et par conséquent que δῆλον devrait être précédé d’une particule interrogative, telle que ἦ, le personnage qui fait une demande dans les dialogues de Platon ne faisant pas lui-même immédiatement la réponse, sans la proposer encore comme une demande nouvelle, avec quelque formule de doute. Il ajoute même qu’il est difficile de séparer μανθανῶ de τοτόδεγε ὡς, puisqu’il n’y a pas plus de raison pour faire [[p.519]] commencer l'autre personnage à ὡς qu'à τόδεγε. Mais il lui semble que si on rapporte à Théétète évidemment, on lui attribue une intelligence trop prompte de la relation de la connaissance avec l'action, la passion et le mouvement, et qu'on fait jouer à l'étranger le rôle du jeune homme en lui faisant dire μανθανῶ qu'au contraire, si c'est Théétète qui dit μανθανώ le τόδεγε, dans la bouche de l'étranger, est une introduction naturelle à ce qui suit, et où l'on voit que si Théétète avait compris la première conséquence (τόδεγε), la seconde, dont l'exposition commence à Mais quoi : τί δαὶ…, ne s'était pas présentée à son esprit.
+
+PAGES 261-263. — Mais quoi, par Jupiter ! Nous persuadera-t-on si facilement que dans la réalité, le mouvement, la vie, l'âme, l'intelligence ne conviennent pas à l'être absolu ; que cet être ne vit ni ne pense, et qu'il demeure immobile, immuable, sans avoir part à l'auguste et sainte intelligence ? BEKKER , p. 196 sqq.
+
+Tout ceci était présent à Aristote ou était profondément passé dans son esprit, lorsqu'il écrivait l'admirable chapitre du douzième livre de la Métaphysique, où il revendique pour l'être en soi la pensée et la vie. L'identité des idées amène des formules [[p.520]] analogues. Ainsi, le σεμνὸν καὶ ἄγων νοῦν de Platon rappelle la célèbre phrase du ch. IX : εἴτε γὰρ μηθὲν voιεῖ, τί ἂν εἴη τὸ σεμνόν.. διὰ γὰρ τοῦ νοειῖν τὸ τίμιον αὐτῷ ὑπάρχει. Ici, comme en bien d'autres choses, l'invention et la substance de la pensée appartient à Platon, une forme plus concise à Aristote. Il en faut dire autant des argumens de Platon contre l'immobilité de l'être absolu des Éléates et des Mégariques, argumens qu'Aristote a repris et dirigés contre les Idées platoniciennes.
+
+PAGE 271. — Et ceux encore qui font l'univers tantôt un et tantôt multiple, soit qu'ils distinguent l'unité et l'infini sorti de l'unité, ou bien des élémens finis avec lesquels ils construisent un tout, qu'ils supposent que cette combinaison se renouvelle ou qu'ils la fassent éternelle. BEKKER , p. 203.
+
+Il s'agit ici évidemment d'Héraclite et surtout d'Empédocle, et ce passage se rapporte à celui de la p. 241, où il est parlé des muses d'Ionie et de Sicile.
+
+PAGE 275. — Rechercher si les genres se tiennent en toutes choses de manière à pouvoir se mêler indistinctement les uns avec les autres… BEKKER, p. 206 : καὶ δὴ καὶ διὰ πάντων εἰ συνέχοντα ταῦτα ἐστίν, ὥστε συμμίγνυσθαι δυνατὰ εἶναι. [[p.521]]
+
+Je conserve, avec Bekker et Ast, la leçon ταῦτα, donnée par tous les manuscrits, contre Heindorf et Schleiermacher, qui la changent en τοιαῦτα ; et je rapporte συνέχοντα et ταῦτα à γένη qui précède. Ὥστε n'exige pas un corrélatif aussi prononcé que τοιαῦτα. Schleiermacher prétend qu'il ne peut être question ici de savoir si les γενή sont eux-mêmes συνέχοντα, mais bien s'il y a des συνέχοντα qui servent au mélange, des γένη , comme il a été dit plus haut que les voyelles servent à lier les consonnes. Cela est vrai, si on prend συνέχοντα à l'actif ; mais on peut le prendre au neutre, comme je l'ai fait et comme l'a fait avant moi Ficin, qui traduit ainsi : Si ista conveniunt adeo ut commisceri possint. J'ajoute que si on change ταῦτα en τοιαῦτα, γένη se trouve être à la fois le régime de συνέχοντα et le sujet de δυνατὰ εἶναι, ce qui rend la construction obscure et vicieuse.
+
+PAGE 276. — Ainsi, celui qui est capable de faire ce travail, etc. BEKKER, p; 207 : οὐκοῦν ὅγε τοῦτο δυνατὸς δρᾷν…
+
+J'ai entièrement adopté l'explication que Heindorf a proposée de ce passage. Schleiermacher l'entend tout autrement ; il pense qu'il est toujours question de la distinction différentes classes d'idées, selon qu'elles peuvent se mêler à tout, ou qu'elles ne se mêlent à rien, ou qu'elles se mêlent à certaines [[p.522]] choses, et ne se mêlent pas à certaines autres. Ces différentes sortes d’idées seraient, suivant lui, celles dont il est question un peu plus bas, l’être, le repos et le mouvement, le même et l’autre. Par μίαν ἰδέαν διὰ πολλών, ἑνὸς ἑκάστου κειμένου χωρὶς, πάντῃ διατεταμένην, il faudrait entendre l’être, en prenant διὰ πολλών pour l’équivalent de δια πάντων. Πολλὰς ἑτέρας ἀλλήλων ὑπὸ μιᾶς ἔξωθεν περιεχομένας se rapporterait à l’idée du même, qui embrasse plusieurs idées différentes d’une manière toute extérieure, ἔξωθεν, comme par exemple le mouvement et le repos dont on peut dire qu’ils sont le même, en tant qu’ils sont l’un et l’autre, quoique absolument différents entre eux. Μίαν αὖ δι’ ὅλων πολλῶν ἐν ἑνὶ ξυνημμένην se rapporterait à l’idée de l’autre, qui réunit plusieurs choses par leur rapport commun à une seule, ἐν ἑνί, autre qu’elles toutes. Enfin, πολλὰς χωρὶς πάντῃ διωρισμένας désignerait les idées opposées telles que le mouvement et le repos, etc., qui n’ont rien de commun l’un avec l’autre. Heindorf remarque fort bien que μία ἰδέα διὰ πολλῶν, etc., ne s’applique pas moins bien aux idées du même et de l’autre, qu’à l’idée de l’être. On peut ajouter que πολλὰς ἑτέρας ἀλλήλων, etc., s’appliquerait aussi bien à l’idée de l’autre qu’à celle du même, même en donnant à l’expression ἔξωθεν περιεχομένας la force que lui attribue Schleiermacher ; car la différence des choses en tant qu’elles diffèrent [[p.523]] toutes d’une même chose à laquelle on les compare, n’est pas un caractère moins extérieur que l’identité attribuée à des choses différentes par cela seul qu’elles sont. En outre, Schleiermacher avoue lui-même que l’explication qu’il propose ne tient pas suffisamment compte de l’opposition établie par Platon, d’abord entre μία διὰ πολλῶν et πολλαὶ ὑπὸ μίας, puis entre μία διὰ πολλῶν et πολλαὶ πάντῃ χωρὶς διωρισισμέναι. Enfin, j’ajoute que διαιρεῖσθαι κατὰ γένος qui précède tout ce passage, et διακρίνειν κατὰ γένος qui le résume, prouvent suffisamment qu’il y est question de la subordination des genres, des espèces et des individus. Μία ἰδέα διὰ πολλῶν, etc., c’est l’idée de l’espèce qui réunit les individus ; πολλὰς ἑτέρας ἀλλήλων, etc., ce sont les espèces comprises dans l’extension d’un même genre ; ὅλα πολλά, etc., sont les genres contenus dans des genres plus élevés; πολλαὶ χωρὶς πάντῃρ διωρισμέναι sont les espèces ou idées qui ne peuvent se ramener à un genre supérieur.
+
+PAGE 287. — Ca la nature de l’autre, répandue en tout… BEKKER, p. 214 : κατὰ πάντα γὰρ ἡ θατέρου φύσις…
+
+La nature de l’autre, ἡ φόσις, c’est l’idée, c’est le genre de l’autre; comme il a été dit plus haut, Bekker, p. 212 : μετέχων τῆς ἰδέας τῆς θατέρου, et plus bas : [[p.524]] ἡ θατέρου φύσις, Bekker, 516, 1. θ, et encore plus bas ; ibid., 1. 17 sqq. Φύσις est employé constamment pour l’idée ; c’est l’antécédent du sens si fréquent de φύσις dans Aristote, où φύσις se prend perpétuellement pour μορφή, εἶδος, τά τι, τότι ἦν εἶναι.
+
+PAGE 293. — Et comme nous avons vu que le grand est grand, que le beau est beau, que le non grand est non grand, et que le non beau est non beau, de même avons-nous dit et devons-nous encore dire que le non-être existe à l’état de non-être… BEKKER, p. 218.
+
+Boeckh, Heindorf, Schleiermacher et Bekker, retranchent les mots καὶ τὸ μὴ μέγα μὴ μέγα καὶ τὸ μὴ κάλον μὴ καλόν. Mais d’abord tous les manuscrits les donnent ; ensuite ils servent à amener τὸ μὴ ὃν ἔστι μὴ ὄν, et je les crois nécessaires logiquement.
+
+PAGE 296. — En effet, mon cher, cette manie de séparer toutes choses les unes des autres, absurde en elle-même, annonce un esprit étranger aux muses et à la philosophie. BEKKER, p. 221.
+
+Schleiermacher soupçonne que toute cette polémique est dirigée contre Antisthènes, Aristote, Métaph. V, 29 ; et, en effet, la fin du Sophiste a bien l’air de renfermer une foule d’allusion,, dont la trace précise nous échappe. [[p.525]]
+
+PAGE 308, — C’est-à-dire ce qui est autre que ce qui est sur ton compte. BEKKER, p. 229.
+
+Il m’a été impossible de ne pas adopter, avec tous les critiques, la correction de Gornarius, όντων pour ὄντων, malgré l’unanimité des manuscrits.
+
+PAGE 310. — Et quand cela se fait en silence dans l’âme par la pensée, n’est-ce pas opinion qu’il faut l’appeler? BEKKER, p. 231.
+
+Ast reproche à Schleiermacher d’avoir traduit ici δόξα par Vorstellung, représentation, qui traduirait mieux φαντασία, et il propose de rendre δόξα par Urtheil, jugement. Dans le Théétète, j’ai traduit δόξα par jugement, parce qu’il importait d’y distinguer sévèrement la δόξα de l’αἰσθήσις. Mais il m’a paru qu’ici, et dans la plupart des cas, le mot opinion qui implique un acte de l’esprit, sans dire si c’est un jugement proprement dit ou une aperception immédiate, tenait le juste milieu entre la prétention de Ast et la traduction de Schleiermacher, entre une intuition de la pure imagination et une opération toute logique.
+
+[[p.526]]
+
+NOTES
+
+SUR LE POLITIQUE.
+
+____________
+
+Nous avons eu moins de ressources encore pour le Politique que pour le Cratyle et le Sophiste. Toute édition critique nous a manqué, et nous avons été réduits aux éditions générales de Bekker et de Ast, et à la traduction de Schleiermacher.
+
+Ce dialogue, qui contient le premier essai politique de Platon, est traduit ici en français pour la première fois.
+
+PAGE 358. — Voilà notre espèce humaine réunie et courant de compagnie avec l’espèce la plus noble à la fois et la plus agile. BEKKER, p. 266.
+Passage très obscur. Quelle est cette autre espèce qui, avec l’espèce humaine, compose les deux espèces en question, γενοῖν δυοῖν ? Ast (Platon’s Leb., p. 234, et l'édition du Phèdre, p. 313) dit qu'incontestablement, ohne Zweifel, c’est un oiseau, une oie, etwa Gânse. Mais cette hypothèse, donnée comme incontestable, manque à la première condition du [[p.527]] problème, savoir, que l’animal en question ait quatre pieds, δυοῖν ποδοῖν δίς πεφ. Il faut donc admettre l’hypothèse de Schleiermacher, que c’est un cochon ; car il ne reste pas d’autre animal domestique à quatre pieds. Mais nous ne pouvons plus suivre Schleiermacher dans l’explication de γένει τῷ τῶν ὄντων γενναιοτάτῳ καὶ ἅμα εὐχερεστάτῳ. Il retranche γένει, qui est dans tous les manuscrits, lit τὸ τ. ὄ. γενναιοτάτον, qu’aucun manuscrit ne donne, au lieu de τῷ τ. ὄ. γενναιοτάτῳ, supprime καὶ ἅμα, met τῷ devant εὐχ., et tire du tout le sens suivant : l’espèce humaine, cette espèce la plus noble, est en compagnie de l’espèce la plus vile. Si l’on veut s’en tenir au texte, il faut absolument rapporter τῷ γένει γενναιοτάτῳ καὶ εὐχερεστάτῳ à la même espèce, et à une espèce autre que l’homme, à l’espèce animale domestique à quatre pieds, c’est-à-dire au cochon. Cela posé, on est condamné à prendre ironiquement γένει τ. τ. ὄ. γενναιοτάτῳ, explication qui s’était déjà présentée à Schleiermacher, et à entendre avec Ast εὐχερὲς dans le sens de expeditus, leste, agile, léger. En effet, on voit en ce même endroit qu’il s’agit de deux espèces, dont l’une irait plus vite que l’autre, et arriverait plutôt au but qu’elles poursuivraient ensemble. C’est aussi l’image sous laquelle est présentée la comparaison du roi et du gardien de cette espèce inconnue : ξυνδιαθεῶν καὶ ξυνδρόμα [[p.528]] πεπορευομενός. La preuve que l’homme et le roi sont ici comparés à quelque objet ignoble, c’est cette réflexion de Platon, qui se trouve déjà dans le Sophiste, et qui revient à la fin de ce passage : « La méthode de division ne s’inquiète pas de ce qui est noble et de ce qui ne l’est pas ; elle ne méprise pas plus le petit que le grand, mais elle va toujours à ce qui est le plus vrai. »
+
+PAGE 340. — Ainsi les hérauts obéissent d’abord, et c’est après avoir reçu la pensée d’un autre qu’ils commandent. BEKKER , p. 258 : οὐκοῦν καὶ τὸ κηρυκικὸν φῦλον ἐπιταχθέν, ταλλότρια νοήματα παραδεχόμενον.
+
+Je conviens que ἐπιταχθέν tout seul, pour ἐπιταχθὲν ἔστι, ἐπιταττέται, est un peu étrange, et que la correction de Van-Heusde, ἐπιταχθέν’ ἀλλότ., est séduisante. Mais Bekker, qui a dû la chercher dans les manuscrits, ne l’y a pas trouvée ; et puis νοήματα ἐπταχθέντα, des pensées commandées, a aussi son étrangeté. J’ai donc cru devoir m’en tenir à l’ancien texte: Mais Van-Heusde a raison dans les deux passages analogues : Bekker, p. 355, πραττόμ’ ἀγασθέντες, au lieu de πραττόμεν ἀγασθ. ; et plus bas, Bekker, p. 360, νομίσασ’ αὐτῶν pour νομίσας αὐτῶν.
+
+PAGE 360. — Distinguer dans les bipèdes qui [[p.529]] vivent en troupe l’espèce nue de celle qui porte des plumes…
+
+Le bipède qui vit en troupe, et qui est sans plumes, c’est l’homme. Serait-ce ce passage qui aurait fait dire à Diogène, en montrant un coq déplumé : Voilà l’homme de Platon ? D. de Laërte in Diog. VI, 40.
+
+PAGE 375. — Et livré à la terre autant de germes qu’il lui avait été prescrit… BEKKER, p. 280  : καὶ ὅσα ἦν ἑκάστῃ προσταχθέντα, τοσαῦτα εἰς γῆν σπέρματα πεσούσης…
+
+Ce passage ne me paraît pas aussi corrompu que le pensent Schleiermacher et Bekker. D’abord Fischer prétend que πεσούσης peut se prendre au sens actif, pour βαλούσης. Ensuite, si la remarque de Schleiermacher sur σπέρματα est vraie il faut admettre que dans ce récit fabuleux l’auteur a très bien pu oublier quelqu’une des données mêmes de la fable. Il y a dans Platon plus d’un exemple de semblables négligences.
+
+PAGE 377. — Répare ce qui s’est altéré ou détruit… BEKKER, p. 282 : τὰ νοσήσαντα καὶ λυθέντα… κοσμεῖ…
+
+On ne voit pas pourquoi Van-Heusde veut supprimer τὰ et entendre (τὸν κόσμον) νοσήσαντα καὶ λυθέντα [[p.530]] Le monde entier n'avait pas été détruit, mais seulement certaines choses dans le monde.
+
+PAGE 381. — Il ne nous faut ni plus ni moins rechercher la vraie définition. BEKKER, p. 285.
+
+Bekker a trouvé dans ses manuscrits l'excellente correction ῥητητέοι… ἂν εἴησαν, proposée par Van-Heusde.
+
+PAGE 408. — La longueur, la profondeur, la largeur et l'épaisseur. BEKKER, p. 306 : καὶ μήκη καὶ βάθη καὶ πλάτη καὶ παχύτητας.
+
+Il semble que la longueur, la largeur et la profondeur épuisent les dimensions de l'espace, et qu'd ne reste plus ensuite à considérer que le mouvement. Aussi H. Etienne a-t-il proposé la correction ταχύτητας, et Schleiermacher l'a adoptée. Mais un peu plus bas, dans ce même dialogue, Bekker, p. 338, Platon met à la fois βάθεσιν et πάχεσιν. Il n'y a donc pas de raison de l'effacer dans un endroit plus que dans l'autre, et nous avons suivi Bekker et les manuscrits, quoiqu'il nous paraisse toujours y avoir un peu de luxe dans cette énumération des divisions de l'espace.
+
+PAGE 409. — Beaucoup de doctes personnages avancent quelquefois comme une sage sentence, que l'art de mesurer s'étend à tout ce [[p.531]] qui arrive dans le monde. BEKKER, p. 306-307 : ὡς ἄρα μετρηκικὴ περὶ πάντ' ἐστὶ τὰ γιγνόμενα.
+
+Il s'agit ici, sans aucun doute, des pythagoriciens.
+
+PAGES 412-414.
+
+Réponse indirecte aux critiques qui avaient été faites de la longueur des discours de Socrate et de Platon. Le ton de l'apologie est ici sensible sous celui du dédain. On ne peut trop répéter qu'il y a dans Platon une foule d'allusions aux discussions contemporaines , qui sont presque entièrement perdues pour nous, et qu'il est à peine en notre pouvoir de soupçonner.
+
+PAGE 424. — Il y a encore l'espèce des prêtres…
+
+Ce passage est très précieux par la différence nette et précise qu'il établit entre le gouvernement sacerdotal et le gouvernement de Platon, où les prêtres ne sont considérés que comme des serviteurs de l'État. Ce caractère de la politique platonicienne se retrouve dans les Lois, liv. VI.
+
+PAGE 449. — Ensuite il faudra que quiconque le voudra, parmi ceux qui en ont le droit… BEKKER, p. 338 : τὸν βουλόμενον, οἷς ἔξεστι… [[p.532]]
+
+Schleiermacher wohin. Ast lit οἷ, et traduit : quo oporteat. J’entends : τὸν βουλόμενον τῶν οἷς ἐξ. C’est une restriction qui se rapporte à ce qu’a dit plus haut le jeune Socrate : exercer une telle autorité n’appartient pas au premier venu ; il faut avoir qualité pour cela.
+
+PAGE 456. — Quand il est évident qu’en toute autre affaire ce principe serait une cause de ruine. BEKKER, p. 343 ; ἑτέρα προσχρωμένη παντὶ κατάδηλος ὡς πάντ’ ἂν διολέσειε τὰ ταύτῃ γιγνόμενα.
+
+Schleiermacher trouve ce passage défectueux, et il rapporte ἑτέρα à πολιτείᾳ, qu’il tire de πολιτείαις, de la phrase précédente; mais si la grammaire peut admettre πολιτείᾳ, le sens le repousse invinciblement, puisqu’il s’agit de tirer une induction politique de ce qui arriverait en d’autres matières, si l’on y suivait le même principe. Je lis donc ἑτέρᾳ et non ἑτέρα avec Bekker, et je le prends adverbialement, ce qui n’est pas sans exemple ; ou s’il fallait le rapporter à quelque mot précédent, je le rapporterais plutôt à πράξει, de τὰς πράξεις, qui précède immédiatement, ou à τέχνη, dont il a été parlé plus haut.
+
+PAGE 462. — Et cet art de la parole qui participe de la puissance royale. BEKKER, p. 348 : βασιλικῇ κοινωνοῦσα ῥητορεία. [[p.533]]
+
+Ῥητορεία, mot inusité, au lieu de ῥητορικὴ, probablement inventé par Platon, dit Schleiermacher, pour désigner une autre rhétorique que la rhétorique vulgaire. Cette distinction de deux sortes de rhétorique, ou plutôt de la vraie éloquence et de la rhétorique, est en germe dans le Phèdre, et elle a son développement dans le Gorgias.
+
+Page 464. — À quel art maintenant attribuerons-nous la puissance de persuader la foule et la multitude par de vaines paroles et non par des raisons solides ? Bekker, p. 349 : τίνι τὸ πειστικὸν οὖν ἀποδώσομεν ἐπιστήμῃ πλήθους τε καὶ ὄχλου διὰ μυθολογίας ἀλλὰ μὴ διὰ διδαχῆς ;
+
+Schleiermacher entend τίνι absolument, et rapporte ἐπιστήμῃ à τὸ πειστικόν, la puissance de persuader avec science, mit Erkentniss. Mais μὴ διὰ διδαχῆς s’oppose à ce sens. Ensuite, τίνι, tout seul, appellerait en réponse un nom propre plutôt qu’un nom de chose, et si on peut dire πειθεῖν ἐπιστήμῃi, on dirait beaucoup moins τὸ πειστικὸν ἐπιστήμῃ. Enfin, c’est ici tout simplement une variante de la phrase qui suit : ποίᾳ προσθήσωμεν ἐπιστήμῃ ;
+
+Ibid. — Ou s’il faut s’abstenir tout-à-fait… Bekker, ibid. : ἢ καὶ τὸ παράπαν ἔχειν.
+
+Ἔχειν est s’abstenir ; et s’abstenir est en effet, le [[p.534]] dernier parti qui reste après l’alternative indiquée. Ast veut lire λέγειν, qui ne peut être admis ; car λέγειν semble précisément une des deux choses écartées, savoir, πράττειν διὰ πειθοῦς.
+
+FIN.
+
+↑ Oὐ κατὰ τὰς τοῦ Περιπάτου φιλὰς τῶν πραγμάτων μεθόδους διαλεκτικὰς, ἀλλὰ κατὰ τὸν μέγαν Πλάτωνα, εἰδότα τὴν διαλεκτικὴν ἁρμόζειν μόνοις τοῖς κεκαθαρμένοις τὴν διάνοιαν τελέως καὶ διὰ τῶν μαθημάτων παιδευθεῖσι καὶ διὰ τῶν ἀρετών τὸ νεαροπρεπὲς τῶν ἠθῶν ἀποκαθαρθεῖσιν καὶ ἁπλῶς γνησίως φιλοσοφήσαοιν, καὶ θριγκὸν οὖσαν τῶν μαθημάτων καὶ ἀνάγουσαν ἡμᾶς ἐπὶ τὴν μίαν πάντων αἰτίαν, τἀγαθόν,…
+
+↑ Ἢ γὰρ τοῦ Περιπάτου ἀναλυτικὴ καὶ τὸ ταύτης κεφάλαιον, ἡ ἀποδειξις, πᾶσιν εὔληπτα καὶ ἀρίδηλα τοῖς μὴ παντάπασι ακοτοδνιῶσιν.
+
+↑ Οὐ ψιλήν.
+
+↑ Diogène, liv. X, p. 75 ; Gassendi, liv. I, p. 362.
+
+↑ Probablement dans le livre dont parle Diogène, liv. IX, p. 48 : περὶ βημάτων ἢ τὸ Ὀνομαστικόν.
+
+↑ De l’interprétation, avec le commentaire d’Ammonius.
+
+↑ Renseignements curieux et que nous n’avons trouvés nulle part ailleurs.
+
+↑ Gassendi, t.1, p. 362.
+
+↑ De Interp. III, 4, 4.

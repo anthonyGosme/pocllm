@@ -1,0 +1,310 @@
+[[p.325]]
+
+### NOTES
+SUR L’EUTHYPHRON.
+
+Je préviens que, pour ce dialogue, comme pour les trois autres dont se compose ce volume, j’ai fait quelques emprunts aux traductions existantes, toutes les fois que le système de fidélité et d’exactitude littérale que je me suis imposé, me l’a permis.
+
+Quant, à ces notes, le seul but que je m’y suis proposé, est de rendre compte de mon opinion personnelle et de m’absoudre du reproche de légèreté, lorsque j’ai cru devoir m’écarter de l’interprétation généralement reçue, ou lorsque, sur des points difficiles et fréquemment controversé, il a fallu me décider entre plusieurs autorités célèbres.
+
+J’ai eu constamment sous les yeux les éditions générales de H. Étienne et de Bekker ; les éditions particulières de Forster, de Fischer, de Wolf (Berlin, 1820) ; la traduction latine de Ficin, la traduction [[p.326]] allemande de Schleiermacher ; l’Eclogæ Cornarii, et le Specimen criticum de Van-Heusde.
+
+Maucroix et Dacier ont traduit ce dialogue en français.
+
+Page 9. — Quitter ces habitudes du Lycée pour le portique du Roi.
+
+Τὰς ἐν Λυκείῳ καταλιπὼν διατριβὰς ἐνθάδε νῦν διατρίβεις περὶ τὴν τοῦ βασιλέως στοάν (Bekker, I partie, I vol., p. 351.)
+
+Nul doute que διατρίϐειν et διατριϐὴ n’expriment souvent l’action de converser et même celle de discuter. Dacier : Les conversations du Lycée. Ficin : exercitationes. Fischer relève avec raison l’erreur de Serranus qui traduit : spatia, les promenades du Lycée ; il veut que διατριϐὰς signifie positivement disputationes. Bast, dans son essai critique sur le texte du Banquet, p. 167, à propos d’une phrase du Banquet où διατρίϐειν veut dire indiscutablement disputer, renvoie à la note de Fischer sur l’Euthyphron, et affirme que διατριϐὴ, διατρίϐειν, ne marquent pas seulement la présence (den Aufenthalt) de Socrate au Lycée, mais ce qu’il y fait (seine Beschäftigung), son occupation, qui était de disputer. Bast écrivait ceci en 1794. Cependant, en 1805, M. Schleiermacher, en traduisant l’Euthyphron, n’a pas hésité à se servir de ce même [[p.327]] mot Aufenthalt, condamné d’avance par Bast, et je suis entièrement de l’avis de M. Schleiermacher : 1 parce que le sens propre et primitif de διατρίϐειν est bien le versari des Latins, passer son temps ; 2 parce que διατρίϐεις περὶ τὴν τοῦ ϐασιλέως στοὰν membre de phrase que l’on a trop négligé pour l’explication du précédent, signifie incontestablement : Nunc versaris circa regis porticum, et qu’il serait trop bizarre que διατρίϐειν et διατριϐὰς fussent employés si près l’un de l’autre dans deux sens différens.
+
+Je crois que c’est de la même manière qu’il faut entendre les passages suivants de l’Apologie de Socrate.
+
+Ὑμεῖς μὲν… οὐχ οἷοί τε ἐγένεσθε ἐνεγϰεῖν τὰς ἐμὰς διατριϐὰς ϰαὶ τοὺς λόγους. Bekker, I part., II vol., p. 131. — Dacier et Thurot traduisent : Ma conversation et mes discours. Fischer prétend que λόγους détermine le sens de διατριϐὰς : il paraît plus juste de dire que si λόγους signifie conversation, διατριϐὰς ne doit pas signifier la même chose, et doit marquer seulement la manière d’être de Socrate en général, laquelle consistait à converser avec ses concitoyens, modification exprimée par λόγους.
+
+Θαυμαστὴ ἂν εἴη ἡ διατριϐὴ αὐτόθι, ὁπότε ἐντύχοιμι Παλαμήδει ϰαὶ Αἴαντι…… Bekker, ibid.., p. 138. — Wolf : Conversatio delectabilis si colloqui licebit. Mais ἐντύχοιμι ne veut pas dire colloqui ; et le sens de διατριβὴ [[p.328]] est bien expliqué plus bas par ces mots : καὶ τὸ μέγιστον (εἴη) τοὺς ἐκεῖ ἐξετάζοντα…… (διάγειν)…… D’ailleurs il ne s’agit pas ici de conversation. C’est avec les sages, comme Hésiode, Homère, Orphée, qu’il serait doux à Socrate de s’entretenir. Quant à Ajax, il n’y aurait pas grande conversation à faire avec lui, mais il serait agréable de le rencontrer, ainsi que Palamède, parce qu’ils avaient été condamnés injustement, comme Socrate. Il y aurait du plaisir à passer son temps avec eux. Ficin traduit très bien, habitatio illa atque consuetudo. Schleiermacher : das Leben.
+
+Page 10. — Il est du bourg de Pithos…
+
+J’appelle Pithos, et non Pithis, et encore moins Pitthée avec Dacier, le même auquel appartient Mélitus, sur l’autorité d’Étienne de Byzance, de Proclus ad Hesiod., qui déclarent que Πίθος était un dême ainsi appelé, parce qu’on y faisait des tonneaux, πίθων αὐτόθι γενομένων. Si Πίθος est le nom du dême, l’habitant du dême doit s’appeler Πιθεὺς et non Πιτθεὺς, avec Bekker, p. 351. (Voyez la note de Fischer, page 8, note 8.)
+
+Page 12. Ils nous portent envie à tous tant que nous sommes, qui avons quelque mérite.
+[[p.329]]
+
+Ἀλλ’ ὅμως φθονοῦσιν ἡμῖν πᾶσι τοῖς τοιούτοις. (Bekker, p. 353.)
+
+Je ne puis me persuader que ἡμῖν πᾶσι ne comprenne pas aussi Socrate. Alors τοῖς τοιούτοις ne pourrait signifier seulement des devins, des hommes de la profession d’Euthyphron, comme semblent le vouloir toutes les traductions ; mais τοιοῦτος serait là, comme assez souvent, une expression emphatique. Euthyphron se met, par générosité, sur la même ligne que Socrate ; il le console d’abord par son propre exemple, et finit par lui dire que c’est leur sort commun à eux tous, gens de mérite, à nous tous qui valons ce que nous valons, d’être enviés et calomniés. M. Schleiermacher a négligé τοῖς τοιούτοις.
+
+Page 24. — Socrat. Et cela te paraît bien dit ? — Euthyphr. Oui, n’est-ce pas ce qui a été dit ? — Socrat. Mais il a été dit aussi que les dieux ont entre eux des inimitiés et des haines, et qu’ils sont brouillés et divisés. — Euthyphr. Et je m’en tiens à mes paroles.
+
+ΣΩΚ. καὶ εὖγε φαίνεται εἰρῆσθαι ; — ΕΥΘ. Δοκῶ, ὦ Σώκρατες, εἴρηται γάρ. — ΣΩΚΡ. Οὐκοῦν καὶ ὅτι στασιάζουσιν οἱ θεοὶ, ὦ Εὔθυφρων, καὶ διαφέρονται ἀλλήλοις, καὶ ἔχθρὰ ἐστὶν ἐν αὐτοῖς πρὸς ἀλλήλους, καὶ τοῦτο εἴρηται. — ΕΥΘ. Εἴρηται γάρ. (Bekker, p. 362.)
+
+[[p.330]]
+
+D’abord il est impossible de prendre les deux γὰρ dans deux sens différens. Ensuite l’un comme l’autre exprime non pas seulement une simple affirmation, mais une véritable relation logique. Il a déjà été convenu que le saint et l’impie sont opposés, et on vient redemander à Euthyphron s’il croit que le saint et l’impie sont opposés ! Certainement, s’écrie-t-il, sans cela nous n’en serions pas déjà convenus ; car c’est ce qui a été dit. Sur quoi, Socrate a l’air de s’étonner qu’on prenne pour une raison légitime de croire une chose, cette considération, qu’on en est convenu, qu’on l’a dite, et il lui fait l’objection suivante : Mais il a été dit aussi que tous les dieux ont entre eux des inimitiés et des haines, ce qui pourtant paraît étrange. Est-ce que tu le crois aussi ? Oui, certes, dit Euthyphron, je le crois, sans cela en serais-je convenu ? car je l’ai dit. Il y a bien une certaine suffisance dans la réponse du bon devin ; cependant il est assez naturel qu’il ne veuille pas se dédire. D’ailleurs il n’y a pas d’exemple d’un seul γὰρ inutile, c’est-à-dire qu’on ne puisse ramener à un sens logique. Heusde, qui refait le texte de Platon toutes les fois qu’il ne l’entend pas, bouleverse toute cette phrase. Les traductions latines traduisent le premier γὰρ par car, et le second par sans doute. Ficin : Dicta ENIM sunt ; puis : dictum PROFECTO. Schleiermacher, qui traduit le second γὰρ par sans [[p.331]] doute, freilich, recule, je ne sais pourquoi, devant le premier γὰρ, qu’il aurait bien pu traduire comme le second : il ne l’ose et le change en γ’ οὖν, soupçonnant au reste que ce premier εἴρηται γὰρ est une glose tirée du second. Tout est nécessaire et parfaitement
+à sa place.
+
+Il y a dans le second Alcibiade plusieurs passages semblables à celui-ci. — Bekker, I partie, II vol.
+
+Ὡμολόγηται γὰρ. — Ὡμολόγησα γὰρ. — Οὐ γάρ, p. 272-273. — Φαμὲν γάρ. p. 289.
+
+Et dans l’Hipparque. — Bekker, I partie, II vol.
+
+Σωϰρ. Οὐϰ ἄρα οἴεταί γε ϰερδαίνειν ἀπὸ τῶν σϰευῶν τῶν μηδενὸς ἀξίων. — Ἑταιρ. Οὐ γάρ. p. 233. Il ne le pense pas ; car il ne doit pas le penser.
+
+Ibid. Σωϰρ. Ἐναντίον δὲ ὂν ϰαϰῶ, ἀγαθὸν εἶναι. — Ὡμολογήσαμεν γάρ. Oui, car nous en sommes convenus.
+
+Et dans le I Alcibiade. Bekker, II part., III vol., 304 : Ἆρ´ ἐρωτᾷς εἴ τιν´ ἔχω εἰπεῖν λόγον μαϰρόν, οἵους δὴ ἀϰούειν εἴθισαι; οὐ γάρ ἐστι τοιοῦτον τὸ ἐμόν. — Non, car ce n’est pas là ma manière.
+
+Page 35. — D’un autre côté, ce qui est aimable aux dieux est aimable aux dieux, est aimé des dieux, parce que les dieux l’aiment.
+
+Ἀλλ μὲν δὴ διοτὸ φιλεῖται ὑπὸ θεῶν, φιλούμενόν ἐστι ϰαὶ θεοφιλὲς τὸ θεοφιλές. (Bekker. p. 371.)
+[[p.332]]
+
+Depuis la remarque et la correction célèbre de Bast, τὸ θεοφιλές a pris l’autorité d’une leçon reconnue. Schleiermacher l’adopte dans sa traduction ; Wolf l’introduit dans son texte, et Bekker dans le sien. Bekker l’aurait-il trouvée dans un manuscrit ? C’est ce que nous saurons quand paraîtra l’Apparatus in Platonem. En attendant, j’ai traduit comme s’il y avait τὸ θεοφιλές, sans le croire peut-être absolument indispensable dans le texte, mais pour plus de clarté dans la traduction.
+
+Page 38. — Je veux aller à ton secours, et te montrer comment tu pourras me conduire à la connaissance de ce qui est saint, et ne pas me laisser en route.
+
+Αὐτός σοι ξυμπροθυμήσομαι δεῖξαι ὅπως ἄν με διδάξῃς ϰαὶ μὴ προαποϰάμης.
+
+Telle est la leçon ordinaire, et elle me suffit parfaitement. Schleiermacher propose de retrancher δεῖξαι avec le Mss. de Florence, δεῖξαι ne pouvant aller, selon lui, avec ξυμπροθυμήσομαι, et encore moins avec ὅπως μὴ προαποϰάμης. J’avoue que je ne trouve aucune difficulté à tout cela. Je m’efforcerai avec toi de te montrer comment il faut que tu t’y prennes pour m’instruire ; car c’est à l’écolier à aider un peu le maître, et à lui montrer ce qu’il doit faire pour
+[[p.333]] lui être utile. Le maître doit chercher la route la meilleure, mais l’écolier doit aussi la chercher avec lui, et même avant lui. ξυμ… προ… θυμήσομαι δεῖξαι. Aussi Bekker a-t-il conservé δεῖξαι. Quant à δεῖξαι… ὅπως μὴ προαποκάμης, on conçoit très bien que si le maître prend une mauvaise route, il s’y embarrassera dans mille obstacles qui finiront par le décourager, tandis que s’il choisit la vraie, il la poursuivra avec courage et persévérance, et conduira l’élève au but. Ainsi, montrer à son maître comment on a besoin d’être instruit, c’est lui montrer comment il pourra nous mener au but, et ne pas nous laisser en chemin. Mais ici Bekker, frappé sans doute de l’objection de M. Schleiermacher, sépare διδάξης de καὶ μὴ προαποκάμης, de peur qu’on ne les rapporte au même verbe : au lieu de διδάξης, il lit διδάξαις avec un point en haut, puis il fait de καὶ μὴ προαποκάμης le commencement d’une phrase indépendante de la première (Bekker, p. 373). Je doute, malgré toute ma déférence pour le talent critique de M. Bekker, que ces changemens soient nécessaires et très heureux.
+
+[[p.334]]
+
+### NOTES
+SUR L’APOLOGIE DE SOCRATE.
+
+Mêmes secours que pour l’Euthyphron.
+
+Dacier et M. Thurot (Paris, 1806) ont traduit l’Apologie.
+
+Pages 85 et 86. — Tu crois accuser Anaxagore… les jeunes gens viendraient-ils chercher auprès de moi, avec tant d’empressement, une doctrine qu’ils pourraient aller à tout moment entendre débiter à l’orchestre, pour une drachme tout au plus…
+
+Ἀναξαγόρου οἴει ϰατηγορεῖν… (Bekker, II partie, II vol. p. 108 et 109.)
+
+Anaxagore eut entre autres disciples célèbres, Euripide qui répandit dans ses pièces la philosophie d’Anaxagore, et particulièrement sa doctrine sur la nature de la terre et du soleil (Voyez le Scholiaste de Pindare sur la première olympique, Hippolyt., v. 601 avec le Scholiaste, Orest. v. 983 avec le Scholiaste, [[p.335]] les fragmens du Phaéton, et Walckenaer in reliquias Euripidis). Voilà pourquoi Socrate dit que l’on peut aller entendre au théâtre cette doctrine pour une drachme, qui était le maximum du prix des places si l’on en croit le Scholiaste de Lucien ad Timon., Harpocration et Suidas ad v. Θεωρικά ; et comme le chœur était la partie de la tragédie où le poète plaçait ordinairement les sentences et ses idées philosophiques (le morceau de l’Oreste cité plus haut appartient au chœur), et comme l’orchestre était la partie du théâtre où se tenait le chœur (Lexicon Photii ad v. Ὀρχήστρα, Socrate pour dire qu’on peut aller entendre débiter cette doctrine au théâtre pour une drachme, se sert de l’expression πρίασθαι δραχμῆς ἐϰ τῆς ὀρχήστρας, acheter pour une drachme de l’orchestre, et non pas avec tous les traducteurs français à l’orchestre, ou dans l’orchestre, ce qui transforme l’orchestre antique en une espèce de librairie, et semble faire croire que les livres y étaient étalés en vente, comme au foyer de nos théâtres modernes.
+
+Pages 87, 88, 89. — Y a-t-il quelqu’un qui admette quelque chose relatif aux démons, et qui croie pourtant qu’il n’y a pas de démons ?
+
+Ἔσθ’ ὅστις δαιμόνια μὲν νομίζει πράγματα εἶναι, δαίμονας δὲ οὐ νομίζει. (Bekker, p. 110.)
+[[p.336]]
+
+Socrate admettait une révélation surnaturelle qui lui enseignait en toute occasion ce qu’il devait faire et surtout ce qu’il devait éviter. Il croyait sentir en lui quelque chose au-dessus de l’humanité qui éclairait et le dirigeait. Il ne disait pas que ce fût un être positif ; il s’arrêtait au fait dont il avait la conscience, et se servait de l’expression : τὶ δαιμόνιον, non pas un dieu tout-à-fait, mais une espèce d’intermédiaire entre les dieux et les hommes, quelque chose qui appartient à la nature des démons que la Mythologie païenne place entre le ciel et la terre. L’orthodoxie du temps ne reconnaissant pas là précisément ses dieux, avec leur histoire et leurs noms propres, accuse Socrate de substituer à la religion établie καὶνὰ δαίμονια, c’est-à-dire, une religion nouvelle, fondée sur un mysticisme démoniaque. Soit, répond Socrate à Mélitus, du moins alors ne suis je pas athée. Car enfin tu ne m’accuses pas d’admettre l’accident sans le sujet, l’adjectif sans le substantif. Si j’admets τὶ δαιμόνιον, τινὰ δαιμόνια (sous-entendez πράγματα, comme πράγματα ἱππικὰ, πράγματα ἀνθώπεια, πράγματα αὐλητικὰ, et enfin plus bas expressément πράγματα δαιμόνια), quelque chose relatif aux démons, il faut que tu m’accordes que j’admets des démons, δαίμονας. Or, les démons sont enfans des dieux ou dieux eux-mêmes ; donc j’admets des dieux. Ce passage est très clair en lui-même. Malheureusement, il a été défiguré par [[p.337]] tous les traducteurs, Schleiermacher excepté, lesquels s’obstinant, contre toute raison logique et grammaticale, à prendre δαιμόνια substantivement, et à le traduire par divinités, font faire à Socrate le raisonnement suivant : Selon toi, j’admets des divinités, cela suppose que j’admets des démons ; or, si j’admets des démons, il s’ensuit que j’admets des dieux ou des enfans de dieux ; donc j’admets des dieux. Conclure des divinités, c’est-à-dire des dieux aux dieux, n’est pas difficile. Mais on contestait précisément à Socrate qu’il admît des dieux ou des divinités ; et dans sa croyance à quelque chose relatif aux démons, on voyait une preuve qu’il n’admettait pas de dieux. C’est donc de là que Socrate devait partir pour prouver qu’il n’était pas athée. On voit maintenant pourquoi plusieurs fois dans l’Apologie, j’ai traduit δαιμόνια par quelque chose de relatif aux démons ou même par l’inusité démoniaque pour avoir un adjectif qui conduisît naturellement à démons, et exprimât nettement le rapport et l’ordre de toutes les parties du raisonnement de Socrate.
+
+Page 89. — Cela serait tout aussi absurde que de croire qu’il y a des mulets nés de chevaux ou d’ânes, et qu’il n’y a ni ânes ni chevaux.
+
+Ὁ μοίως γὰρ ἂν ἄτοπον εἴη. ὥσπερ ἂν εἴ τις ἵππων μὲν προῖδας [[p.338]] ἡγοῖτο ἢ καὶ ὄνων τοὺς ἡμιόνους, ἵππους δὲ καὶ ὄνους μὴ ἡγοῖτο εἶναι. (Bekker, p. 111.)
+
+Forster est le premier qui ait proposé de retrancher ἢ. Schleiermacher a suivi Forster, et Bekker, entraîné par l’autorité de Schleiermacher et retenu par celle des manuscrits, le met dans son texte, mais entre crochets. Fischer, p. 106, défend très bien la leçon ordinaire. Il ne s’agit pas du père et de la mère du mulet, mais seulement du père, or, il faut nécessairement qu’un mulet ait pour père un cheval ou un âne. Wolf conserve avec raison ἢ et traduit : vel asinorum.
+
+Page 98. — Je vais vous dire des choses qui vous déplairont, et où vous trouverez peut-être la jactance des plaidoyers ordinaires.
+
+Ἐρῶ δὲ ὑμῖν φορτικὰ μὲν ϰαὶ διϰανιϰά. (Bekker, p. 120.)
+
+Ficin traduit : judicialia. Wolf : judiciaria. Mais on ne voit pas bien ce que cela signifie précisément. Schleiermacher : langweilige Geschichten, des histoires ennuyeuses. Mais d’abord il est impossible de faire abstraction de la racine δίκη dans διϰανιϰά. Ensuite il est difficile de se persuader qu’il ne s’agisse ici que de choses ennuyeuses, cet inconvénient étant déjà à-peu-près exprimé par φορτικὰ. J’entends donc plutôt [[p.339]] par δεϰανικὰ des choses emphatiques comme dans les plaidoyers ordinaires. Socrate va dire du bien de lui, comme les avocats font ordinairement de leurs clients ; il est donc naturel qu’il se défende d’arrogance et proteste de la vérité de ses paroles. Lysias contre Ératosthènes dit : Il y en a qui ont l’habitude… πρὸς μὲν τὰ ϰατηγορούμενα μηδὲν ἀπολογεῖσθαι, περὶ δὲ σφῶν αὐτῶν ἕτερα λέγοντες…… Lysias. Reiske, t. I p. 409.
+
+Page 110. — Si vous aviez, comme d’autres peuples, une loi qui, pour une condamnation à mort, exigeât un procès de plusieurs jours.
+
+Quels sont ces peuples qui possédaient une jurisprudence criminelle aussi humaine ? Nul interprète n’en dit rien.
+
+### NOTES
+SUR LE CRITON.
+
+Mêmes secours que pour l’Apologie ; de plus, une édition de Biester, qui ne présente guère qu’un choix des notes de Fischer.
+
+Dacier, Sallier (Mémoires de l’Académie des Inscriptions, t. XIV), et Thurot ont traduit ce dialogue.
+
+[[p.340]]
+
+Page 131. — Il en est temps encore, suis mes conseils.
+
+Ἔτι ϰαὶ νῦν ἐμοῖ πείθον. (Bekker p. 145.)
+
+Tous les traducteurs français et latins : Cède encore une fois à mes conseils. Mais où voit-on que Socrate eût déjà cédé une fois aux conseils de Criton ?
+
+Page 134. — J’ai grand’peur que tout ceci ne paraisse un effet de notre lâcheté, et cette accusation portée devant le tribunal, tandis qu’elle aurait pu ne pas l’être, et la manière dont le procès lui-même a été conduit, et cette dernière circonstance de ton refus bizarre qui semble former le dénoûment ridicule de la pièce ; oui, on dira que c’est par une pusillanimité coupable que nous ne t’avons pas sauvé et que tu ne t’es pas sauvé toi-même, quand cela était possible, facile même, pour peu que chacun de nous eût fait son devoir.
+
+Αἰσχύνομαι μὴ δόξῃ ἅπαν τὸ πρᾶγμα τὸ περὶ σὲ ἀνανδρίᾳ τινὶ τῇ ἡμετέρᾳ πεπρᾶχθαι, ϰαὶ ἡ εἴσοδος τῆς δίϰης εἰς τὸ διϰαστήριον ὡς εἰσῆλθεν ἐξὸν μὴ εἰσελθεῖν, ϰαὶ αὐτὸς ὁ ἀγὼν τῆς, δίϰης ὡς ἐγένετο, καὶ, τὸ τελευταῖον δὴ τουτὶ ὥσπερ ϰατάγελως [[p.341]] τῆς πράξεως, ϰαϰίᾳ τινὶ ϰαὶ ἀνανδρίᾳ τῇ ἡμετέρᾳ διαπεφευγέναι ἡμᾶς δοϰεῖν οἵτινές σε οὐχὶ ἐσώσαμεν οὐδὲ σὺ σαυτὸν, οἷόν τε ὂν ϰαὶ δυνατὸν, εἴτε ϰαὶ σμιϰρὸν ἡμῶν ὄφελος ἦν. (Bekker p. 148, 149.)
+
+On a fait beaucoup de notes sur plusieurs parties de cette phrase, aucune sur l’ensemble et la construction de la phrase entière, qui pourtant en méritait bien une. Il s’agit de déterminer avec précision à quoi se rapporte δοκεῖν ἡμᾶς διαπεφευγέναι, sans quoi la phrase entière est de la plus grande obscurité. Je prie qu’on relise avec attention presque toutes les traductions, et l’on sera frappé de l’indécision du sens général. Je ne citerai que Wolf : Erubesco ne videatur quidquid tibi accidit per segnitiam quamdam nostram accidisse, statim primum deductio causæ in judicium, ut affuisti quum non adesse liceret ; tumn ipsa causæ actio ut instituta est ; denique hoc extremum velut jocularis rei exitus, socordia quadam et segnitia nostra elapsam nobis occasionem videri, qui te non servavimus… Videri ne pouvant se rapporter à videatur qui précède et domine toute la phrase, ne paraît qu’une modification, un complément de extremum hoc, videri… qu’il faut entendre comme s’il y avait hoc extremum, scilicet videri. C’est ainsi que l’on comprend généralement cette phrase. Voici mes raisons pour ne pas admettre ce sens. [[p.342]]
+
+1 Est-il bien correct grammaticalement de dire : τὸ τελευταῖον τουτὶ... δοκεῖν sans τό ?
+
+2 Τουτὶ ne s’applique-t-il pas toujours à une chose présente, comme le hoc-ce des Latins, et dans ce cas peut-on le rapporter à δοκεῖν qui n’exprime qu’une crainte dans l’avenir ?
+
+3 Enfin, et c’est là la raison décisive, on ne peut nier que τὸ τελευταῖον τουτὶ ne fasse partie d’une énumération, l’énumération de τὸ πρᾶγμα τὸ περὶ σέ. Cela admis, τουτὶ δοκεῖν et toute la fin de la phrase que domine δοκεῖν, forment le complément de la troisième partie de l’énumération. Toute cette affaire, dit Criton, nous fera passer pour des hommes sans énergie ; toute cette affaire, c’est-à-dire, 1 Une accusation portée devant le tribunal, quand on aurait pu l’empêcher d’arriver jusque-là ; 2 Une plaidoirie absurde. Quelle sera la troisième partie ? Selon le sens que je combats, ce serait la réputation d’hommes sans énergie qu’ils vont tous se faire ! Mais ce n’est pas là une partie, ni la troisième ni aucune autre de l’énumération ; c’est l’affaire elle-même tout entière c’est la proposition fondamentale, μὴ δόξῃ ἅπαν τὸ πρᾶγμα ἀνανδρία τινὶ ἡμετέρᾳ πεπρᾶχθαι. Ainsi la troisième partie de l’énumération contiendrait tout l’énuméré, et reproduirait intégralement ce qu’elle est seulement chargée de modifier et de développer ! Cela me paraît entièrement inadmissible. Je vois dans toute [[p.343]] cette phrase, d’abord une proposition générale, puis un développement à cette proposition par trois incises, puis enfin un résumé qui reproduit la proposition tout entière. J’entends donc par τὸ δὴ τελευταῖον τουτὶ ὥσπερ κατάγελως τῆς πράξεως, la troisième partie de l’énumération des causes qui couvriront de ridicule Socrate et ses amis, et la force grammaticale de τουτὶ me fait croire qu’il s’agit de la chose présente, savoir du refus de Socrate de s’échapper, refus certainement étrange, et plus étrange que tout le reste aux yeux de Criton, homme un peu grossier, αἰσθητικός. Après πράξεως je suppose une de ces ἀναϰολουθίαι si fréquentes dans Platon, et je prends δοϰεῖν absolument, pour δόξει, ὡς δοϰεῖν, et le ὡς se sous-entend fréquemment : de sorte que l’on croira… et l’on croira… Oui ; on va croire que, etc. Cependant je dois avouer que je n’ai pas réussi à convaincre M. Boissonnade, auquel j’ai soumis cette explication, et peut-être n’en suis-je pas moi-même entièrement satisfait ; mais je la préfère encore à l’inadmissible inconvénient de rapporter δοϰεῖν à τουτὶ. On me pardonnera de n’avoir pas discuté le sens que les traducteurs français donnent à τὸ τελευταῖον τοὺτι, savoir, l’arrêt qui condamne Socrate, comme s’il y avait là quelque chose de risible, et qu’on pût reprocher à Socrate ou à ses amis !
+
+Reste à examiner les divers membres de cette phrase. [[p.344]]
+
+1. εἴσοδος τῆς δίκης εἰς τὸ δικαστήριον, ὡς εἰσῆλθεν… Faut-il conserver ou retrancher τῆς δίϰης... εἰς τὸ διϰαστήριον, et lire εἰσῆλθεν ou εἰσῆλθες ?
+
+La vraie question est de savoir s’il s’agit de la comparution de Socrate lui-même devant le tribunal, ou seulement de son procès porté devant le tribunal, quand il aurait pu ne pas l’être. Je ne crois pas qu’il s’agisse d’une démarche personnelle de Socrate. D’abord, remarquez que Criton se plaint ici de choses arrivées par la faute des amis de Socrate autant que par celle de Socrate lui-même. Or, était-ce la faute des amis de Socrate, si celui-ci avait comparu au tribunal ? Ensuite, si Socrate n’eût pas comparu, en quoi aurait-il amélioré ses affaires ? il aurait été condamné par défaut. Voyez sur les δίϰαι ἡμέραι, Sam. Petit. in Leg. Att. 337. D’ailleurs, pour ne pas comparaître, il aurait fallu fuir, c’est-à-dire se condamner à l’exil, et cela pour prévenir un procès qui avait de grandes chances de succès, et dont l’issue la plus fâcheuse, s’il l’eût voulu, eût été l’exil, soit en acceptant la proposition de Criton, soit en s’exilant lui-même, puisque l’on avait toujours le choix à Athènes de s’exiler pendant le procès, comme le dit Criton plus bas : ἐξῆν σοὶ ἐν αὐτῇ τῇ δίϰῃ φυγῆς τιμήσασθαι. Voyez Taylor, Lect. Lysiac. J’incline plutôt à croire qu’il s’agit de la facilité qu’on aurait eue de s’arranger avec Anytus, de réconcilier Socrate avec ses [[p.345]] ennemis, et de provenir l’appel de la cause. Libanius, Apol. Socrat. p. 644. Si donc il est question de la cause et non de Socrate, il faut lire εἴσοδος τῆς δίϰης εἰς τὸ διϰαστήριον avec tous les Mss. et ὡς εἰσῆλθεν avec Wolf, qui traduit pourtant, comme tout le monde, ut affuisti. Je ne comprends pas comment le défenseur ordinaire du vieux texte de Platon, Fischer, qui conserve judicieusement τῆς δίϰης, regarde comme des gloses ὡς εἰσῆλθες, ὡς ἐγένετο, et cela sur ce que Cornarius voit ici une allusion à la πρότασις, l’ἐπίτασις, et la ϰαταστροφὴ. Mais est-ce une raison pour retrancher du texte ce qui indique cette allusion ? Ensuite si l’on retranche ce qui a fait penser Cornarius à la πρότασις et à l’ἐπίστασις, pourquoi ne pas faire de même pour ce qui se rapporte à la ϰαταστροφὴ, et ne pas retrancher aussi ὥσπερ ϰατάγελως τῆς πράξεως ?
+
+2. ἡμας διαπεφευγέναι. Tous les traducteurs : Cela semble nous avoir échappé, comme si le sujet de διαπεφευγέναι était τὸ τελευταῖον τουτἱ et conséquemment aussi ὁ ἀγὼν τῆς δίϰης, ϰαὶ ἡ εἴσοδος τῆς δίϰης, qui dépendent évidemment, selon moi, de μὴ δόξῃ ἅπαν τὸ πρᾶγμα πεπρᾶχθαι. J’entends donc par ἡμᾶς διαπεφευγέναι : Nous paraîtrons avoir fui, avoir lâché pied, avoir reculé, avoir failli par faiblesse. Les exemples de ce sens de διαφεύγειν ne manquent pas.
+
+3. εἴτι ϰαὶ σμιϰρὸν ἡμῶν ὄφελος. Tous les traducteurs : Si nous t’eussions un peu aidé. Deux contre-sens à la [[p.346]] fois. ἡμῶν, comme ἡμᾶς, comme ἡμετέρᾳ se rapporte également à Socrate et à ses amis, les uns qui ne l’ont pas sauvé, lui qui ne s’est pas sauvé lui-même. Ce ne serait donc pas : si nous t’eussions aidés, mais si nous nous fussions aidés tous ensemble. Et puis, il ne s’agit pas d’aide, de secours ; εἴτι ἡμῶν ὄφελος veut dire : Si nous eussions valu quelque chose ; si nous eussions fait tous notre devoir. C’est dans ce sens vulgaire d’ὄφελος avec un génitif que l’on trouve dans l’Euthyphron : Οὐδὲν γὰρ ἄν μου ὄφελος εἴη, et dans l’Apologie de Socrate : ὅτουτι καὶ σμικρὸν ὄφελος ; et même plus bas dans le Criton : εἴτι ὄφελος αὐτῶν ἐστι.
+
+Page 135 et 136. — En reprenant ce que tu viens de dire sur l’opinion, en nous demandant à nous-mêmes si nous avions ou non raison de dire si souvent qu’il y a des opinions auxquelles il faut avoir égard, et d’autres qu’il faut dédaigner ; ou faisions-nous bien de parler ainsi avant que je fusse condamné à mort, et tout-à-coup avons-nous découvert que nous ne parlions que pour parler et par pur badinage ? Je désire donc examiner avec toi, Criton, si nos principes d’alors me sembleront changés avec ma [[p.347]] situation ou s’ils me paraîtront toujours les mêmes.
+
+Εἰ πρῶτον μὲν τοῦτον τὸν λόγον ἀναλάβοιμεν, ὃν σὺ λέγεις περὶ τῶν δοξῶν, πότερον ϰαλῶς ἐλέγετο ἑϰάστοτε ἢ οὔ, ὅτι ταῖς μὲν δεῖ τῶν δοξῶν προσέχειν τὸν νοῦν, ταῖς δὲ οὔ, ἢ πρὶν μὲν ἐμὲ δεῖν ἀποθνῄσϰειν ϰαλῶς ἐλέγετο, νῦν δὲ ϰατάδηλος ἄρα ἐγένετο ὅτι ἄλλως ἕνεϰα λόγου ἐλέγετο, ἦν δὲ παιδιὰ ϰαὶ φλυαρία ὡς ἀληθῶς. Ἐπιθυμῶ δ᾽ ἔγωγ᾽ ἐπισϰέψασθαι, ὦ Κρίτων, μετὰ σοῦ, εἴ τί μοι ἀλλοιότερος φανεῖται, ἐπειδὴ ὧδε ἔχω, ἢ ὁ αὐτός, ϰαὶ…..(Bekker, p. 150.)
+
+Αὐτὸς, ἀλλοιότερος, ϰατάδηλος… doivent avoir un sujet, exprimé ou sous-entendu, et ce sujet doit être le système de Socrate, et non celui de Criton. Ce ne peut donc être τὸν λόγον, ὃν σὺ λέγεις, c’est-à-dire le système de Criton. Or si τὸν λόγον, ὃν σὺ λέγεις n’est pas le sujet de ϰατάδηλος, ἀλλοιότερος, αὐτὸς, où est-il ? Il faut donc le chercher dans τὸν λόγον en modifiant ὃν σὺ λέγεις de manière à rapporter τὸν λόγον à Socrate : Tel est le raisonnement de Schleiermacher qui propose de lire τὸν λόγον τὸν περὶ δοξῶν (leçon d’Eusèbe adoptée par Fischer) ὡς συ λέγεις, les opinions dont tu parles. J’adopte le raisonnement ; mais j’ai peu de goût pour la leçon ὧν συ λέγεις τὸν περὶ δοξῶν, assez irrégulière grammaticalement et que ni Wolf ni [[p.348]] Bekker n’ont admise. Peut-être serait-il possible de rapporter αὐτὸς, ἀλλοιότερος, ϰατάδηλος, à τὸν λόγον en entendant par ὂν σὺ λέγεις le système auquel tu fais allusion, dont tu argumentes, dont tu parles, ce qui permettrait de considérer λόγον comme un système qui n’appartient pas à Criton ; si toutefois l’on n’ose pas supposer qu’après avoir dit ἢ ϰαλῶς ἐλέγετο ἑϰάστοτε, en passant à une autre phrase, Platon sous-entend le résumé implicite de ὃ ἐλέγετο ἑϰάστοτε, savoir, ὁ ἐμὸς λόγος, qui serait le vrai sujet non exprimé de ϰατάδηλος, ἀλλοιότερος, αὐτός. J’ai traduit dans cette hypothèse, qui est loin de me satisfaire, et à laquelle je préférerais peut-être à la réflexion, ou la leçon de Schleiermacher, ou plutôt la seconde explication, qui ne change pas le texte, et paraît assez vraisemblable.
+
+Pages 140 et 141. — Mais, mon cher Criton, je ne vois pas que cela détruise ce que nous avons établi.
+
+Ἀλλ’, ὦ θαυμάσιε, οὗτός τε ὁ λόγος ὃν διεληλύθαμεν ἔμοιγε δοϰεῖ ἔτι ὅμοιος εἶναι τῷ ϰαὶ πρότερον. (Bekker, p. 154.)
+
+Bekkerlit τῷ ϰαὶ πρότερον, d’après le manuscrit de Tubingen, Bas, 2. Forster ϰαὶ πρότερος. Fischer ϰαὶ ὁ πρότερος. Ficin, Cornar, Stephan, τῷ προτέρῳ. [[p.349]]
+
+Ces leçons ont cela de commun, que toutes elles supposent deux raisonnemens, l’un que l’on vient de faire tout récemment, l’autre antérieur et auquel le dernier se rapporte. Mais quel est le raisonnement qui a précédé, et auquel se rapporte celui que Socrate vient de faire ? Voici le raisonnement ou plutôt l’ordre d’idées que Socrate vient de développer : Pour le corps et pour l’âme, quand un seul homme est juge compétent, il vaut mieux suivre les avis de ce seul homme que de tous les autres hommes ensemble. Cet ordre d’idées ne se rapporte à aucun autre ordre d’idées antérieurement parcouru ; et pour trouver celui-ci, je ne sais où il ne faudrait pas remonter dans le dialogue. Il est évident que Socrate veut dire que l’ordre d’idées établi précédemment subsiste encore, malgré cette objection, que le peuple a le pouvoir de tuer ; et comme τῷ ϰαὶ πρότερον semble au moins indiquer un autre raisonnement qui aurait précédé, je préfère lire avec Wolf, ὅμοιος εἶναι ϰαὶ πρότερον, est le même qu’auparavant. Priscien : ϰαὶ πρότερον ἀντὶ τοῦ οἷος ϰαὶ πρότερον. Le peuple tue, à la bonne heure, mais je n’en persiste pas moins dans ce que nous avons dit, qu’il est mauvais juge… Remarquez que précédemment pour dire : Mes principes sont les mêmes, Platon se sert de l’expression ὅμοιοι φαίνονται, ce qui doit signifier apparemment la même chose. Et puis la phrase qui suit ἔτι μένει….. [[p.350]] n’indique-t-elle pas que ce qui précède doit renfermer aussi l’idée de quelque chose qui reste le même ?
+
+Page 142. — Et tu me réponds d’après ta conviction la plus intime.
+
+Καὶ πειρῶ ἀποϰρίνεσθαι τὸ ἐρωτώμενον ἧ ἂν μάλιστα οἴῃ. (Bekker, p. 155.)
+
+Wolf : quo tu modò optimè ; ce serait plutôt maximè. Ce n’est pas : Réponds de ton mieux, fais-moi les objections les plus fortes ; mais : Vois bien si ce que je vais te dire est d’accord avec le fond de ton cœur ; si tu es bien de mon avis ; réponds selon ce que tu croiras le plus, c’est-à-dire d’après ta conviction la plus intime. Schleiermacher traduit très bien : nach deiner besten Meinungen. Ainsi dans le second Alcibiade, Bekker, p. 291 : Ὅπερ ἂν μάλιστά σοι δόξῃ. Ce que tu croyais le plus, ce qui te paraissait le plus certain.
+
+[[p.351]]
+
+### NOTES
+SUR LE PHÉDON.
+
+Mêmes secours que pour les trois autres dialogues, et de plus l’édition de Heindorf et celle de Wyttenbach.
+
+Leroi (Paris, 1553) et Dacier ont traduit ce dialogue en totalité. M. Thurot en a traduit le commencement et la fin.
+
+Page 187. — Aussi ne fus-je pas saisi de cette pitié pénible, que semblait devoir m’inspirer cette scène de deuil.
+
+Ὡς εἰϰὸς ἂν δόξειεν εἶναι παρόντι πένθει. (Bekker, II partie, III vol. p. 6.)
+
+Heindorf : « In his quis non, primo aspectu hæc, παρόντι πένθει, sic juncta de præsente luctu intelligat ? Quod si facies, aut ἐν præfigi his debebit, conjecturá sanè parum probabili, aut hæc pro dativis absolutis agnosci, quorum certam et evidens exemplum equidem adhuc nullum vidi. Ergò παρόντι ad μοι referendum, ei [[p.352]] qui aderat rei luctuosæ. » Cependant, l’excellent esprit d’Heindorf lui rend suspect ces deux datifs, παρόντι et πένθει, dépendants l’un de l’autre ; et il finit par proposer παρόντα πένθει. Ast adopte cette leçon, qu’aucun manuscrit n’autorise. Je crois qu’il faut laisser παρόντι πἔνθει et entendre ces mots, comme Heindorf convient qu’on le fait au premier coup d’œil, de præsente luctu. Les raisons qu’allègue Heindorf contre ce sens ne sont guère fortes. Il n’y a pas besoin de sous-entendre ou d’exprimer ἐν ; la construction est directe et simple : ὡς εἰϰὸς πένθει παρόντι. Il n’y a pas besoin non plus de prendre ces datifs pour des datifs absolus ; ils se rapportent à εἰϰός. Et quant à cette tournure, ὡς εἰϰὸς πένθει, elle est vive, mais naturelle.
+
+Page 189. — Voilà, je crois, à-peu-près tous ceux qui y étaient.
+
+Je ne crois pas inutile de répéter que ce n’est aucunement par envie que Platon ne parle pas ici de Xénophon, ou qu’il ne remarque pas qu’il était absent pour une cause sérieuse. Il ne dit pas que Xénophon était alors à la guerre. (Diog. Laërce, liv. II, 55), parce que c’était une chose assez connue de son temps, et qu’il ne pouvait soupçonner qu’on lui ferait, cinq siècles plus tard (Athénée, liv. XI, 15), l’accusation de jalousie contre Xénophon. Heindorf est le premier [[p.353]] qui se soit élevé contre la prétendue inimitié de ces deux grands hommes. Ils différaient sans doute ; mais supposer qu’ils aient écrit pour se décrier, ou pour se distinguer l’un de l’autre, comme on l’a dit souvent, c’est une puérilité dont il n’existe aucune preuve.
+
+Page 192. — Cultive les beaux-arts.
+
+Μουσιϰὴν ποίει ϰϰαὶ ἐργάζου. (Bekker, p. 10.)
+
+Si l’on traduit comme tout le monde, fais de la musique, il faut avouer qu’il est bien étrange que Socrate entende par là la philosophie, et, quand il se ravise, et veut prendre le mot dans le sens ordinaire, qu’il ne songe pas encore à la musique, mais à la poésie ; au lieu que dans l’interprétation que nous avons préférée, il est naturel que, lorsque le songe dit à Socrate : Cultive ton esprit, exerce-toi dans les beaux-arts, livre-toi à de nobles occupations, Socrate songe d’abord à la philosophie, qu’il regarde comme l’occupation la plus noble et plus spécialement encore à la poésie. Voyez dans le Criton, dans la République, dans les Rivaux, et partout, le contraste de Μουσικὴ et de Γυμναστιϰὴ, et consultez la note de Locella sur Xénophon d’Éphèse, p. 124. En général Μουσικὴ veut dire occupations distinguées, arts libéraux ; dans le détail il se prend pour la philosophie ou pour la poésie à-peu-près également, ou pour la musique [[p.354]] proprement dite, mais plus rarement (I Alcibiade, Bekker, II partie, III vol. p. 309 et 310).
+
+Page 195. — Mais il pourra te sembler étonnant qu’il n’en soit pas de ceci comme de tout le reste, et qu’il faille admettre d’une manière absolue que la vie est toujours préférable à la mort, sans aucune distinction de circonstances et de personnes ; ou si une telle rigueur paraît excessive, et si l’on admet que la mort est quelquefois préférable à la vie, il pourra te sembler étonnant qu’alors même on ne puisse sans impiété se rendre heureux soi-même, et qu’il faille attendre un bienfaiteur étranger.
+
+Ἴσως μέντοι θαυμαστόν σοι φανεῖται, εἰ τοῦτο μόνον τῶν ἄλλων ἁπάντων ἁπλοῦν ἐστιν, ϰαὶ οὐδέποτε τυγχάνει τῷ ἀνθρώπῳ, ὥσπερ ϰαὶ τἆλλα, ἔστιν ὅτε ϰαὶ οἷς βέλτιον τεθνάναι ἢ ζῆν, οἷς δὲ βέλτιον τεθνάναι, θαυμαστὸν ἴσως σοι φαίνεται εἰ τούτοις τοῖς ἀνθρώποις μὴ ὅσιον αὐτοὺς ἑαυτοὺς εὖ ποιεῖν, ἀλλ’ ἄλλον δεῖ περιμένειν εὐεργέτην. (Bekker, p. 12.)
+
+C’est-à-dire, en établissant tous les intermédiaires utiles, et supprimant tous ceux qui ne sont pas rigoureusement nécessaires : ou la vie est toujours [[p.355]] préférable à la mort, quelles que soient les circonstances et les personnes, ce qui est bien singulier, les choses humaines n’étant point aussi absolues ; ou si l’on admet la plus légère restriction à ce principe, si pour certaines personnes, dans certaines circonstances, la mort est préférable à la vie, alors il est bien étrange qu’à ces personnes, dans ces circonstances, il ne soit pas permis de se procurer elles-mêmes les avantages de la mort, et qu’il leur faille attendre un bienfaiteur étranger. Socrate avait avancé qu’il ne faut pas se tuer. — Quoi ! jamais ! la vie est-elle donc toujours préférable à la mort ? ce serait bien absolu et fort extraordinaire ; tu n’oserais l’affirmer. Or, si la mort est quelquefois préférable à la vie, comment avancer qu’il n’est jamais permis de se tuer ? L’objection devait se présenter à l’esprit de Cébès, et il est naturel que Socrate la lui prête, et aille au-devant. Peu de commentateurs et de traducteurs ont entendu nettement cette phrase.
+
+Page 198. — Et si tu nous transmets ta conviction ; voilà ton apologie faite.
+
+Καὶ ἅμα σοι ἡ ἀπολογία ἔσται, ἐὰν ἡμᾶς πείσῃς. (Bekker, p. 15.)
+
+Tous les MSS. ont ἔστιν. Le MS. de Paris, ἔσται. Heindorf et Bekker introduisent cette leçon dans le [[p.356]] texte, sans nécessité. D’une autre part le MS. de Tubingen n’a pas ἡ, et peut-être cette leçon n’est-elle pas à dédaigner, comme l’a fait Heindorf. Nous persuader est une apologie pour toi.
+
+Page 199 et 200. — Ils ne demanderaient pas mieux, du moins nos Thébains sans aucun doute, que… (Bekker, p. 17.)
+
+Καὶ ξυμφάναι ἄν τοὺς μὲν παρ’ ἡμῖν ἀνθρώπους…… (Bekker, p. 17)
+
+C’est comme si Simmias disait : Il y a des gens qui consentiraient volontiers… du moins nos Thébains ; car pour les Athéniens, ils n’en sont pas capables assurément… Ici la restriction explicite aux Thébains est une extension indirecte aux Athéniens eux-mêmes dont un étranger devait s’abstenir de parler. Schleiermacher est le seul qui ait saisi la délicatesse de ce passage.
+
+Page 204. — Il n’y a qu’un sentier détourné qui puisse guider la raison dans ses recherches.
+
+Κινδυνεύει τις ὥσπερ ἁτραπὸς ἐϰφέρειν ἡμᾶς μετὰ τοῦ λόγου ἐν τῇ σϰέψει ὅτι… (Bekker, p.  21.)
+
+Ce sentier détourné est évidemment le dégagement de l’âme. J’entends, comme Heindorf μετὰ τοῦ λόγου ἐν τῇ σκέψει pour ἐν τῇ μετὰ τοῦ λόγου σκέψει pour ἐν τῇ μετά τοῦ λόγου σϰέψει.
+
+[[p.357]]
+
+Page 220. — J’ai besoin précisément de ce dont nous parlons, de me ressouvenir.
+
+Αὐτὸ δὲ τοῦτο, ἔφη, δέομαι παθεῖν, περὶ οὗ ὁ λόγος, ἀναμνησθῆναι… (Bekker, p. 36.)
+
+Simmias aurait bien pu dire : j’ai besoin de l’apprendre, mais comme Socrate prétend qu’apprendre, c’est se ressouvenir, Simmias s’exprime plus délicatement en disant : j’ai besoin de m’en ressouvenir, et même je m’en ressouviens déjà ; cependant tu ne feras pas mal de me le rappeler encore. Μαθεῖν est évidemment une glose explicative de la phrase entière. Or, si μαθεῖν est une glose, si παθεῖν, n’est dans aucun manuscrit, et si c’est une simple correction de μαθεῖν, il faut retrancher la correction de la glose, aussi bien que la glose elle-même, et je serais assez tenté de lire comme veut Ast, αὐτοῦ τούτου δέομαι, περί… Cependant, je suis loin de rejeter la leçon παθεῖν proposée par Heindorf, et adoptée par Bekker. C’est toujours le même sens et la même intention d’atticisme. En voulant conserver παθεῖν Fischer et Wyttenbach ont gâté ce passage.
+
+Page 227. — Et si après avoir eu ces connaissances, nous ne venions pas à les oublier toutes les fois que nous entrons dans la vie, [[p.358]] nous naîtrions avec la science, et nous la conserverions toute notre vie.
+
+Καὶ εἰ μέν γε λαβόντες (τὰς ἐπιστήμας), μὴ ἑϰάστοτε ἐπιλελήσμεθα, εἰδότας (ᾶναγϰαῖον) ἀεὶ γίγνεσθαι ϰαὶ ἀεὶ διὰ βίου εἰδέναι. (Bekker, p. 41.)
+
+Heindorf propose εἰδότας ἂν γίγνεσθαι. Ast adopte cette leçon, que j’adopte aussi, faute de pouvoir me rendre compte des deux ἀεί. Bekker garde l’ancien texte. Heindorf propose encore d’ajouter γιγνόμενοι après ἑϰάστοτε. Mais ἑϰάστοτε en dit tout seul autant que ἑϰάστοτε γιγνόμενοι. Si nous oublions ces connaissances chaque fois, c’est-à-dire chaque fois que nous entrons dans la vie.
+
+Page 232. — Prends que nous le craignons, ou plutôt que ce n’est pas nous qui le craignons, mais qu’il pourrait bien y avoir en nous un enfant qui le craignît. Tâchons donc de lui apprendre à ne pas avoir peur de la mort comme d’un masque difforme.
+
+Ὡς δεδιότων… πειρῶ ἀναπείθειν· μᾶλλον δὲ μὴ ὡς ἡμῶν δεδιότων, ἀλλ᾽ ἴσως ἔνι τις ϰαὶ ἐν ἡμῖν παῖς ὅσ τις τὰ τοιαῦτα φοβεῖται. (Bekker, p. 455.)
+
+J’entends παῖς τις ἐν ἡμῖν comme les Alexandrins. [[p.359]] La preuve de ce sens philosophique est l’opposition de ἡμῶν et du ἐν ἡμῖν. Ce n’est pas nous, dans notre essence propre, ce n’est pas le moi qui craint la mort ; mais c’est quelque chose en nous, un élément étranger au moi, quoique accidentellement en rapport avec lui, la partie puérile de l’âme. ἐν ἡμῖν opposé à ἡμῶν, ne peut vouloir dire que dans nous et non parmi nous, ce qui serait nécessaire au sens ordinaire : il y a peut-être parmi nous un enfant.
+
+Page 233. — Pour quel ordre de choses nous devons craindre cet accident, et pour quel ordre de choses cet accident n’est pas à craindre.
+
+Καὶ ὑπὲρ τοῦ ποίου τινὸς δεδιέναι (προσήϰει) μὴ πάθῃ αὐτό, ϰαὶ τῷ ποίῳ τινὶ οὔ. (Bekker, p. 46.)
+
+Οὐ manque dans tous les manuscrits. Heindorf le propose ; Ast et Bekker l’introduisent dans le texte, et je ne vois pas non plus qu’on puisse s’en passer.
+
+Page 233. — S’il y a des êtres qui ne soient pas composés, ils sont les seuls que cet accident (la dissolution) ne peut atteindre.
+
+Εἰ δέ τι τυγχάνει ὂν ἀξύνθετον, τούτῳ μόνῳ προσήϰει μὴ πάσχειν ταῦτα. (Bekker, p. 46-47.)
+
+Je veux citer, une fois pour toutes, un exemple de [[p.360]] l’inexactitude de Dacier. Il traduit : s’il y a des êtres qui ne font pas composés, ils sont les seuls à qui cet accident ne convient point ; et ils ne sauraient être dissipés NATURELLEMENT. Je ne dis rien du dernier membre de phrase qui n’est pas dans le texte : mais le mot naturellement est une addition arbitraire, d’autant plus choquante, qu’elle pourrait conduire le lecteur à des idées tout-à-fait opposées à celles de Platon, par exemple la dissolution, par la volonté de Dieu, de ce qui est simple, c’est-à-dire indissoluble en soi. Eh bien, croirait-on que c’est précisément sur ce mot que Dacier fait la note suivante : « Il ajoute (Platon) ce mot NATURELLEMENT (qui n’est pas dans Platon), parce que ce qui ne peut être dissipé naturellement, peut l’être par la volonté de Dieu. »
+
+Ce passage m’en rappelle un autre. « Parmi tous les raisonnements humains, il faut choisir celui qui est le meilleur et admet le moins de difficultés, et, s’y embarquant comme sur une nacelle plus ou moins sûre, traverser ainsi la vie, à moins qu’on ne puisse trouver pour ce voyage un vaisseau plus solide, un raisonnement à toute épreuve. » P. 249. Raisonnement à toute épreuve, θείου λόγου (theiou logou). Wyttenbach a fait voir que θεῖος λόγος, θεῖον δόγμα (theios logos, theion dogma) a été employé cent fois pour un raisonnement incontestable. Platon veut dire qu’il faut prendre une raison telle quelle, si on n’en peut trouver une parfaite. Là-dessus, Dacier soupçonne [[p.361]] que Platon par θεῖον λόγον fait allusion à la révélation ; et introduisant son soupçon dans le texte, il traduit : quelque promesse ou quelque révélation divine ; et en note : ainsi L’ÉGLISE est de l’aveu même de Platon, le seul vaisseau…
+
+Page 238. — Le corps quand il est réduit et embaumé, comme on le fait en Égypte, etc.
+
+Συμπεσὸν γὰρ τὸ σῶμα καὶ ταριχευθέν, ὥσπερ οἱ ἐν Αἰγύπτῳ, etc. (Bekker, p. 51.)
+
+Συμπεσὸν. Ficin : servatum. Fischer et Heindorf : exenteratum, vidé. C’est le moyen pour l’effet. Le vrai sens est resserré, réduit. Hérodote (liv. II, 87, édit. Schweigh.) explique très bien comment on s’y prenait pour conserver le corps en le mettant dans un état où il pût persister long-temps, n’ayant plus d’élémens corruptibles, et réduit aux os et à la peau. Il est vrai qu’Hérodote, pour exprimer cet effet, n’emploie pas le mot συμπεσὸν, mais Xénophon, περὶ ἱππιϰῆς, I, 10 : μυϰτῆρες ἀναπεπταμένοι τῶν συμπεπτοϰότων εὐποώτεροι εἰσί. Des naseaux bien ouverts donnent plus d’ardeur que les naseaux serrés. Voyez la note de M. Courier, qui, à l’appui de ce passage, cite celui du Phédon, qu’il entend très bien. Du commandement de la cavalerie, et de l’équitation, p. 82. Paris, 1807.
+
+Page 238. — Il (le corps) se conserve assez long-temps ; et si le mort était beau, il se conserve dans toute sa beauté ; même très long-temps…
+[[p.362]]
+
+Ἐπιειϰῶς συχνὸν ἐπιμένει χρόνον, ἐὰν μέν τις ϰαὶ χαριέντως ἔχων τὸ σῶμα τελευτήσῃ ϰαὶ ἐν τοιαύτῃ ὥρᾳ, ϰαὶ πάνυ μάλα… (Bekker, p. 51.)
+
+Bekker ponctue très bien toute cette phrase, et en saisit parfaitement l’économie. Elle porte tout entière sur la durée du corps et ses divers degrés. Ἐπιμένει 1 ἐπιειϰῶς συχνὸν, 2 πάνυ μάλα συχνόν, 3 ἀμήχανον ὅσον χρόνον, 4 ὥσπερ ἀθάνατον. Au milieu de la phrase comme en parenthèse, ἐὰν μέν τις ϰαὶ χαριέντως ἔχων τὸ σῶμα τελευτήσῃ ϰαὶ ἐν τοιαύτῃ ὥρᾳ, et si le mort était beau, il conserve la beauté qu’il avait avant sa mort. Il ne s’agit point ici de saison, comme le veut encore Wyttenbach, après Dacier.
+
+Page 265. — Puisque l’âme a en elle, comme sa propriété, cet ordre de notions fondamentales qui constituent l’existence, et en portent le nom.
+
+Ὥσπερ αὐτῆς ἐστὶν ἡ οὐσία ἔχουσα τὴν ἐπωνυμίαν τὴν τοῦ ὃ ἔστὶν. (Bekker, p. 76.)
+
+Ce passage se rapporte directement à celui qui [[p.363]] précède, page 230, où Socrate dit : « si le beau, le bon ϰαὶ πᾶσα ἡ τοιαύτη οὐσία, et cet ordre d’idées auxquelles nous rapportons, comme à des principes supérieurs, toutes les impressions des sens, et que nous trouvons d’abord en nous-mêmes, oui, si toutes ces idées existent réellement avant de se développer en cette vie, il faut nécessairement que l’âme qui les possède en propre, lui préexiste également. » Platon appelle les idées des essences, οὐσίαι, ou même collectivement ἡ οὐσία, parce qu’elles constituent la vraie existence, toutes les choses visibles n’en étant que des formes passagères. Il les appelle souvent τὰ ὄντα ὄντως ; et c’est dans ce sens qu’il dit ici : ἔχει τὴν ἐπωνυμίαν τὴν τοῦ ὃ ἐστίν.
+
+Page 273. — Et je me suis souvent tourmenté de mille manières…
+
+Καὶ πολλάϰις ἐμαυτὸν ἄνω ϰάτω μετέβαλλον… (Bekker, p. 83.)
+
+Heindorf (p. 172, 173) veut entendre par là la multitude des opinions diverses que Socrate embrassait successivement, causâ inconstantiœ et mutationis perpetuœ. Nul doute que dans certain cas ἑαυτὸν ἄνω ϰάτω μεταβάλλειν ne puisse vouloir dire changer, et je ne conteste l’exactitude d’aucune des citations de Heindorf. Mais enfin, l’expression grecque ne marque proprement que l’agitation en sens contraires, et cette [[p.364]] significaton suffit ici. Si Socrate eût embrassé tour-à-tour des opinions diverses, la chose était assez grave pour la développer davantage, et Platon n’eût pas manqué cette occasion de donner plus de mouvement et d’intérêt à son drame. Mais il n’est question de ces changemens de Socrate, ni dans toute l’antiquité, ni dans ce dialogue. Cela d’ailleurs répugne au caractère de Socrate, qui ne faisait pas assez vite ses opinions, pour être sujet à en changer.
+
+Page 288. — Il est entre les deux, surpassant la petitesse de l’un par la supériorité de sa grandeur, et reconnaissant à l’autre une grandeur qui surpasse sa petitesse.
+
+Ἐν μέσῳ ὢν ἀμφοτέρων, τοῦ μὲν τῷ μεγέθει ὑπερέχειν τὴν σμικρότητα ὑπέχων, τῷ δὲ τὸ μέγεθος τῆς σμικρότητος παρέχων ὑπερέχον. (Bekker, p. 96.)
+
+Il faut entendre ce passage tel qu’il est sans le changer. Les corrections de Wyttenbach, et celles même du sage Heindorf, dénaturent trop le texte. Schleiermacher qui admet la correction d’Heindorf παρέχων τῷ μεγέθει τοῦ μὲν ὑπερέχειν τὴν σμιϰρότητα, ne se dissimule pas que ὑπερέχειν τὴν σμιϰρότητα forme avec ὑπερέχον σμιϰρότητος une contradiction manifeste. J’entends donc sans rien changer au texte : Ὑπερέχων τοῦ μὲν (ϰατὰ) τὴν σμιϰρότητα τῷ ὑπερέχειν μεγέθει, [[p.365]] surpassant l’un dans sa petitesse, par la supériorité de sa grandeur, ϰαὶ παρέχων τῷ δὲ, en laissant à l’autre, reconnaissant en lui, lui accordant parce qu’il ne peut pas ne pas lui accorder τὸ μεγέθος ὑπερέχων σμιϰρότητος, une grandeur qui surpasse sa petitesse.
+
+Page 310. — Et ce double lui-même, bien que son contraire ne soit pas l’impair, ne recevra pourtant pas l’idée de l’impair…
+
+Τοῦτο μὲν οὖν ϰαὶ αὐτὸ ἄλλῳ ἐναντίον, ὅμως δὲ τὴν τοῦ περιττοῦ οὐ δέξεται. (Bekker, p. 101.)
+
+Socrate veut donner ici des exemples d’idées qui sans être contraires à certaines idées ne les reçoivent pourtant pas, parce que ces idées sont contraires à quelque autre idée plus générale, que les premières renferment. Le cinq, dit-il, n’est pas le contraire du pair ; il ne le reçoit pourtant pas, parce que le cinq renferme en soi l’idée de l’impair, qui est le contraire du pair. Et le dix, qui est le double de cinq, ne reçoit pas l’idée de l’impair par la même raison ; et ce double lui-même, quoiqu’il soit contraire à autre chose que l’impair, c’est-à-dire quoique son contraire ne soit pas l’impair (parce que le contraire du double c’est la moitié, et toute chose n’a qu’un seul contraire direct) ; ce double, dis-je, ne reçoit pourtant pas l’idée de l’impair, parce qu’il renferme déjà en soi [[p.366]] l’idée de pair, idée qui est inséparable de la duplication des nombres, laquelle a lieu ici, dix étant le double de cinq. Par la même raison, ajoute-t-il encore, la moitié, le tiers, etc., ne reçoivent pas l’idée de l’entier, et pourtant le contraire de la moitié ce n’est pas l’entier, mais le double ; le contraire du tiers n’est pas l’entier, mais le triple ; mais la moitié, le tiers, etc., renferment l’idée générale de fraction, laquelle est contraire à l’idée d’entier. Heindorf (p. 210) s’est entièrement mépris sur le sens véritable de tout ce passage, en proposant de lire ἄλλο ἢ ἐναντίον.
+
+Page 310. — Elles forment des courants qui vont se rendre à travers la terre vers des lits de fleuves qu’ils rencontrent et qu’ils remplissent comme avec une pompe.
+
+… ὥσπερ οἱ ἐπαντλοῦντες. (Bekker, p. 116.)
+
+Tous les traducteurs : Comme quand on verse de l’eau qu’on a puisée, ou quelque chose d’équivalent ; à l’exception de Dacier : comme quand on puise de l’eau avec deux seaux, interprétation arbitraire et ridicule. Quant à la première, elle est tout-à-fait insignifiante et indigne de Platon. Il faut qu’il ait voulu indiquer quelque mécanisme particulier dont on se servait de son temps pour vider les vaisseaux, et par lequel on mettait l’eau en mouvement dans un autre [[p.367]] direction que celle de la pesanteur. Nous n’avons que le mot pompe pour exprimer cela. Schleiermacher s’en sert, et Sdneider définit Ἀντλία : l’endroit du vaisseau où était la pompe.
+
+Page 310, 311. — Les unes ressortent et retombent dans l’abîme précisément du côté opposé à leur issue…
+
+Καὶ ἔνια μὲν ϰαταντιϰρὺ. (Bekker, p. 116.)
+
+Aristote, en réfutant cette théorie de Platon, paraît avoir entendu par le mot ϰαταντιϰρὺ une opposition de lieux par rapport au centre de la terre : πάντα δὲ ϰύϰλῳ περιάγειν εἰς τὴν ἀρχὴν… πολλὰ μὲν ϰαὶ ϰατὰ τὸν αὐτὸν τόπον, τὰ δὲ ϰαὶ ϰαταντιϰρὺ τῇ θέσει τῆς ἐϰροῆς, οἷον, εἰ ῥεῖν ἤρξατο ϰάτωπερ, ἄνωθεν εἰσβάλλειν (Meteor. II, 2.) Et Olympiodore, son commentateur, interprète ce passage, dans le même sens. Cette idée, ne peut se concevoir qu’en supposant que la figure de l’abîme du Tartare soit circulaire, autour du centre de la terre, ce qui est contraire à ce que dit Platon, que le grand abîme est διαμπερὲς τετρημένον δι’ ὅλης τῆς γῆς, paroles qu’on ne peut guère adapter à une figure circulaire, car alors il n’y aurait plus de terre, et tout serait abîme. Il faut donc que l’abîme soit plus long que large ; mais alors deux points de son contour, pour être à l’opposite l’un de l’autre, ne sont pas [[p.368]] pour cela l’un en bas et l’autre en haut, comme le veut Aristote. L’hypothèse de la figure longitudinale de l’abîme me paraît encore confirmée par les expressions δυνατὸν δ’ ἐστὶν ἑκατέρωσε… τὸ ἑκατέρωθεν μέρος… ἀμφοτέροις τοῖς ῥεύμασι, qui indiquent évidemment une opposition de points, sur la direction d’une seule et même ligne, et non sur une infinité de lignes différentes, ce qui devrait résulter de la figure circulaire, qui a une infinité de diamètres.
+
+Page 315. — La chose vaut la peine qu’on hasarde d’y croire.
+
+Ἄξιον κινδυνεῦσαι οἰομένῳ οὕτως ἔχειν. (Bekker, p. 120.)
+
+Dacier : Cela vaut la peine qu’on en coure le risque: Thurot : C’est ce qui me paraît… bien mériter au moins qu’on en fasse l’épreuve. C’est une belle et sublime expérience à tenter. Οἰομένῳ οὕτως ἔχειν est toujours oublié. Je crois que οἰομένῳ est là pour οἴεσθαι par attraction, à cause de ἄξιον. Cela vaut bien que l’on risque de croire qu’il en est ainsi. C’est la phrase latine : Non licet omnibus esse poetis…
+
+Page 323. — Le meilleur des hommes de son temps que nous avons connus, le plus sage et le plus juste de tous les hommes.
+
+Ἀνδρὸς τῶν τότε ὧν ἐπειράθημεν ἀρίστου καὶ ἄλλως φρονιμωτάτου καὶ δικαιοτάτου. (Bekker, p. 128.)
+[[p.369]]
+
+Je ne puis me refuser au sens que présente d’abord τῶν τότε, les hommes de ce temps ; et comme ἄλλως est évidemment ici en opposition avec τῶν τότε, je ne puis entendre par καὶ ἄλλως φρονιμοτάτου…, que le plus sage des hommes d’un autre temps, omnium qui unquam fuerunt. Séparer τῶν de τότε, comme le veut Heindorf, me semble tout-à-fait inadmissible ; et j’avoue que sur cette seule raison, je rejette toute la leçon qu’il propose : πάντων (au lieu de τῶν qui est dans tous les Mss.), τότε ὡς (au lieu de ὧν) ἐπειράθημεν, ἀρίστου : le meilleur de tous les hommes, comme nous avons pu le voir dans cette circonstance ; et ce sens qu’il donne à τότε le force d’entendre ἄλλως per totam ejus vitam. Dans ce cas, j’aimerais mieux lire avec Buttman et Schleiermacher ἐκ τῶν τότε ὧν ἐπ. C’est le même sens avec moins de changement dans le texte. Mais, sans parler de l’inutilité de la formule emphatique, ὡς ἡμεῖς φαῖμεν ἄν, si l’on supprime πάντων (ἀρίστου), je ne sais trop s’il est fort régulier de lire sans aucun génitif ἀρίστου καὶ ἄλλως φρονιμοτάτου καὶ δικαιοτάτου. Ast néglige ἄλλος, et traduit : Tum optimi, tum justissimi et prudentissimi. Je ne puis croire qu’ἄλλως n’ait pas ici plus de force, et ne soit pas en rapport avec τότε.

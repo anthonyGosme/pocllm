@@ -1,0 +1,925 @@
+To Be Is to Make Oneself One:
+Finite Unity as Made, and How to Test It
+Abstract
+Metaphysics offers two accounts of what makes a finite being one. On the first,
+unity is given: a substrate persists and bears what changes. On the second, unity
+is derived: a stability within a flux that traverses it. The first presupposes what
+it means to explain; the second has no discriminant of individuated persistence.
+This paper argues that both fail on the case that should be easiest for the first,
+the stone. A finite determination is a difference held against a ground that, left
+to itself, does not sustain it; every exposed finite being drains, and nothing real
+escapes exposure. The stone therefore makes itself one, at a cost, and the pole
+of the given loses its paradigmatic case. What remains is a third position, which
+I state as an axiom: to be is to make oneself one. Unity is neither a state prior
+to the act nor a stability abstracted from it, but that act insofar as it holds. The
+axiom is testable. Perturb a finite being and locate where the irreversible trace of
+its response falls: on a margin of its own, and it is aself; on an external bearer’s,
+and it is acarriage; on none, and it is anaggregate. Every finite being makes
+itself one; only a self remakes itself. I argue finally that for a being grounded on
+a finite margin this making is not optional, since inaction is not a stable state
+but dissolution.
+Keywords:individuation; finite unity; substance; process; irreversibility; meta-
+physics of persistence
+1 Two Accounts, and What Both Concede
+1.1 The question
+What makes a being one being? Not what there is, nor what kinds of thing the world
+contains, but under what conditions something holds as one individual rather than
+as a coordinated plurality, an effect of conceptual carving, or a stability of use. The
+question is classical without being exhausted, and its persistence is not accidental:
+1
+most answers presuppose what they mean to explain. To say that an entity isthis
+entity, one needs a principle that individuates it; but if that principle is an essence,
+a form, or a sortal, it demands in turn to be individuated. To say that it persists
+through change, one must designate it as the same before and after, which presupposes
+the criterion of identity being sought.
+Two families of answer occupy the field, and they are usually presented as rivals. I
+want to show that they concede the same thing.
+1.2 Unity as given
+On the first account, unity is prior to activity. Aristotle gives the position its lasting
+form: primary substance, what is neither said of a subject nor in a subject, is the
+first candidate for unity, andthisSocrates exists independently of the qualities he
+bears (Categories;MetaphysicsZ). The gesture prevents unity from dissolving into a
+multiplicity of predicates. But positing that there are primary substances does not say
+what makes a being hold as this subject. Substance names unity without exhibiting
+its operation.
+Leibniz reasserts singularity in another idiom, at the cost of commitments that
+makeindividuationdependonpostulatesexternaltoit: completeconcepts, pre-established
+harmony, a theory of simplicity. The criterion is operative in the logical sense rather
+than the empirical one. It does not indicate how to test, on a concrete configuration,
+whether there is one. Strawson (1959) inherits the problem without the theologi-
+cal resources and reformulates it descriptively, asking how we identify and re-identify
+particulars within a shared spatio-temporal framework. The answer is precise but
+epistemically oriented; the ontological question is defused by translation rather than
+resolved. One can know how we identify an individual without knowing what makes
+it one.
+Contemporary substance ontologies retain the essential commitment. Wiggins
+(2001) makes identity through change turn on the sortal concept under which a thing
+falls, so that what a thing is fixes the conditions under which it remains that thing.
+Lowe (1998, 2006) grounds persistence in the possession of dispositions that need not
+be exercised: what persists does so by what itwoulddo, not by what it does. Koslicki
+(2018)revivesahylomorphicanswerinwhichformistheprinciplebywhichasubstance
+is one, which meets the presuppositional worry head on and answers it by taking form
+as an explanatorily prior constituent. Whatever else divides these positions, they agree
+that there is something the finite being is, beneath or before what it does.
+2
+1.3 Unity as derived
+On the second account, unity is posterior to activity. The individual is a temporary
+crystallization within a becoming (Rescher 1996); organisms are processes actively
+maintained at several timescales (Nicholson and Dupré 2018); persistence is the per-
+sistence of processes rather than of things (Meincke and Dupré 2020). The gain is
+real. The inert substrate is abandoned, and change ceases to be a problem requiring
+a bearer.
+The loss is a discriminant. If unity is a stability in a flux, then any sufficiently
+stable pattern qualifies, and the account owes an answer to the question of which
+stabilities individuate. A whirlpool maintains a form through a complete turnover of
+its matter; so does a cell. Under a criterion of processual persistence they are on a
+footing. Processualism can describe the difference between them but cannot derive
+it, because the resource that would derive it, something belonging to one and not the
+other, is what the account has given up.
+I leave the pair here and return to it in §5. The test proposed there is directed at
+this pole as much as at the first, and the whirlpool is where it does its work: what
+separates it from the cell is neither a degree of stability nor of renewal, and the criterion
+has to say what it is.
+1.4 The shared concession
+The two positions look symmetrical, and their symmetry is the point. Both distribute
+being and doing across two planes; they differ only over which plane comes first. The
+substantialist places identity before activity: there is a thing, and then operations that
+conserve it. The processualist places activity before identity: there is a flux, and then
+stabilities within it. Neither considers that the distribution is itself the error.
+This is not a merely formal observation, because the distribution is what produces
+both failures. If there is first a thing and then its operations, the thing must be
+individuated independently, and the presupposition returns. If there is first activity
+and then its stabilities, nothing in the activity marks one stability off from another,
+and the discriminant is missing. Remove the distribution and both failures lose their
+source.
+1.5 Two senses of “one”
+One distinction must be announced before the argument begins, because without it
+§2 will be misread. There are two senses of “one”, and they do not coincide. In a
+minimal sense, every finite being makes itself one: it holds as a determination, under
+3
+constraint and at a cost. In a strong sense, only some beingsremakethemselves one,
+regenerating their own conditions through a cycle of their own, whereas most made
+unities come undone as soon as they are perturbed. The stone makes itself one and
+does not remake itself; the organism does both.
+The argument of §2 bears on the first sense, and establishes it universally. The
+test of §5 bears on the second, and discriminates. Nothing in §2 is therefore a claim
+that the stone and the organism hold as one in the same way. The question of what
+separates them is deferred, not levelled.
+A note on method.The continental tradition has reached a version of the first diag-
+nosis. Simondon (2005) argues that any ontology setting out from the constituted
+individual to seek its principle presupposes what it means to explain, and that individ-
+uation must be thought from a pre-individual field. The diagnosis is just, and I take it
+as independent confirmation. But it remains a diagnosis: transductive individuation
+names the structure classical ontologies lack without furnishing a procedure that de-
+cides a concrete case. My principal interlocutor is therefore the analytic literature, for
+its discipline of explicit criteria and limit-cases.
+2 The Stone
+2.1 Why this case
+The argument of this section is directed at the first pole, and it is conducted on the
+terrain that pole would choose. The case against inert givenness is easy to make
+with organisms, and worthless for that reason: no one holds that a bacterium is a
+substrate on which properties are imprinted. The substantialist’s strongest instance
+is the apparently inert, closed, propertied thing, the stone or the rock that has lain in
+the same place for ten thousand years and appears to require nothing of itself in order
+to remain what it is. If the stone turns out to be a made unity, the pole of the given
+does not lose a peripheral example. It loses its paradigm.
+2.2 A boundary is a boundary only maintained
+Begin with what it is to be finite. A finite determination is a difference held against
+a ground that, left to itself, does not sustain it. To be finite is to be bounded, to be
+thisrather than the surrounding indistinction. But a bound does not posit itself; a
+boundary is a boundary only insofar as it is maintained, and the surroundings have
+no reason to respect a line they do not draw. An unsustained difference is therefore
+perpetually to be renewed, or it fades.
+4
+This much is conceptual, and true a priori of anything finite. It is legible on
+finitude alone and requires no physics. Call it thetask: the standing requirement that
+a bounded difference in grip on a ground be renewed in order to remain that difference.
+2.3 Two magnitudes under one word
+The task is not yet a cost, and the two must be separated, because the substantialist’s
+best reply exploits their conflation.
+Under the word “cost” hide two magnitudes. The first is modal and static: what it
+would take to undo the determination, which for a crystal is the depth of its potential
+well. This magnitude is a priori in the sense just given, being the task read as a
+quantity. The second is dynamic: maintaining the determinationexpendssomething
+each cycle, so that a drain is levied and not recovered. This second magnitude is not
+read a priori. A perfectly reversible world would know the same task without the
+least drain, since differences would still have to be held and holding them would cost
+nothing.
+That holding drains follows from our world being irreversible, of which the second
+lawisoneexpression. Thisisapositabouttheworldratherthanaconceptualnecessity,
+and I mark it as such: it is judged downstream, by what it lets one see, not on its
+intrinsic evidence.
+2.4 The crystal, and why it does not save the given
+The distinction just drawn gives the substantialist his sharpest objection, and I state it
+at full strength. Take a perfect crystal at absolute zero. The static cost remains, since
+it would still take work to undo it, but the drain is nil. At equilibrium, nothing further
+is expended. Here the two magnitudes divorce, and here the substantialist appears to
+recover his inert given: a finite being that is, without having to do anything at all.
+He does not recover it, for two reasons, and the second is the one that matters.
+The first is that the crystal does not exist. Absolute zero is inaccessible; every real
+crystal is at finite temperature, hence agitated, hence draining by diffusion, creep, and
+sublimation, however infinitesimally. And abstracting from the thermal, no structure
+escapes, at cosmological timescales, the background radiation traversing it or the slow
+decay of its matter. Where the thermal drain would vanish, another nameable mech-
+anism restores it. Zero drain is the never-attained limit of a series of beings that all
+drain.
+The second reason is that the ideal crystal is not merely unrealized but incoherent
+as described. To be finite and to be exposed are one property rather than two. A
+finite is a difference bounded against a ground, hence in grip on that ground, hence
+5
+exposed to it. A finite with no grip on any ground would be bounded against nothing,
+which is to say it would be the Whole, or a pure possible, and not a finite. The
+ideal crystal is constructed by removing exposure while retaining finitude, and that
+operation cannot be carried out. It is not a counterexample to the claim but a non-
+instantiated idealization obtained by deleting a constituent of the very concept it
+instantiates.
+The anti-substantialist claim is thereby made precise rather than lost. It is not
+that everything is dynamic in a sense the ideal crystal would falsify. It is that every
+exposed finite being drains, and that nothing real escapes exposure.
+2.5 What is established, and what is not
+Established: no real finite being is inertly given. The stone is not a block of being
+laid down once and for all, but a determination in grip on a ground that wears it, and
+therefore indexed to time and to a milieu rather than indifferent to both. Its unity is
+made. The pole of the given has lost the case it would have chosen.
+An equivocation must be refused here, because the word “cost” carries two magni-
+tudes that the argument must not be allowed to trade on. For a being with a cycle,
+expenditure buys continuation: the reserves drawn down purchase the next round. For
+the stone, nothing of the sort occurs. Its bonds sit in a potential well and are not re-
+newed by any work, and the drain it undergoes is not a price paid for holding but the
+erosion of what holds. A substantialist is entitled to press exactly this: the depth of
+the well is granted, and the dynamic drain measures the stone’s failure to hold rather
+than its holding.
+I grant the point and narrow the claim accordingly. What §2 requires is not that
+the stone pays for its unity, but that no real finite being is exempt from exposure. The
+inert given demands a determination indifferent to the ground it is bounded against,
+and there is none: exposure is not an accident of the stone but a constituent of finitude.
+That is what “makes itself one” means in the minimal sense of §1.5, and it means no
+more than that. Whether anything buys its own continuation is a further question,
+which §5 answers and §2 does not.
+Not established, and the debt should be exact. That the non-sustaining isdirected,
+that an unrenewed finite declines rather than reinforces itself, is taken here as a struc-
+tural trait of the irreversible world and not derived from anything more primitive. Its
+ultimate reduction to a combinatorial or thermodynamic condition, and the treatment
+of recurrence over long timescales, exceed this paper. The argument of §2 therefore
+has two grades: the task is conceptual, the drain is posited, and the conclusion inherits
+the weaker of the two.
+6
+What §2 establishes belongs to the minimal sense of §1.5. That the stone does not
+remakeitself is a further fact, which §5 turns into a test.
+The two poles are now both retired: the given has lost its paradigm here, and the
+derived was shown in §1.3 to lack a discriminant. What remains is not a compromise
+between them but the position they jointly exclude.
+3 The Position That Remains
+3.1 A dichotomy, not a survey
+Both available accounts distribute being and doing across two planes and differ only
+over which comes first. The one that places identity first has now lost the case it would
+itself have chosen; the one that places activity first cannot say which continuities of
+activity are the activity of one being.
+What follows is not that some third position has been proved. It is narrower and
+more useful. The disjunctioneither being and doing are distributed across two planes,
+or they are notis exhaustive, and both orderings of the distribution have now been
+shown to fail, each for a reason internal to it. Whatever survives must therefore deny
+the distribution itself. That is a constraint on the space of remaining positions, not
+yet an occupant of it.
+The axiom is the occupant I propose:
+To be is to make oneself one.
+For every finite being, unity is not a state prior to the act but the act itself insofar
+as it holds. Not, on one side, a thing that is one, and on the other the operations
+that maintain it: one plane, an act whose unity is the continuous enactment of its own
+holding.
+I want to be exact about what the preceding sections license. They license the
+denial of the distribution. They do not license this particular way of denying it, which
+is a substantive proposal and could be wrong while the diagnosis stands. What the
+axiom must now do is earn the difference between itself and a mere negation. It must
+have content, and that content must make a difference to cases. §4 states the content;
+§5 puts it to a test that it can fail.
+3.2 Why each term is load-bearing
+Every word in the formulation is doing work, and the quickest way to show it is
+to remove them one at a time.To benames finite actuality, not existence in the
+7
+unrestricted logical sense; the axiom is a claim about finite determinations, and I take
+no position on whether anything else falls under it.To makemarks constitution rather
+than fabrication, and nothing in it implies an agent who first exists and then produces
+itself, a reading treated in §3.3.Oneselfmarks that the act and what is constituted in
+it are not two independently individuated terms.Onemarks that the act is not sheer
+occurrence but holds as a determination.
+Now remove them. “To be is to act” describes a world of activity in which nothing
+individuates, and the question of §1 returns unchanged: why call some regions of this
+activity beings? “To be is to persist” reinstates a bearer given before what it does, and
+§2 has removed its best case. “To be is to make oneself” is generalized self-production,
+processualism with a reflexive verb, and it loses the constraint that would separate the
+cell from the storm.
+The operative word is thereforeone. What it does not mean must be said. It does
+not mean numerical simplicity: an organism has trillions of components and is one in
+the relevant sense. It does not mean indivisibility, nor impermeability, nor the absence
+of nested cycles. It means that the act holds as a determination, so that changes can
+be attributed to the same finite unity rather than merely redescribed as successive
+states of an unrestricted field.
+This is why I speak of unity-in-act. Unity is neither deposited beneath the activity
+nor extracted from it afterwards. The act is one insofar as it holds, and the being is
+that holding insofar as it occurs.
+3.3 “Oneself” without a prior self
+An objection threatens the axiom before it is deployed, and it bears on two words. The
+reflexive “oneself” appears to posit a subject that makes and an object on which the
+making falls, hence a subject prior to the act, which is what the axiom refuses. And
+“one” redoubles the threat: to make one, is this not for a unifier to gather a unified,
+reintroducing beneath unity the duality of what unifies and what is unified? Under
+this double reading the axiom reinstates twice the division it means to lift.
+The objection reads “oneself” as reflexive. The construction I mean is middle,
+in the technical sense of comparative grammar. Benveniste (1966) characterizes the
+middle voice as designating processes in which the subject is itself engaged in what
+it accomplishes rather than being the external agent of an action falling on a distinct
+patient:gignomai, to be born,phainomai, to appear. The subject is the site where
+the process takes place, not a term standing outside it.
+Read in that voice, both threats dissolve. The subject is not given before the act,
+since it is in the act as its site; and “one” does not presuppose a unifier distinct from the
+8
+unified, since unification is the mode under which the act holds and not an operation
+performed on a previously multiple matter. To make oneself one, in the middle voice,
+is to hold as one without the holding and the held coming apart.
+Grammar does not settle ontology, and the middle voice does not show that unity
+so conceived is real rather than verbal. Its role is narrower and sufficient: the sentence
+need not carry the circularity a reflexive reading imposes on it, so the objection does
+not dispose of the axiom before the argument begins. The burden falls on the test of
+§5, which the axiom can fail.
+One restriction, which will matter later. At the level of the axiom, “oneself” names
+no interiority, no agency, no intention, and no self in any strong sense; it marks only
+the non-externality of a finite being to its own enactment. That every finite being
+makes itself one is what the axiom says. That some finite beings are selves is not, and
+requires the further structure of remaking.
+3.4 How an axiom is to be judged
+Calling this an axiom is not a way of exempting it from argument, and I should be
+explicit about the standard I am accepting. An axiom is an explicit primitive, and the
+question to put to it is not whether it is self-evident, since it is not, and neither is any
+of its rivals. The question is whether it discriminates cases its rivals leave undecided, at
+a cost in commitments one can state. I have stated the commitments in §3.2 and will
+add the rest in §4. The discrimination is §5’s business, and I have built that section
+so that it can come out the wrong way.
+What follows immediately is the content. The axiom compresses three claims that
+it mobilizes jointly and that are not derivable from one another. Taken separately,
+each falls back into a position §1 has already removed.
+4 What the Axiom Commits One To
+The axiom compresses three claims. They are mobilized jointly, they are not derivable
+from one another, and their solidarity is what makes the displacement. I state them
+here because §5 depends on all three, and because a reader is entitled to see the bill
+before the test.
+4.1 Constitutive activity
+Nothing finite is inertly given. Every finite being is bounded against a ground that
+wears it, and to cease absolutely to make itself is to cease to be. This is not the claim
+that everything transforms visibly, repairs itself actively, or buys its continuation with
+9
+work; it is the claim, narrowed in §2.5, that no finite determination is indifferent to
+what it is bounded against. What it excludes is the finite being as an inert substrate
+on which properties are imprinted. It is the weakest of the three, and the one for which
+§2 supplied an independent argument.
+4.2 The identity of being and doing
+Thesecondisstronger, anditdoesnotfollowfromthefirst. Thatafinitedetermination
+presupposes constitutive activity does not yet forbid holding that there is first a thing
+and then operations that conserve it, a bearer that acts rather than a bearer given
+inertly. The axiom refuses this residual distribution as well.
+Doing is not an attribute added to being. It is its modality. Correlatively, being is
+not a silent support beneath doing; it is that doing insofar as it holds as one. This is
+the content that separates the axiom from substantialism, which gives the substrate
+as primary, and from radical processualism, which gives the flux as primary without
+stabilizing what in it would be. The middle voice (§3.3) is the grammatical resource
+that makes the identification statable without circularity; it is not what makes it true.
+This content is the one §5 leans on hardest, and the reason belongs here. If being
+and doing were distinct, a thing on one side and its maintenance on the other, then
+the question of whose margin bears the cost would be a question about where an
+accountant draws a line. One could redescribe the whirlpool as a being whose mainte-
+nance operations happen to be performed by the river, and the organism as one whose
+operations happen to be performed internally, with no ontological difference between
+them, only a difference in the boundary chosen for the audit. The criterion would then
+record a convention.
+Under the identity, that redescription is unavailable. The whirlpool is not a thing
+that has its holding paid for elsewhere. Itisthe holding, and if the holding is the
+river’s doing, there is no second being there that borrows. The difference between
+bearing one’s own cost and having it borne is therefore not a fact about where an
+external boundary is drawn, but about whether the act traces a boundary at all. This
+is what will make the verdicts of §5 more than a bookkeeping choice, and it is the
+point at which the axiom stops being an ornament on the criterion and becomes its
+condition.
+4.3 The monism of the act
+If the finite being is never other than the doing by which it holds as one, there are
+not two orders of reality, an inert ground and a dynamic regime, a matter and a mind,
+to be articulated afterwards. There is a single category of which all finite beings are
+10
+modalizations.
+This is not a reductionism. It does not say that all beings resemble one another, but
+that their differences must be thought as differences of regime within one type of being
+rather than as differences between two irreducible orders. Without it, the trichotomy
+of §5 would be three analogies rather than one criterion: the stone, the organism, and
+the whirlpool would be sorted by three unrelated standards, and the claim that a
+single question discriminates them would have no ground. With it, the same question
+is well-posed across the range, and the answers differ because the regimes differ, not
+because the beings belong to different worlds.
+Monism is also what keeps the axiom from being a biological criterion in disguise.
+If self-maintenance marked a separate order of being, “to be is to make oneself one”
+would be a thesis about living things with an unexplained remainder for everything
+else. It is instead a thesis about finite determination as such, of which self-maintenance
+is one regime.
+4.4 Why the three hold together
+The solidarity can be checked by removing each in turn. Activity without the identity
+of being and doing makes activity a superadded attribute, and a substrate reappears
+beneath it. Identity without monism produces a dualism in which being-doing holds
+of one category and something else holds of the rest, and the criterion loses its range.
+Monismwithoutactivityproducesindistinctstaticentities, andindividuationcollapses
+into the question of how to carve one homogeneous stuff. Together the three draw one
+configuration: a finite being exclusively, non-dually, and costingly in act, without a
+reserve of inertia and without a division of planes.
+One consequence must be recorded, because it is what the test will exploit. If
+every finite being makes itself one, no finite being is exempt from the question of
+where the cost of its holding falls. The question is universal in application and, this is
+the substantive part, not universally answerable in the same way: the drain is real for
+every exposed finite being, but a cycle that takes the drain in charge is not. Whether
+anything answers to “who pays” is what differs across cases, and it is the differing that
+§5 reads.
+5 The Test
+5.1 What renewal does not see
+Take the two cases left standing in §1.3. An organism and a whirlpool both present
+a stable form traversed by a complete turnover of their matter. Both persist through
+11
+the replacement of their components; both would be described, in the vocabulary
+of processual persistence, as organizations actively maintained across time. Under
+a criterion of renewal alone they are indiscernible, and a theory bounded to such
+a criterion must either class them together or decide between them by appeal to
+something it has not stated.1
+The form of this objection needs care. It is not that processual accounts are unable
+to notice the difference. They notice it, and describe it well. It is that the resource
+which wouldderivethe difference is the one such accounts have given up. If unity is a
+stability within a flux, then what individuates a stability can only be a feature of the
+stability: its degree, its duration, its complexity, its causal integration. None of these
+separates the cases. The whirlpool is stable, persists indefinitely under a maintained
+flow, has an intricate internal structure, and is causally integrated in the strong sense
+that every part of it depends on every other. What it lacks is not a further degree of
+anything on that list.
+Rescher (1996) posits the individual as a temporary crystallization within becom-
+ing; Nicholson and Dupré (2018) treat organisms as processes actively maintained at
+several timescales; Meincke and Dupré (2020) locate persistence in processes rather
+than things. Each is a defensible account of how identity survives change, and none of
+them, on its own resources, determines which of two equally maintained organizations
+is the one being. That is not a failure of care but a consequence of having placed
+activity before unity, which is the second horn of the distribution §1.4 identified.
+5.2 The test
+What is not visible under renewal is visible under perturbation.
+By a perturbation I mean any event that displaces a finite being from its nominal
+regime and forces it to mobilize whatever capacity it has to respond: a thermal shock
+for a cell, a material failure for an artifact, a supply breakdown for an organization.
+What makes such an event a test is not its physical nature but its structure. The
+response it demands leaves a trace that is not restored when the perturbation ceases.
+The cell that has synthesized its heat-shock proteins does not recover the energy spent.
+The wound closes as a scar and not as the prior tissue. Returning from B to A is not
+the erasure of the passage from A to B, but a further transformation with a cost of its
+1The pair is borrowed from a debate it does not belong to me to settle here. The question of
+what makes a biological individual one has its own literature, in which anatomical, genetic, and
+evolutionary answers have each been pressed and found wanting on ordinary cases (Godfrey-Smith
+2009; Clarke 2010; Pradeu 2012; Bouchard and Huneman 2013). My use of the case is metaphysical
+rather than biological: the organism and the whirlpool are the cleanest instance of two organizations
+equally maintained and unequally individuated, and nothing in the argument turns on the organism
+being alive.
+12
+own.
+The cost at issue is therefore the dynamic drain of §2.3, not the static magnitude
+that measures what it would take to undo a structure. This matters, because only the
+first is levied somewhere in particular. What it would cost to shatter a crystal is a fact
+about the crystal; what it costs to respond to a perturbation is an expenditure drawn
+from a determinate resource, and the criterion asks which one.
+The question is then precise and empirically addressable:on what resource, belong-
+ing to what, is the irreversible trace levied?
+One restriction, and it is a restriction rather than a promise. What follows is a
+decision procedure whose inputs are empirical: it says what to look for, and the world
+can answer it against me. It is not a measurement protocol. I supply no quantity, no
+unit, no threshold, and no case in which the measurement has been carried out, and
+nothing in the argument turns on my doing so. Specifying an observable that satisfies
+the criterion in a given system is a separate task, and a harder one than stating the
+criterion. What the test does presuppose is the drain posited in §2.3: if that posit
+fails there is no trace to locate, and this section fails with it. Beyond that it assumes
+nothing about which beings have margins, which is what it is built to find out.
+5.3 Three answers, and two privations
+Three answers to that question exhaust the field, and the exhaustiveness is structural
+rather than enumerative (Figure 1). Either some cycle takes the trace in charge, or
+none does. If none does, the trace disperses and accumulates. If some cycle does,
+either it draws on a resource of its own or it draws on another’s. Where the cost falls
+on a margin proper to the being, the being is aself. Where it is borne by an external
+infrastructure or bearer, the being is acarriage. Where no cycle takes it up at all, the
+being is anaggregate.
+Carriage and aggregate are not two further positive kinds standing alongside the
+first. They are two privations. The carriage has the cycle and lacks the endorsement;
+the aggregate lacks the cycle, hence lacks anywhothat could pay. This asymmetry
+disposes of a circularity that would otherwise threaten the question itself. “Who pays?”
+has a determinate answer only where a cycle traces one. For a carriage the answer
+is traced by an observer who decides where to draw the audit; for an aggregate the
+question is without object, since an aggregate is not a unity for which one must decide
+who pays. To ask who pays, of an aggregate, is already to presuppose in it the self it
+lacks.
+The grain of the trichotomy is coarse, deliberately. Within carriage, the distinc-
+tion between a carried form and the bearer that carries it admits a refinement that
+13
+Does a self-maintaining
+cycle take the
+trace in charge?
+Is the cost borne on
+a margin of its own?
+Aggregate
+no cycle to pay
+the stone
+Carriage
+endorsement lacking
+the whirlpool,
+the flame
+Self
+bears its own cost
+the organism
+no
+yes
+no yes
+Figure 1: The criterion as a decision procedure. Two questions and two privations:
+the aggregate lacks the cycle, the carriage lacks the endorsement. The first branch is
+read at a scale on which dissolution is slow. The second question is settled empirically,
+by locating where the irreversible trace of a perturbation falls.
+produces further verdicts.2 I set it aside here, since the three regimes suffice for the
+discrimination §1.3 demanded, and the refinement would import commitments the
+present argument does not need.
+5.4 Verdicts
+The four verdicts are collected in Table 1.
+The organism.A bacterium under thermal stress synthesizes heat-shock proteins,
+restructures its membrane, and reallocates its metabolic budget. The irreversibility
+of that response falls on its own margin. Reserves are drawn down, the response is
+paid for from within, and what remains afterwards is a system that has been altered
+by having responded. The scar is the general form of this, the material evidence that
+someone paid. Verdict: self. Its unity is not postulated; it is paid on a margin that
+belongs to it.
+2The refinement matters because carriage as defined here covers two unlike situations: a cost borne
+by a passive infrastructure, as the river bears the whirlpool, and a cost borne by another self, as a
+host bears what lives on it. The mitochondrion and the lichen are the cases that force the distinction,
+and they are also where stratified endorsement makes “who pays?” admit answers at more than one
+level at once. Nothing in the present argument turns on which way they are decided.
+14
+Cycle Where the trace falls Verdict
+The stone none on the material itself, where it
+accumulates
+aggregate
+The organism regenerative: produces
+the conditions of its
+next cycle
+on its own metabolic margin;
+the scar is the record
+self
+The
+whirlpool
+non-constitutive:
+maintains a form it
+does not produce
+on the fluid traversing it, and
+away downstream
+carriage
+The flame consuming:
+metabolizes without
+repairing
+on the pre-given fuel carriage
+Table 1: The four cases under the two readings. The organism and the whirlpool are
+indiscernible under renewal alone and separate on the third column. The flame is the
+case in which the response to perturbation resembles an aggregate’s while the cost
+profile is a carriage’s, and in which the cost profile arbitrates.
+The whirlpool.The reconfiguration falls on the fluid traversing it. Perturb the flow
+and the form adjusts, but the adjustment is carried away downstream; remove the
+flow and the whirlpool disappears without having endorsed anything. In the physics
+of Prigogine and Stengers (1984), the whirlpool is a dissipative structure, an order
+maintained far from equilibrium by a flux traversing it. I take up that description
+entirely and add the verdict thermodynamics alone does not render: such orders are
+real, and they are carried. The river pays. Verdict: carriage, a unity that is genuine
+and borrowed.
+The stone.No cycle of its own restores its bonds. Perturbed, the trace accumulates:
+the chip stays, the crack propagates, and nothing takes the cost in charge. Verdict:
+aggregate. Here the equivocation announced in §1.5 must be held off, since to classify
+the stone as an aggregate is not to say it is not one. “Aggregate” names the absence of a
+self-sustaining cycle, not the absence of unity, and dissolution is its default regime. The
+criterion does not discriminate one against not-one, which the axiom settles universally,
+but, among beings that make themselves one, those that remake themselves on their
+own margin.
+The flame.One case takes a paragraph of its own, because it separates a criterion
+from a slogan. The flame has a real feedback loop: heat melts the wax, vaporizes
+the fuel, and sustains the flame that melts the wax. Its causal chain closes. But it
+closes thermally rather than constitutively. The flame consumes the wax without ever
+producing it; its cycle metabolizes without repairing. Under perturbation, remove
+the fuel, and it does not compensate. It burns what remains until extinction, as an
+15
+aggregate would. Verdict: carriage, with the pre-given fuel as payer. What the flame
+shows, and what §5.6 will use, is that having a loop and having a loop that produces
+the conditions of its own operation are two different things, and that only the second
+bears on individuation.
+5.5 Composition, and the life answer
+The verdicts bear on a question analytic metaphysics has posed in another form. Un-
+der what conditions do several things compose one thing? Answers range from the
+universalism that lets any plurality compose (Sider 2001) to restrictions of various
+strengths, with conservative defences of the ordinary furniture in between (Korman
+2015). The framing treats unity as a relation between a plurality and an object.
+Van Inwagen (1990) gives the answer closest to the present one, and the proximity
+is instructive. Composition occurs, on his account, when the activity of the simples
+constitutes a life. This makes an activity rather than a relation the condition of
+composite unity, which is the same displacement I am proposing. The divergence is
+over what makes an activity constitutive. In van Inwagen’s account, life is where the
+answer stops: asked why a life composes and a maintained vortex does not, one can
+point to the biological and no further. The endorsement criterion says what the appeal
+to life was standing in for, namely that the activity bears on its own margin the cost
+of its own resumption, and it separates the organism from the whirlpool by a property
+neither of them wears as a kind term.
+The gain is that the criterion is structural rather than sortal. Two distant grains
+of sand compose nothing, for want of a common endorsement, even where an arbitrary
+mereological fusion unites them; and an entity may fall outside the biological and still
+endorse, or fall inside it and not. A full engagement with restrictivism, universalism,
+and priority monism requires a separate treatment. What I retain is that “who pays?”
+discriminates where “which pluralities compose?” remains indifferent.
+5.6 Why “its own margin” is not circular
+The obvious objection is that the criterion smuggles in what it was meant to produce:
+to say that the resourcebelongs tothe being is to have given oneself the being in
+advance, since the boundary that decides whose margin it is, is the boundary the
+criterion was supposed to trace.
+The objection bites if ownership is read as possession, and read that way the
+criterion fails at once, since the organism too depends on what it does not make.
+It dissipates entropy into its milieu, imports amino acids and cofactors it does not
+synthesize, and would die within minutes of isolation. Autarky cannot be the criterion,
+16
+because dependence on a milieu is universal and discriminates nothing.
+What is required is a property of the cycle itself, statable without a possessor and
+without a prior boundary: the margin is proper when the effects of a reconfiguration
+re-enter, within the being, into the conditions of the next cycle. The heat-shock protein
+the cell has synthesized modifies the state that conditions its subsequent metabolism,
+andtheloopclosesinside. Inthewhirlpool, therearrangementofthefluidexitsintothe
+river and conditions no cycle of its own; in the flame, the consumed wax conditions
+the next moment of burning but is not among the things the flame makes. Which
+effects re-enter which conditions is a mereological property of the cause-effect chain,
+requiring no pilot, no possessor, and no boundary drawn in advance. The circularity
+falls there.
+I borrow the property rather than construct it. It has been developed under the
+namesofoperationalandorganizationalclosurebyMaturanaandVarela(1980), Varela
+(1979), Rosen (1991), Montévil and Mossio (2015), and Moreno and Mossio (2015).3 I
+take it here only in the role the objection requires, as what makes “its own” statable
+non-circularly, and not as a rival criterion of individuation.
+This is also where §4.2 is discharged. Under the identity of being and doing, bearing
+one’s own cost rather than having it borne is not a fact about where an observer draws
+the audit. The whirlpool is one only for an observer who traces the boundary of who
+pays; the organism traces that boundary itself, since its beingisthat holding and the
+holding is what closes. Strong individuation is the existence of an answer to “who
+pays?” traced by the structure rather than by the observer, which is what an endorsed
+closed cycle furnishes and what both privations lack.
+5.7 What organization does not settle
+The property borrowed in §5.6 belongs to a family of accounts that read the orga-
+nization of a system, and the family is wider than closure. Bickhard (1993, 2009)
+distinguishes systems that areself-maintenantfrom those that arerecursively self-
+maintenant. A candle flame is his canonical case of the first: it holds itself above
+combustion threshold, vaporizes wax, and induces the convection that brings in oxy-
+gen, and so contributes to the conditions of its own persistence. What it cannot do is
+maintain the property of being self-maintenant. Deprived of wax it has no alternative
+to select, because it can only burn. Campbell’s bacterium is the canonical case of the
+second: it swims while heading up a sugar gradient and tumbles when it finds itself
+3Whether closure so understood is sufficient for endorsement, that is, whether a cycle can produce
+all the conditions of its own operation and still have its costs borne elsewhere, is a further question,
+with consequences for the individuality debate in the philosophy of biology. It does not bear on the
+circularity objection, for which closure is borrowed here, and I take it up in §5.7.
+17
+heading down, differentiating the two conditions and selecting accordingly.
+The proximity is close enough that the difference has to be stated, and stating it is
+informative, because the two partitions cross rather than coincide. For Bickhard the
+flame occupies a genuine positive category; here it is a privation. The whirlpool, which
+contributes nothing to the conditions it depends on, falls outside his lowest positive
+grade, whereas here it sits alongside the flame. And a system that switched among
+self-maintenance strategies while drawing every unit of the cost from outside would sit
+at the top of his hierarchy and receive the verdict carriage here. The two criteria read
+different data: his reads what a system can do, and mine reads what it pays. Neither
+is a redescription of the other.
+That last case is what shows the cost axis to be doing work of its own rather
+than tracking organization at one remove. Consider a chemical network that produces
+every catalyst its own reactions require, held in a continuous-flow reactor: substrates
+enter, products leave, the internal cycle is complete, and the network may well switch
+between alternative routes as the feed composition changes. On Rosen’s criterion it is
+closed; on Bickhard’s it is recursively self-maintenant. Perturb it, and it compensates
+on nothing of its own. The excursion is absorbed by the feed, and restoring the feed
+returns the network to its regime having levied no margin. Verdict: carriage.
+Two claims must be separated here, and I separate them. Whether any such system
+is realized in nature is an open empirical question, and I do not assert that one is. That
+organization alone, however richly characterized, cannot deliver the verdict is not an
+open question: closure reads the catalyst graph, recursive self-maintenance reads the
+repertoire of selectable strategies, and neither says on which margin a perturbation is
+paid for. Enriching the organizational description adds constraints; it never adds a
+margin. This is why the cost is not a tracer of organization, and why §5.6 borrowed
+closure for the narrow job of making “its own” non-circular rather than adopting it as
+the criterion.
+5.8 Paid unity
+The thesis of the first axis can now be stated in its final form.
+A finite being holds as one in the strong sense if and only if it endorses, on
+a margin of its own, the cost of regenerating its own conditions.
+Three components, articulated.Endorsement: the cost is levied and located, not
+stipulated.Closure: the cycle’s effects re-enter its own conditions, which is what makes
+“its own” non-circular.Regeneration: the cycle does not merely hold the being in a
+state but reconstitutes the conditions under which it can continue.4
+4The closest kinship, and the sharpest demarcation, is with Deacon (2011). His teleodynamics
+18
+This is not a criterion posited alongside the axiom. It is what “to make oneself one”
+promised in §3, rendered testable by the empirical localization of irreversibility, and it
+is what separates the two senses of “one” announced in §1.5.
+It remains to say how the criterion could come out the wrong way, since a test
+that cannot fail is not a test. Two conditions would defeat it. The first is that the
+irreversible trace of a perturbation should fall in the same place for the organism and
+for the whirlpool, so that, examined carefully, the cell’s response turned out to be paid
+for by its medium in the way the whirlpool’s is paid for by the river. The criterion
+would then discriminate nothing, and the axiom would have gained no explanatory
+advantage over the accounts of §1. The second and more serious is that the location
+of the trace should vary with the observer’s carving, so that by choosing a different
+system boundary one could make the same physical episode come out as endorsed or as
+borne. Endorsement would then be a convention after all, and §4.2 would have failed
+to secure what it claimed. A technically armed version of this objection is available,
+and I do not dispute its premise: in stochastic thermodynamics the apportionment of
+entropy production between a system and its surroundings is relative to the coarse-
+graining chosen. The criterion does not rest on that apportionment. It asks whether
+the irreversible trace of a response re-enters the conditions of the being’s next cycle,
+which is a question about which effects condition which and not about how a budget
+is divided. That is why I hold that it does not vary with the observer’s carving; but
+the claim is empirical in form, and it is the place where the account is most exposed.
+6 Is Any of This Necessary?
+One could grant everything in §5 and still hold that it describes a contingency. Beings
+in our world happen to have margins; some cycles happen to be arranged so that their
+effects re-enter their own conditions; the criterion sorts what it finds. On this reading
+the axiom would be a summary of local furniture, and “to be is to make oneself one”
+would be a fact about how things have turned out rather than a claim about finite
+being. This section argues that the reading is unavailable, and it argues it in a way
+that can be checked, by constructing the being for which the necessity would not hold
+and showing what it costs to be that being.
+rests on the same pairing of work against a slope with the self-maintenance of a constraint against its
+degradation, and his passage from morphodynamics to teleodynamics runs close to the passage from
+carriage to self. But Deacon grounds the teleodynamic orientation on a constitutive absence, which
+has earned him the objection that an absence cannot do causal work. The present account does not
+carry that burden, since its principle is a positive cost levied on a finite margin rather than a lack.
+19
+6.1 The reductio
+Suppose the identity of being and doing were contingent, so that it were conceivable
+for a finite being to be without doing, or for a doing to take place without being. There
+are two cases, and each ruins the axiom for a reason already established.
+A being without doing reinstates the inert substrate. There would be finite being
+inertly given, which §4.1 excludes and §2 argued against on the case least favorable to
+it. Every finite determination holds under constraint, is to be renewed, and to cease
+making itself is to cease to be.
+A doing without being introduces a flux with no bearer. There would be two orders
+of reality, pure activity on one side and being on the other, which §4.3 excludes, since
+there is a single category of which all finite beings are modalizations.
+The identity of being and doing is therefore not an exchangeable stipulation. Its
+negation is not false by observation; it is incoherent with the contents the axiom
+mobilizes. But this establishes less than it appears to, and §6.2 says why.
+6.2 The separating model
+The reductio invites a deflationary reply, and the reply is a good one. If “to cease
+acting is to cease to be” follows from the way the terms have been set up, then the
+necessity is verbal: one has defined a being as an act and then discovered that an act
+which stops has stopped. Nothing about the world has been learned.
+The reply is answered by constructing the alternative, and the alternative is coher-
+ent.
+Consider two acts.5 The first is self-grounded. It has no external ground, its
+capacity to act is endogenous, and the margin on which its holding is paid is its own.
+For this act, not paying the cost is exhausting itself, and inaction is not a stable option
+but dissolution. The second is contingent in a precise sense: it has an external ground
+that compensates its cost. What becomes optional for it is not renewal but thepaying
+of renewal, since an external source discharges the drain in its place, so that waste
+does not threaten its existence. It still makes itself, like every finite being. It simply
+does not pay what it costs.
+The difference between the two is structural rather than verbal, and the second is
+constructible without contradiction. What renders the act necessary is therefore not
+5I use “ground” throughout for the source from which the cost of holding is paid, and not for the
+relation of metaphysical grounding in the sense of Schaffer (2009) and Fine (2012). Nothing in the
+argument turns on whether the two coincide. In particular, the standard irreflexivity of the grounding
+relation is not infringed by a being that pays its own drain, since paying is not explaining. Whether
+self-grounding in the operative sense used here could be given an account in the technical one is a
+question I leave open.
+20
+logic alone but self-grounding. A being with an external ground escapes the necessity;
+a being grounded on a finite margin does not. Immanent necessity does not hold of
+everything conceivable. It holds of what grounds itself on a finite margin, which is the
+regime of the finite.
+Note where this places the burden. The discriminating necessity, that one must
+pay on one’s own margin on pain of dissolution where the contingent survives because
+another pays, runs on cost. It stands on the same side of the joint as the drain of §2.3,
+and is judged downstream in the same way.
+6.3 Neither logical, nor external, nor contingent
+The position can now be located among the terms modal metaphysics has fixed.
+It is not logical necessity. “Making oneself one” is not a tautology, and its negation
+is not a formal contradiction but an incoherence with the axiom’s contents. It is not
+causal or external necessity, since no transcendent instance imposes it and no external
+law grounds it. It is immanent, holding to the structure of what it characterizes.6
+The two magnitudes of §2.3 reappear here as two necessities, and conflating them
+would overstate the result. The necessity of thetaskdoes not pass through cost: even
+in a perfectly reversible world the necessity of making oneself would remain entire, and
+only its price would vanish. That strand is a priori and thin, being near-analytic given
+the axiom. The necessity with discriminating content is the one §6.2 exhibits: it runs
+on cost and is posited rather than derived.
+I state the result at the strength it has. Immanent necessity is thin on both sides
+of the joint, analytic upstream and posited downstream, and its value is not a modal
+discovery. Its value is that it blocks the deflationary reading with which this section
+opened. Endorsement is not a contingent regularity that our world happens to exhibit,
+but what it is for something to hold on a finite margin without an external ground.
+6.4 The demarcation from Spinoza
+The most likely misreading is that this is Spinozist necessitarianism in another idiom,
+and the demarcation is sharp enough to be made quickly.
+The Spinozistcausa suiis a self-grounding without cost. Substance is by its essence
+alone, and has nothing to maintain. The finite being grounds itself in an entirely
+different regime, operatively, on a margin it did not posit and that it exhausts, at a
+6The position belongs to the anti-Humean family that anchors modality in objects rather than
+in a space of worlds (Bird 2007; Vetter 2015), and it offers an engine that family leaves open: the
+necessity of the finite act is not a primitive potentiality but has a structure, self-grounding on a finite
+margin under a cost that cannot be reduced to zero. I do not adjudicate among the members of that
+family here.
+21
+cost it must endorse without cease. It is self-grounded in the sense that no external
+instance pays in its place, which §6.2 makes precise. It is notcausa suiin the sense
+that its existence would follow from its essence without its having to hold itself. Its
+necessity is not that of a self-caused existence but that of the act. The finite must
+make itself in order to be, and is never dispensed from paying for its holding.
+The right Spinozist interlocutor is not substance in any case, but the finite mode.
+Theconatus, the effort by which each thing perseveres in its being (EthicsIII, 6–7),
+is already a self-maintenance under constraint, and it is the closest kin to the self as
+conceived here. The divergence is one of status. Spinoza posits the conatus as essence;
+the present account derives it from cost and finite margin. Allied on the self-grounding,
+distinct on the mechanism.
+7 Scope
+7.1 What is established
+The argument has been deliberately narrow: an axiom, a criterion, and a relation
+between them. The criterion is that a finite being holds as one in the strong sense if
+and only if it bears, on a margin of its own, the cost of regenerating its own conditions,
+which is testable by locating where the irreversible trace of a perturbation falls and non-
+circularbecause“itsown” isapropertyofthecausalgraphratherthanofpossession. Of
+the three, the relation is what I would defend first. Without the identity of being and
+doing, endorsement records where an observer draws an audit; with it, the difference
+between paying and being paid for is a difference in whether the act traces a boundary
+at all. That is what §4.2 secured and §5.6 discharged, and it is why the criterion is
+not detachable from the axiom that produced it.
+7.2 Three grades of verdict
+The criterion does not decide uniformly, and this is a property of the criterion rather
+than an embarrassment to be managed.
+Some verdicts are determinate. The stone is an aggregate, the organism a self, the
+whirlpool a carriage. The endorsement structure is unambiguous, and the verdict is
+stable under reformulation.
+Some are conditional: a dune renewed by the wind, a colony whose cycle may close
+at a level above its members. Here the criterion does not deliver a category but a
+decision procedure, and the verdict turns on parameters that can be identified and
+measured.
+Some cases are indeterminate, and the criterion records the indeterminacy as a
+22
+result. Where endorsement is stratified or partly externalized, the conditions of appli-
+cation are not jointly satisfied, and there is no fact of the matter that the criterion is
+failing to detect.
+Rival accounts decide uniformly, whether by a biological criterion, a mereological
+one, or a derivation from the whole, and thereby treat structurally ambiguous cases
+as though the ambiguity were a defect of the theory. I take it to be a property of the
+phenomenon, and prefer a criterion that says where it decides, where it conditions,
+and where it suspends.
+7.3 What is not established
+Four debts, stated rather than deferred.
+The drain is posited rather than derived (§2.3). That an unrenewed finite declines
+rather than reinforces itself is taken as a structural trait of the irreversible world;
+its reduction to a combinatorial or thermodynamic condition, and the treatment of
+recurrence over long timescales, exceed this paper. The conclusions that depend on it
+inherit its grade.
+That finitude entails exposure (§2.4) is a posit about the connectedness of the
+world, not a theorem. A plurality of causally disjoint finite islands is not obviously
+incoherent, and I have argued only that an island bounded against nothing would not
+be a finite; I have not shown that no other arrangement is available. The step is
+load-bearing for §2 and it is asserted.
+The observer-independence of the trace’s location (§5.8) is empirical in form. I
+have argued that what re-enters what is not a matter of choice, and this is where the
+account is most exposed.
+The necessity of §6 is thin, and I have said so where it is stated rather than in a
+concluding qualification.
+7.4 Final reformulation
+The unity of a finite being is neither the instantiation of a substance nor the crys-
+tallization of a process. It is the regime in which an act holds as one by remaking
+itself, under the constraint of having to endorse its own cost. At this level, and only at
+this level, does the question “what is a being?” stop opposing what remains to what
+becomes, and become a more exact question, addressable in cases: what, in the finite,
+holds enough to pay for itself the price of its own holding?
+23
+Supplementary material
+Several claims of this paper are machine-checked in Lean 4, and a separate supplement
+documents them. The independence of §5.7 is proved on record: closure and endorse-
+ment are encoded on disjoint data, all four combinations are inhabited, and a network
+that produces every catalyst it requires while carrying no margin receives the verdict
+carriage, so that the verdict is a function of the energetic profile alone whatever the
+catalyst graph. The remainder covers the dissolution-or-recurrence dichotomy behind
+the first branch of §5.3, together with the counterexample that bounds its scope; the
+determination of the regime by the cost profile alone (§5.8); the joint constructibility
+of the self-grounded and the externally grounded act, so that the necessity of §6.2 is
+not obtained by definition; and the drain of §2.3, which appears as a posited field
+rather than a derived proposition, corroborating the debt declared in §7.3.
+The formalization is a consistency apparatus and not a proof engine. It establishes
+that stated structures are consistent and that stated conclusions follow from stated
+definitions; it does not establish that the encoded structures are faithful to the notions
+they are named after, which is defended by the argument and not by the compiler.
+The argument of §2 is not mechanized and is not a candidate for mechanization.
+References
+Aristotle.The Complete Works of Aristotle: The Revised Oxford Translation, ed.
+Jonathan Barnes. Princeton University Press, 1984.CategoriesandMetaphysics
+Z cited by standard divisions.
+Benveniste, Émile. Actif et moyen dans le verbe. InProblèmes de linguistique générale
+I. Gallimard, 1966.
+Bickhard, Mark H. Representational Content in Humans and Machines.Journal of
+Experimental and Theoretical Artificial Intelligence5 (1993): 285–333.
+Bickhard, Mark H. The Interactivist Model.Synthese166, no. 3 (2009): 547–591.
+Bird, Alexander.Nature’s Metaphysics: Laws and Properties. OxfordUniversityPress,
+2007.
+Bouchard, Frédéric, and Philippe Huneman, eds.From Groups to Individuals: Evolu-
+tion and Emerging Individuality. Cambridge, MA: MIT Press, 2013.
+Clarke, Ellen. The Problem of Biological Individuality.Biological Theory5, no. 4
+(2010): 312–325.
+Deacon, Terrence W.Incomplete Nature: How Mind Emerged from Matter. W. W.
+24
+Norton, 2011.
+Fine, Kit. Guide to Ground. InMetaphysical Grounding: Understanding the Struc-
+ture of Reality, ed. Fabrice Correia and Benjamin Schnieder, 37–80. Cambridge
+University Press, 2012.
+Godfrey-Smith, Peter.Darwinian Populations and Natural Selection. Oxford Univer-
+sity Press, 2009.
+Korman, Daniel Z.Objects: Nothing out of the Ordinary. Oxford University Press,
+2015.
+Koslicki, Kathrin.Form, Matter, Substance. Oxford University Press, 2018.
+Leibniz, Gottfried Wilhelm.Philosophical Essays, ed. and trans. Roger Ariew and
+Daniel Garber. Hackett, 1989.Monadology(1714) andDiscourse on Metaphysics
+(1686) cited by section.
+Lowe, E. J.The Possibility of Metaphysics: Substance, Identity, and Time. Oxford
+University Press, 1998.
+Lowe, E. J.The Four-Category Ontology: A Metaphysical Foundation for Natural
+Science. Oxford University Press, 2006.
+Maturana, Humberto R., and Francisco J. Varela.Autopoiesis and Cognition: The Re-
+alization of the Living. Boston Studies in the Philosophy of Science 42. Dordrecht:
+D. Reidel, 1980. Spanish originalDe máquinas y seres vivos, 1972.
+Meincke, Anne Sophie, and John Dupré, eds.Biological Identity: Perspectives from
+Metaphysics and the Philosophy of Biology. Routledge, 2020.
+Montévil, Maël, and Matteo Mossio. Biological Organisation as Closure of Constraints.
+Journal of Theoretical Biology372 (2015): 179–191.
+Moreno, Alvaro, and Matteo Mossio.Biological Autonomy: A Philosophical and The-
+oretical Enquiry. Dordrecht: Springer, 2015.
+Nicholson, Daniel J., and John Dupré, eds.Everything Flows: Towards a Processual
+Philosophy of Biology. Oxford University Press, 2018.
+Pradeu, Thomas.The Limits of the Self: Immunology and Biological Identity, trans.
+Elizabeth Vitanza. Oxford University Press, 2012.
+Prigogine, Ilya, and Isabelle Stengers.Order out of Chaos: Man’s New Dialogue with
+Nature. Bantam, 1984. French originalLa Nouvelle Alliance, Gallimard, 1979.
+Rescher, Nicholas.Process Metaphysics: An Introduction to Process Philosophy. SUNY
+Press, 1996.
+Rosen, Robert.Life Itself: A Comprehensive Inquiry into the Nature, Origin, and
+25
+Fabrication of Life. Columbia University Press, 1991.
+Schaffer, Jonathan. On What Grounds What. InMetametaphysics: New Essays
+on the Foundations of Ontology, ed. David Chalmers, David Manley, and Ryan
+Wasserman, 347–383. Oxford University Press, 2009.
+Sider, Theodore.Four-Dimensionalism: An Ontology of Persistence and Time. Ox-
+ford University Press, 2001.
+Simondon, Gilbert.L’individuation à la lumière des notions de forme et d’information.
+Jérôme Millon, 2005. Doctoral thesis defended 1958; first complete edition 2005.
+Spinoza, Baruch.The Collected Works of Spinoza, Volume I, ed. and trans. Ed-
+win Curley. Princeton University Press, 1985.Ethics(1677) cited by part and
+proposition.
+Strawson, P. F.Individuals: An Essay in Descriptive Metaphysics. Methuen, 1959.
+van Inwagen, Peter.Material Beings. Cornell University Press, 1990.
+Varela, FranciscoJ.Principles of Biological Autonomy. NewYork: North-Holland/Elsevier,
+1979. New annotated edition, ed. Ezequiel A. Di Paolo and Evan Thompson, MIT
+Press, 2025.
+Vetter, Barbara.Potentiality: From Dispositions to Modality. OxfordUniversityPress,
+2015.
+Wiggins, David.Sameness and Substance Renewed. Cambridge University Press, 2001.
+26

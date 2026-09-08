@@ -1,0 +1,390 @@
+[[p.11]]
+
+## AVANT-PROPOS
+
+DE LA SECONDE ÉDITION FRANÇAISE
+
+COMMENT FAUT-IL ÉTUDIER LA MORALE DE KANT ?
+
+On nous a demandé d’indiquer, dans la seconde édition, comment on peut arriver, aussi sûrement et aussi promptement que possible, à l’intelligence exacte de la Critique de la Raison pratique. Pour compléter notre œuvre de traducteur, nous avons essayé de résumer brièvement et de coordonner les notes placées à la fin de la première édition, surtout d’utiliser les résultats de recherches historiques sur la théologie et la philosophie, continuées depuis 1888, en des directions très diverses (Cf. notre Esquisse).
+
+I
+
+La morale de Kant doit être cherchée dans les Fondements de la métaphysique des mœurs ; la Religion dans les limites de la raison pure ; la Métaphysique des mœurs, éléments métaphysiques du droit, éléments métaphysiques de la vertu (n. 18, p. 322) ; surtout dans la Critique de la Raison pratique. Pour bien la comprendre, il faut se rendre compte tout d’abord des éléments fort différents que l’éducation et l’étude personnelle introduisirent successivement dans l’esprit de Kant. Pour bien saisir la Critique de la Raison pratique, il faut de même déterminer ce qu’elle suppose et ce qui la complète dans l’œuvre du moraliste. En possession de ces indications, on pourra suivre la pensée de Kant dans toute sa complexité, [[p.12]]
+en voir l’originalité, qu’il s’agit non de contester, mais d’expliquer dans la mesure où s’explique la production d’une œuvre de génie, artistique ou scientifique, littéraire ou philosophique.
+
+Kant nous apparaît comme un contemporain de Hume, de Voltaire, de Rousseau, des encyclopédistes et des philosophes, comme une des gloires du siècle des lumières (Aufklärung), de la période où la raison prend une part si grande au gouvernement des esprits.
+
+En fait, Kant donne beaucoup à la raison. L’essentiel de son
+œuvre est dans les Critiques de la raison pure et de la raison pratique. C’est pour défendre les droits de la raison pure, combattus par Hume, qu’il a écrit la première (p. 86). C’est « dans les limites de la raison » qu’il considère la religion. Non seulement la raison pure, pratique par elle seule, donne (p. 52) une loi universelle à
+tous les êtres finis, doués de raison et de volonté, et même à l’être infini, à la suprême intelligence ; mais en tant qu’elle détermine par elle-même la volonté, elle est une faculté supérieure de désirer, à laquelle est subordonnée celle qui peut être pathologiquement déterminée (p. 38). Par suite Kant, demandant aux principes à priori des facultés de désirer et de connaître, le fondement inébranlable d’une philosophie systématique, théorique et pratique, aussi
+bien que de la science (p. 16), se prononce énergiquement contre le sentiment (n. 11, p. 311), dont la raison se trouve ainsi occuper la place ! Comme la plupart de ses contemporains, il condamne le fanatisme, religieux ou moral (p. 151), le paradis de Mahomet ou l’union dissolvante avec la divinité des théosophes et des mystiques (p. 220), enfin la superstition (p. 305).
+
+De même Kant subit, au point de vue spéculatif et pratique,
+l’influence de Hume (n. 7, p. 310). Ainsi, il accorde une valeur incontestable aux jugements moraux du vulgaire, sur lesquels il s’appuie à l’origine; il admet que l’entendement ou la vue la plus ordinaire, s’agit-il même d’un enfant de dix ans, révèlent toujours ce qu’il convient de faire d’après la loi morale (n. 14, p. 315). La « voix céleste et si claire », la « raison incorruptible » rappellent le lecteur de Hume, de Shaftesbury et de Hutcheson, comme de
+Rousseau et de Voltaire.
+
+De Voltaire, dont il se croit encore tenu, en 1788, de respecter les talents et d’imiter, en une certaine mesure, l’exemple (p. 140), Kant se rapproche, comme l’a bien vu Lange (n. 15, p. 316), par les questions auxquelles il ramène ses recherches, que puis-je savoir, que dois-je faire, qu’ai-je à espérer ? , par ses doctrines sur
+l’âme et Dieu. Après s’être éloigné de Voltaire, dont les idées lui [[p.13]]
+viennent encore par la Profession de foi du vicaire savoyard, pour se rapprocher de Rousseau, Kant paraphrasera encore les vers célèbres :
+
+Un jour tout sera bien, voilà notre espérance,
+
+Tout est bien aujourd’hui, voilà l’illusion.
+
+Kant lit avec enthousiasme les œuvres de Rousseau et, pour les
+avoir plus tôt, dépasse — ce qu’il n’a fait qu’une autre fois au temps
+de la Révolution française — les limites de sa promenade quotidienne
+(n. 16, p. 3i8). Il les commente devant Herder, de 1762
+à 1764 et apprend, du « Newton des sciences morales », à chercher
+ailleurs que dans la poursuite de la vérité, le véritable prix de
+l’homme. Rousseau lui fait abandonner la physique mécanique,
+lui présente sous forme chrétienne les théories morales de Voltaire
+et réveille en lui les croyances de son enfance. Il lui persuade
+qu’on ne peut être vertueux sans religion et que J.-C. est supérieur
+à Socrate ; il l’encourage à mépriser le scepticisme et le matérialisme,
+à consulter sa conscience et à défendre la liberté.
+
+Par son amour de la vérité, par ses recherches mathématiques,
+astronomiques et physiques, Kant tient des philosophes du
+xviiP siècle. Il enseigne les mathématiques, la géographie, l’astronomie,
+la physique, etc., et M. Nolen a montré ce qu’il doit à
+Newton (n. 16, p. 318). Il veut imiter Copernic, dans sa révolution
+philosophique, et ses compatriotes lui attribuent l’hypothèse cosmogonique
+de la nébuleuse, que nous rapportons à Laplace. Même
+après s’être tourné vers les sciences morales, il insiste sur la valeur,
+pour le mathématicien, d’une formule qui détermine, d’une manière
+tout à fait exacte et sans laisser de place à Terreur, ce qu’il y a à
+faire pour résoudre un problème (p. 10). Enfin il finit la Critique
+de la Raison pratique, en célébrant non seulement la loi morale,
+mais encore, à la façon d’un Diderot ou d’un Laplace, c le ciel
+étoile, qui étend la connexion dans laquelle il se trouve, à l’espace
+immense où les mondes s’ajoutent aux mondes et les systèmes
+aux systèmes et en outre à la durée sans limites de leur mouvement
+périodique, de leur commencement et de leur durée ».
+
+II
+
+D’autres doctrines, plus nombreuses et peut-être plus impor»
+tantes à ses yeux, lui vinrent de sources auxquelles n’auraient pas
+voulu puiser la plupart des contemporains dont nous avons rappelé
+les noms. [[p.14]] Dans la période qu’ouvre la publication de la Critique de la Raison pure,
+Kant admet une conciliation entre le mysticisme qu’il n’aime
+guère pourtant, et la pureté de la loi morale, mais il condamue
+le scepticisme, le doute, l’empirisme, qui est superficiel et extirpe
+jusqu’à la racine la moralité dans les intentions, le matérialisme
+et le fatalisme, l’idéalisme et le spinozisme, l’incrédulité des esprits
+forts et l’athéisme ( p. 28, 92, 125, 182, 305 ). Il n’y a guère, de ce
+fait, de philosophe ou d’encyclopédiste, avec lequel il ne se mette
+en opposition.
+
+Il y a plus. La plupart des philosophes dont nous avons parlé
+sont des adversaires du catholicisme et s’essaient même, en dehors
+du christianisme, à expliquer l’universel l’homme, par un système
+scientifique et philosophique d’où ils tirent une règle de conduite
+pour la société et les individus. Kant reste dans la période théologique ;
+c’est un chrétien, un luthérien, un piétiste. Ses maîtres,
+Schulzet Knutzen (n. 17, p. 320), unissent leur piétisme aux études
+philologiques, historiques, scientifiques et philosophiques qui se
+font « en présence de Dieu, partout présent ». S’écartant de l'orthodoxie
+luthérienne, devenue une scolastique nouvelle, ils tiennent
+grand compte de la parole de Dieu, de la pureté du cœur, de la
+pénitence, de l’effort personnel, de la lutte douloureuse pour
+saisir la grâce et ils inclinent, comme les jansénistes, vers un
+ascétisme auquel rien ne semble indifférent. Dans ses dernières
+années, Kant revient aux idées de sa jeunesse : il cite la Bible,
+développe la preuve de l’existence de Dieu par les causes finales,
+aime à entendre répéter le sens hébreu — Dieu avec nous — de
+son prénom Immanuel. Aussi Müller, après Reinhold, insiste sur
+l’appui que le kantisme fournit à la morale et à la religion (p. iii).
+D’autres trouvent que Kant est venu achever l’œuvre du Christ,
+manifester en esprit le Dieu que le Christ avait manifesté en chair!
+(p. iv). Et de nos jours, Benno Erdmann aperçoit, dans la personnalité
+morale de Kant, la forte empreinte de ses maîtres
+piétistes; le docteur Arnoldt estime que le kantisme est le plus
+solide rempart de la vie religieuse contre les attaques de l’incrédulité
+philosophique et scientifique (p. 300).
+
+Dans la Religion, Kant affirme (p. viii) des idées chrétiennes, le [[p.15]]
+libre arbitre et le péché originel, la présence en nous d’un idéal
+de perfection et la nécessité d’anéantir le péché, pour réhabiliter le
+bien sur ses ruines ; il unit la politique et la métaphysique, la
+religion et la morale. Déjà dans la Critique de la Raison pure, il
+est moralement certain qu’il y a un Dieu et une autre vie ; sa foi
+est tellement unie à son sentiment moral qu’il ne court pas plus
+de risque de se Toir dépouiller de l’une qu’il ne craint de perdre
+l’autre. Et dans la préface de la seconde édition, il songe à
+couper les racines de l’incrédulité des esprits forts (n. 5, p. 305),
+à unir théologie, morale et religion « les fins dernières les plus
+élevées de notre existence », en pénétrant les trois objets. Dieu,
+liberté, immortalité (p. 306). Mais c’est surtout dans la Critique de la Raison pratique,
+où Kirchmann voit une philosophie de la religion simplement complétée dans l’œuvre spéciale de 1793, que
+nous apparaît le chrétien. En termes qui rappellent Pascal et
+l’Entretien avec M. de Saci sur Epictète et Montaigne, Kant proclame
+l’infériorité des écoles grecques, qu’il réduit aux Epicuriens et aux
+Stoïciens. Les premiers n’ont vu que le bonheur ; les seconds n’ont
+vu que l’intention morale (p. 206). Contre ceux-ci Kant accumule,
+comme Pascal, Bossoet, Nicole et même Descartes, les jugements
+sévères :
+
+Ils ont vu dans la vertu… l’héroïsme du sage… ils ont placé celui-ci
+au-dessus des autres hommes et l’ont soustrait à toute tentation de
+violer la loi morale (p. 282). A la place d’une discipline morale, sobre,
+ils ont introduit un fanatisme moral, héroïque (p. 154)… Ils s’arrogent
+la sagesse… la vertu dont ils faisaient un si grand cas (p. 151).
+
+Et ces critiques sont accentuées par l’éloge du christianisme :
+
+La doctrine morale de l’Évangile a, la première, soumis toute bonne
+conduite de l’homme à la discipline d’un devoir qui, placé sous ses yeux,
+ne les laisse pas s’égarer dans des perfections morales imaginaires ;
+elle a posé les bornes de l’humilité, de la connaissance de soi-même,
+à la présomption et à l’amour de soi, qui tous deux méconnaissent
+volontiers leurs limites (p. 15i)… Les Stoïciens n’auraient pu placer le
+Sage au-dessus des autres hommes, s’ils se ftissent représentés la loi
+dans toute la pureté et toute la rigueur du précepte de l’Évangile…
+Celui-ci enlève à l’homme la confiance de s’y conformer, complètement
+du moins dans celle vie, mais en retour, il le relève, car nous pouvons
+espérer que, si nous agissons aussi bien que cela est en notre pouvoir,
+ce qui n’est pas en notre pouvoir, nous viendra ultérieurement d’un
+autre côté, que nous sachions ou non de quelle façon (p. 282)… Tout
+orécepte moral de l’Évangile présente l’intention* morale dans toute sa [[p.16]]
+perfection (p. 141)… Le commandement : Aime Dieu par-dessus tout et ton prochain comme toi-même, est un idéal de la sainteté… (p. 148).
+
+Kant, admirateur enthousiaste de la morale de l’Évangile, la préfère même, en piétiste et sans le dire, à la morale luthérienne où Mélanchthon avait logé des éléments péripatéticiens. Les problèmes capitaux qu’il soulève avaient tourmenté les chrétiens ; les concepts qu’il y introduit sont chrétiens ; chrétiennes aussi sont les solutions qu’il adopte et la forme même sous laquelle il les exprime.
+
+C’est de Dieu, de l’âme et de son salut que, dans cette période théologique où se développe le christianisme, l’on se préoccupe avant tout et par-dessus tout. De bonne heure, on s’aperçoit que la question de la liberté est étroitement liée à l’une et à l’autre. De leur mélange naissent les problèmes de la perfection, surtout de la bonté, de la puissance, de la justice de Dieu, de la Providence et de la Prescience, de la Prédestination et de la Grâce, auxquels saint Augustin, en combattant les Manichéens et les Pélagiens, travaille à donner une solution orthodoxe. Reprise par Gottschalk et ses contemporains 1, par Luther, par Calvin, par Jansénius, par Bayle, la question est longuement traitée, avec des arguments théologiques et philosophiques, par Leibnilz dans les Essais de Théodicée, qui portent sur la bonté de Dieu, la liberté de l’homme et l’origine du mal. C’est de même sur les trois concepts de la liberté, de Dieu et de l’immortalité que Kant dirige les recherches de la Critique de la Raison pure, comme les solutions de la Critique de la Raison pratique (n. 3, p. 300).
+
+Kant, comme autrefois Descartes 2, pose et admet le Dieu du christianisme, en lui-même et dans ses rapports avec les créatures. C’est en lui que nous nous représentons l’idéal de la sainteté en substance (p. 272). Le concept de Dieu appartient originairement, non à la physique ou à la métaphysique, mais à la morale. C’est l’existence du mal qui empêcha les philosophes grecs d’admettre d’abord une cause parfaite, raisonnable et unique. Lorsqu’ils eurent traité philosophiquement les objets moraux, ils trouvèrent, dans le besoin pratique, une détermination pour le concept de l’être premier, que la raison spéculative ne fit qu’embellir et orner (p. 254). 11 a des attributs qu’on trouve en germe dans les créatures, toute puissance, omniscience, omniprésence, toute bonté ; il a trois attributs moraux qui n’appartiennent qu’à lui seul, saint législateur et créateur, bon [[p.17]]
+gouverneur et conservateur, juste juge, qui en font l’objet de la religion et auxquels les perfections métaphysiques qui leur sont conformes s’ajoutent d’elles-mêmes dans la raison (p. 238). Être des êtres, il suffit à tout et de cet attribut dépend toute la théologie (p. 182). Par l’accord de sa volonté avec la loi morale, il est en possession de la sainteté (p. 146). Être raisonnable au vouloir parfait et tout-puissant, il a besoin de la béatitude, il en est digne et il la possède (p. 202, 216). Cause première, universelle et suprême, auteur de la nature, de l’existence de la substance (p. 182, 209, 228), son libre choix est incapable d’une maxime qui ne pourrait en même temps être une loi objective ; la sainteté qui lui convient le met au-dessus non des lois pratiques, mais des lois pratiquement restrictives (p. 54). Pour lui, la condition du temps n’est rien et il saisit, dans une seule intuition intellectuelle de l’existence des êtres raisonnables, la conformité à la loi morale et la sainteté qu’exige son commandement, pour être en accord avec sa justice dans la part qu’il assigne à chacun dans le souverain bien (p. 224).
+
+Kant accentue le caractère chrétien du concept, en raillant les partisans d’une religion naturelle. Le Gottesgelehrte ne peut être, dit-il, qu’un professeur de théologie révélée, car le philosophe, avec sa connaissance de Dieu comme science positive, ferait une trop misérable figure pour se faire donner le nom de Gelehrte. Et on pourrait hardiment lui demander de citer seulement, pour déterminer l’objet de sa science, en dehors des prédicats purement ontologiques, une propriété de l’entendement ou de la volonté, à propos de laquelle on ne puisse montrer d’une façon irréfutable que, si l’on en abstrait tout ce qui est anthropomorphique, il n’en reste plus que le simple mot, sans qu’on puisse le lier au moindre concept par lequel on pourrait espérer une extension de la connaissance théorique ! (p. 250).
+
+L’homme occupe en ce monde et occupera, dans l’autre, par l’intervention de Dieu, la place que lui assigne le christianisme. Créature et créature déchue par le péché originel, il est dans une position inférieure, il a conscience de sa faiblesse et ne saurait attribuer à son esprit une bonté spontanée qui n’aurait besoin ni d’aiguillon, ni de frein, ni de commandement : il doit se garder de la présomption, d’un orgueil chimérique, lui à qui il faudrait rémission ou indulgence (p. 147, 150). Aucune créature ne peut réaliser l’idéal de sainteté, qui doit nous servir de modèle, et nous ne saurions atteindre la conformité parfaite avec la loi morale que par un progrès allant à l’infini (p. 149, 222) : [[p.18]] Ce qui peut seul échoir à la créature, c’est la conscience de son
+intention éprouvée, pour s’élever à un état moralement meilleur,
+l’espoir d’un progrès ininterrompu même après cette vie. La conviction
+de l’immutabilité de l’intention dans le progrès vers le bien semble
+être une chose impossible en soi pour une créature. C’est pourquoi la
+doctrine chrétienne la fait dériver uniquement du même esprit qui
+opère la sanctification… (p. 224).
+
+C’est à la liberté que Kant, comme bien d’autres chrétiens,
+demande la résolution des concepts posés comme problèmes. Elle
+forme la clef de voûte de tout l’édifice d’un système de la raison
+pure et même de la raison spéculative. A elle se rattachent les concepts
+de Dieu et de l’immortalité, qui, avec elle et par elle, acquièrent
+de la consistance et de la réalité objective (p. 2). Par elle nous
+entrons dans le suprasensible, nous sortons de nous-mêmes, nous
+trouvons, pour le conditionné et le sensible, l’inconditionné et l’intelligible
+(p. 191). Elle n’est pas une propriété psychologique, c’est
+un prédicat transcendental de la causalité d’un être qui appartient
+au monde des sens (p. 170). Mais à quelle condition la raison pure,
+pratique, nous ouvre-t-elle la merveilleuse perspective d’un monde
+intelligible, par la réalisation du concept, d’ailleurs transcendant,
+de la liberté ? Si Dieu est cause de l’existence de la substance, il
+semble que les actions de l’homme ont leur principe déterminant
+dans la causalité d’un être suprême dont dépendent son existence
+et toute la détermination de sa causalité. L’homme serait alors
+une marionnette, un automate de Vaucaason. Il faut donc, pour
+maintenir la liberté et conserver la doctrine de la création, c’est-à-dire
+pour échapper au spinozisme, faire de l’existence dans le
+temps un simple mode de représentation sensible des êtres pensants
+dans le monde ; il faut prendre le temps et l’espace, non
+comme des déterminations appartenant à l’existence des choses
+en soi, non comme des conditions appartenant nécessairement à
+l’existence des êtres finis et dérivés, mais comme des formes à
+priori de la sensibilité, ainsi que l’a établi la Critique de la Raison
+pure, dont on aperçoit clairement la liaison avec la Critique de la
+liaison pratique. La création a rapport aux noumènes, non aux
+phénomènes ; Dieu, créateur et cause des noumènes, n’est pas la
+cause des actions dans le monde sensible (p. 182-185). Dès lors on
+conçoit une connexion nécessaire, médiate, par l’intermédiaire
+d’un auteur intelligible de la nature, entre la moralité de l’intention
+comme cause, et le bonheur, effet dans le monde sensible.
+
+La liberté devient capable d’une jouissance qu’on ne peut appeler [[p.19]]
+ni bonheur ni béatitude,… mais qui cependant par son origine est
+analogue à la propriété de se suffire à soi-même, qu’on ne peut
+attribuer qu’à l’Être suprême (p. 209-216). Et la synthèse des deux
+éléments du souverain bien, désir de bonheur et moralité de
+l’intention, s’opère ainsi par la présence de la liberté dans l’homme
+et par l’existence d’un Dieu qui s’est proposé, comme dernier but
+dans la création, sa gloire, au sens non anthropomorphique du
+mot, ou le souverain bien qui, au désir des êtres, ajoute la condition d’être dignes du bonheur (p. 238).
+
+C’est en chrétien que Kant termine son œuvre. D’un côté, il
+affirme que la morale conduit à la religion et se complète par elle :
+
+La loi morale conduit à la religion… tous les devoirs sont des
+ordres divins… des ordres de l’Être suprême… d’une volonté sainte,
+bonne, toute-puissante, parce que l’accord avec cette volonté peut
+seul nous faire espérer d’arriver au souverain bien (p. 235)… La morale
+nous enseigne comment nous devons nous rendre dignes du bonheur…
+Quand elle a été exposée complètement… quand s’est éveillé le désir
+moral de nous procurer le royaume de Dieu… quand le premier pas
+vers la religion a été fait… cette doctrine morale peut aussi être appelée
+doctrine du bonheur, parce que l’espoir d’obtenir ce bonheur ne commence
+qu’avec la religion (p. 236).
+
+De l’autre, c’est en termes chrétiens qu’il exprime la solution à
+laquelle il aboutit, jugeant insoutenable la religion naturelle, dénonçant,
+comme les croyants, l’insuffisance de la raison spéculative, et
+montrant que la nature, en nous la donnant telle, ne s’est pas comportée
+en marâtre, aboutissant enfin à un acte de foi analogue à
+celui du chrétien :
+
+Si nous avions ces lumières que nous voudrions posséder, Dieu et
+l’éternité, avec leur majesté redoutable, seraient sans cesse devant nos
+yeux… Sans doute la transgression de la loi serait évitée, mais la
+valeur morale des actions n’existerait plus (p. 266)… Notre connaissance
+n’est élargie qu’au point de vue pratique : nous ne connaissons ni la
+nature de notre âme, ni le monde intelligible, ni l’Être suprême, suivant
+ce qu’ils sont en eux-mêmes (p. 248)… Admettre l’existence de Dieu
+est une hypothèse pour la raison pure, une croyance (Glaube), pour la
+raison pratique (p. 229)… L’honnête homme peut dire : Je veux qu’il y
+ait un Dieu, que mon existence dans ce monde soit encore, en dehors
+de la liaison naturelle, une existence dans un monde pur de l’entendement,
+enfin que ma durée soit infinie ; je m’attache fermement à cela et
+je ne me laisse pas enlever ces croyances (p. 260)…
+
+Ainsi Kant, resté ou redevenu fidèle à ses croyances de luthérien
+et de piétiste, établit d’abord, par la Critique de la Raison pure, qu’il [[p.20]]
+est impossible de justifier l’athéisme et le matérialisme ; puis, avec
+l’idéalité de l’espace et du temps, il maintient tout à la fois, contre
+Spinoza, la création et la liberté ; enfin, du point de vue moral, il
+aboutit à de fermes croyances : avec l’aide du Dieu des chrétiens,
+l’homme immortel peut se rapprocher de plus en plus du bonheur
+et de la sainteté. Son œuvre rappelle celle des apologistes, en particulier
+de saint Thomas qui, dans la Somme contre les Gentils, veut
+amener au catholicisme, avec le seul appui de la raison, les mahométans,
+les juifs, les hérétiques de toutes les nuances. De même
+Kant s’adresse aux athées et aux matérialistes, aux panthéistes et
+aux fatalistes, aux incrédules et aux esprits forts. Partant de la
+raison dont ils reconnaissent tous l’autorité, il soutient qu’on doit
+admettre, non le catholicisme et ses dogmes, formulés par les Conciles
+et les Pètes, mais le Christianisme de l’Évangile, interprété
+par un luthérien piétiste. Chemin faisant, les doctrines puisées
+chez Hume, Voltaire, Turgot, chez les savants et les philosophes,
+et qui portent sur l’âme, sur Dieu, sur le progrès, se transforment
+pour devenir chrétiennes ; les formules par lesquelles Kant dirige
+toute sa vie (n. H, p. 311) supposent sans doute les habitudes de
+l’homme et du mathématicien, mais plus encore peut-être le chrétien
+soucieux de compléter l’œuvre de Dieu, en se donnant des ordres
+pour toutes les circonstances de la vie ; la morale, comme au
+moyen âge la philosophie, devient sinon la servante au sens moderne
+du mot, du moins la collaboratrice, l’auxiliaire et l’introductrice
+de la religion.
+
+Par la forme, Kant s’éloigne bien plus encore de ses contemporains
+pour se rapprocher des scolastlques. La philosophie du
+moyen âge avait été ruinée en Italie, en Angleterre, en France, par
+Galilée, Bacon et Harvey, Gassendi et Descartes. Sans dou te, on retrouverait,
+dans ce dernier philosophe et dans bien d’autres, des doctrines
+qui viennent de saint Anselme, de saint Thomas, de Duns
+Scot et de leurs contemporains, mais l’argumentation scolastique,
+ridiculisée par Rabelais, par Montaigne, même par les hommes de
+Port-Royal, est abandonnée à peu près complètement par les
+savants et les philosophes. Il n’en est pas de même en Allemagne.
+Mélanchthon avait, pour l’usage des réformés, créé une scolastique
+dont Aristote était l’autorité principale. Les philosophes ne se
+séparèrent jamais complètement de cette doctrine contemporaine
+de la Réforme, pas plus d’ailleurs qu’ils n’ont rompu entièrement
+avec les croyances religieuses qu’avaient alors adoptées leurs pères.
+On cite souvent le mot de Leibnitz : « |1 y a de l’or dans le fumier
+de la scolastique ». On se rend un compte plus exact de l’ [[p.21]]
+importance qu’il attache à la philosophie médiévale en lisant les Essais de Théodicée où, en soulevant les questions qu’elle a traitées, il
+cite — avec saint Augustin, Luther et Calvin, avec Hobbes, Spinoza,
+Descartes et Bayle, — Marcianus Capella, Boèce et Cassiodore,
+Bède et Alcuin, Jean Scot, Gottschalk, saint Anselme et Abélard,
+saint Bernard et Gilbert de la Porrée, Averroès et Maimonide, saint
+Thomas, saint Bonaventure, Duns Scot, Gerson, etc., et qu’il termine
+par un « Abrégé de la controverse réduite à des arguments en
+forme».
+
+Le successeur de Leibnitz, Wolf, systématisa, à la façon des
+mathématiciens ou plus exactement des scolastiques péripatéticiens,
+les connaissances qui lui avaient été transmises. Et chose
+curieuse, les piétistes qui ne voulaient plus de la théologie scolastique,
+conservent une partie des idées et toutes les formules ou les
+modes d’argumentation de l’École ! Tandis qu’en France, les philosophes
+eux-mêmes sont de l’avis de M. Jourdain sur les universaux,
+les catégories et les figures, Kant estime que nous ne pouvons
+penser que grâce aux formes à priori de la sensibilité, aux catégories
+«le l’entendement (p. 247) ; il donne une idée, une doctrine
+élémentaire, une analytique, une dialectique, une méthodologie de
+la raison pratique ; il a des définitions, des scolies, des théorèmes,
+des corollaires, des problèmes et des postulats ; il dresse
+des tables de principes pratiques de détermination, des catégories
+de la liberté par rapport aux concepts du bien et du mal ; il distingue
+les catégories en mathématiques et en dynamiques (p. 188)
+et trouve fort utile, pour la théologie et la morale, la pénible
+déduction des catégories (p. 256).
+
+En résumé, Kant a connu les doctrines philosophiques et scientifiques
+de son temps et elles ont contribué à former son esprit. Mais
+surtout chrétien, luthérien et piétiste, il a employé toutes les ressources
+d’une originalité puissante, qui éclate dans l’une et l’autre
+Critiques et qui s’enveloppe sous des formes scolastiques, à conserver
+et à justifier les croyances, capitales pour lui et les siens,
+à la liberté, à l’existence de Dieu et à l’immortalité de l’âme.
+
+III
+
+Pour se préparer à comprendre, dans son fond et dans sa forme,
+la morale de Kant, il est donc nécessaire de lire les Évangiles et les
+interprétations qu’en ont données les luthériens et les piétistes,
+ses prédécesseurs allemands ; Leibnitz, surtout les Essais de Théodicée,
+et Wolf ; quelques ouvrages de scolastique antérieurs à la [[p.22]] Réforme ou même écrits par des catholiques et des réformés du xvi et du xvii siècle. On passera ensuite aux philosophes
+du XVIII siècle, — qu’il sera utile de faire précéder par Bayle —
+à Hume et aux Écossais, à Voltaire et à Rousseau. Pour Kant lui-même,
+il sera bon de lire une première fois son œuvre morale
+(n. 4, p. 306) dans l’ordre suivant : Métaphysique des mœurs, avec
+le Projet d’un traité de paix perpétuelle et le Traité de pédagogie ;
+Fondements de la Métaphysique des mœurs ; Religion dans les limites
+de la Raison pure ; Critique de la Raison pure ; Critique de la Raison
+pratique. Après une seconde lecture dans laquelle on s’attachera à
+l’ordre chronologique : Raison pure (1781) ; Fondements de la Métaphysique
+des mœurs (1785) ; Raison pure (2* édition, 1787) ; Raison
+pratique (1788) ; Religion (1793) ; Métaphysique des mœurs (1797), et
+qui pourra être complétée par celle des autres ouvrages de Kant,
+de ses commentateurs ou des historiens de la philosophie, on
+sera à peu près assuré d’avoir compris, dans son ensemble et dans
+ses détails, la morale kantienne et l’œuvre qui en est la partie
+essentielle.
+
+F. P.
+
+La 3 édition a été l’objet d’une revision fort attentive. Je prie les
+lecteurs, pour tout ce qui concerne les origines de la morale kantienne,
+les rapports du monde intelligible et du monde sensible, les
+notions de liberté, de Dieu et d’immortalité dans les doctrines chrétiennes,
+de se reporter à l’Esquisse d’une histoire générale et comparée des philosophies médiévales, spécialement aux chapitres 11, III,
+V, VIII, IX.
+
+François Picavet.
+
+La 4 édition a été revue avec soin. Le renvoi à ÏEsquisse se
+complète par le Roscelin annoncé sur la couverture, par une Histoire générale et comparée des Philosophies médiévales dont le 1 volume
+ne tardera pas à paraître, par un volume Pour l’histoire des philosophies et des théologies médiévales.
+
+F. P.
+
+Paris, le 1 août 1912.
+
+## Notes de Kant
+[modifier]
+
+↑ Les renvois portent sur les notes et les pages de notre traduction.
+
+↑ On a essayé de montrer dans les Idéologues (Paris, Alcan) comment ce mouvement s’est accentué, du xvii, au xviii et au xix siècle.
+
+↑ Voir dans Entre Camarades, Paris, Alcan : Le Moyen Age, Caractéristique théologique et philosophico-scientifique. Limites chronologiques. — Sur le Piétisme, cf. A. Ritschl, Geschichte der Pietismus, 3 vol., Bonn, 1880-86.
+
+↑ 1. Les discussions sur la liberté au temps de Gottschalk, de Raban Maur, d’Hiocmar et de Jean Scut, Paris, A. Picard.
+
+↑ 2. Voir la définition de Dieu dans les Méditations.
+
+↑ Pour l’appréciation, voir surtout les articles de MM. Boutrouz et Brochard, cités p. 298.
+
+## Notes du traducteur
+[modifier]
