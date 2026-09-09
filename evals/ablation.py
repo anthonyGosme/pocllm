@@ -89,6 +89,11 @@ def main():
     runs = []
     for name, ov in CONFIGS:
         if only and name not in only:
+            # Une exécution partielle ne doit PAS écraser le tableau complet :
+            # on relit le résultat déjà calculé s'il existe.
+            prev = RESULTS / f"{name}.json"
+            if prev.exists():
+                runs.append(json.loads(prev.read_text(encoding="utf-8")))
             continue
         print(f"» {name} …", flush=True)
         d = run(name, ov)
@@ -96,6 +101,10 @@ def main():
             m = d["metriques"]
             print(f"   recall@10={m['recall@10']:.3f}  MRR={m['MRR']:.3f}  ({d['duree_s']}s)", flush=True)
             runs.append(d)
+    runs = [r for r in runs if r]
+    # ordre du tableau = ordre de CONFIGS, quelles qu'aient été les exécutions
+    rank = {n: i for i, (n, _) in enumerate(CONFIGS)}
+    runs.sort(key=lambda r: rank.get(r["run"], 99))
     if runs:
         out = RESULTS / "ablation.md"
         out.write_text(table(runs), encoding="utf-8")

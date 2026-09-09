@@ -200,60 +200,80 @@ ne peut résoudre, ne repose donc que sur les 18 fichiers restants.
 38 questions · 23 615 chunks · vérité terrain vérifiée span par span.
 Table complète : `evals/results/ablation.md`.
 
-| configuration | recall@10 | MRR | nDCG@10 |
-|---|---|---|---|
-| `sparse_seul` | **0,461** | 0,278 | 0,296 |
-| `sparse_sans_codes` | 0,447 | 0,315 | 0,319 |
-| `hybride_rrf60_rerank` | 0,421 | **0,331** | **0,329** |
-| `hybride_rrf10` | 0,382 | 0,244 | 0,250 |
-| `hybride_rrf60` | 0,368 | 0,227 | 0,238 |
-| `hybride_rrf60_pondere` | 0,368 | 0,263 | 0,260 |
-| `hybride_sans_fusion` | 0,316 | 0,186 | 0,197 |
-| `dense_seul` (e5-small) | 0,171 | 0,117 | 0,115 |
-| `dense_symetrique` (paraphrase) | 0,079 | 0,047 | 0,050 |
+| configuration | recall@10 | recall@20 | MRR | nDCG@10 |
+|---|---|---|---|---|
+| `hybride_topk200_rerank50` | **0,500** | **0,566** | **0,404** | **0,392** |
+| `sparse_seul` | 0,461 | 0,500 | 0,278 | 0,296 |
+| `sparse_sans_codes` | 0,447 | 0,513 | 0,315 | 0,319 |
+| `hybride_rrf60_rerank` | 0,421 | 0,474 | 0,331 | 0,329 |
+| `hybride_topk200` | 0,421 | 0,513 | 0,235 | 0,255 |
+| `hybride_rrf60` | 0,368 | 0,447 | 0,227 | 0,238 |
+| `hybride_sans_fusion` | 0,316 | 0,500 | 0,186 | 0,197 |
+| `dense_seul` (e5-small) | 0,171 | 0,263 | 0,117 | 0,115 |
+| `dense_symetrique` (paraphrase) | 0,079 | 0,145 | 0,047 | 0,050 |
 
-recall@10 par type, aux deux extrêmes :
+recall@10 par type, meilleure configuration contre sparse seul :
 
-| type | `sparse_seul` | `dense_seul` |
+| type | `sparse_seul` | `hybride_topk200_rerank50` |
 |---|---|---|
-| neologisme_maison | **1,00** | 0,00 |
-| piege_attribution | 0,67 | 0,50 |
-| reference_exacte | 0,53 | 0,17 |
-| multi_hop | 0,33 | 0,00 |
+| neologisme_maison | **1,00** | 0,25 |
+| piege_attribution | 0,67 | **0,83** |
+| reference_exacte | 0,53 | **0,67** |
+| multi_hop | 0,33 | **0,42** |
 | faux_ami_lexical | 0,25 | 0,17 |
-| conceptuel | **0,00** | **0,00** |
+| conceptuel | 0,00 | 0,00 |
 
 Deux tableaux invalidés sont conservés dans `evals/results/` avec la cause en
 tête : `ablation_INVALIDE_dense_mixte.md` et `ablation_INVALIDE_spans_faux.md`.
 
-### 10. L'hybride ne bat jamais le sparse seul en rappel sur ce corpus
+### 10. La profondeur et le reranking ne valent rien l'un sans l'autre
 
-`sparse_seul` tient 0,461 ; la meilleure configuration hybride plafonne à 0,421.
-Ajouter le dense **coûte du rappel**. Ce qu'il achète est ailleurs : le
-reranking porte le MRR de 0,278 à 0,331 et le nDCG de 0,296 à 0,329.
+Trois mesures, à lire ensemble :
 
-Autrement dit, sur un corpus saturé de codes formels et de vocabulaire
-idiosyncratique, l'hybride n'est pas un gain de couverture mais un **arbitrage
-couverture contre précision de rang**. Le tableau agrégé seul ne le dit pas ; il
-faut la ventilation par type.
+| | recall@10 |
+|---|---|
+| dense à `top_k` 50, 200 ou 500 | 0,171 — **strictement identique** |
+| hybride `top_k=200`, sans reranker | 0,421 |
+| hybride `top_k=50` + reranker `top_n=20` | 0,421 |
+| hybride `top_k=200` + reranker `top_n=50` | **0,500** |
 
-Le pari central du cadrage est confirmé sans ambiguïté sur un point : sur les
-questions à néologismes, le sparse fait **1,00 et le dense 0,00**. La
-complémentarité est démontrée, pas postulée — mais elle joue dans un seul sens.
+Augmenter la profondeur seule ne change **rien** : les candidats supplémentaires
+arrivent après le rang 10 et personne ne les réordonne. Reranker sans profondeur
+ne fait que trier ce qui était déjà là. Il faut les deux, et le gain conjoint
+(+0,08 sur le sparse seul, +45 % de MRR) dépasse la somme des gains séparés.
 
-### 11. Le vrai réglage du dense n'est pas le modèle, c'est la profondeur
+La raison tient à l'espace de similarités : les scores e5 s'écrasent tous entre
+0,81 et 0,88 sur ce corpus, si bien que **0,032 d'écart sépare le rang 1 du rang
+4 091**. Couper à 50 jette des chunks d'or situés aux rangs 54, 61, 115. La
+recette usuelle « récupérer 50, reranker 10 » est mauvaise ici.
 
-Les similarités e5 s'écrasent : sur ce corpus, tous les chunks tiennent entre
-0,81 et 0,88. Pour q006, le chunk d'or est à 0,843 contre 0,875 pour le premier
-— **0,032 d'écart, mais 4 091 rangs**. Et q007 place ses chunks d'or aux rangs
-**54, 61 et 115**, c'est-à-dire juste au-delà du `top_k: 50` par défaut.
+*Correction : une version antérieure de ce document concluait que l'hybride ne
+battait jamais le sparse seul. C'était vrai à `top_k=50` et faux en général —
+un artefact de réglage pris pour une propriété du corpus.*
 
-Le dense n'échouait donc pas : il était **tronqué trop tôt**. La recette usuelle
-« récupérer 50, reranker 10 » est mauvaise dans un espace de similarités
-compressé. La profondeur de candidats devient un paramètre de premier plan,
-au même titre que le `k` du RRF.
+### 11. La meilleure configuration globale est la pire sur les néologismes
 
-### 12. Deux ablations invalides avant la bonne
+`hybride_topk200_rerank50` gagne partout — sauf là où le sparse était parfait :
+sur les questions à néologismes, il tombe de **1,00 à 0,25**.
+
+C'est le résultat le plus contre-intuitif du POC. Le pari du cadrage était que
+l'hybride réunirait les forces des deux étages ; il les moyenne. Le vocabulaire
+idiosyncratique est exactement ce que le dense ne peut pas représenter, et le
+faire entrer dans la fusion dilue un signal qui était sans défaut.
+
+Conséquence pratique : la bonne architecture n'est pas une fusion unique mais un
+**routage** — envoyer les requêtes à vocabulaire maison au sparse seul, le reste
+à l'hybride profond. Le tableau agrégé ne le dit pas ; seule la ventilation par
+type le montre, et c'est l'argument le plus fort en faveur d'un jeu d'éval typé.
+
+### 12. Le cache de reranking, mesuré en conditions réelles
+
+La configuration `hybride_topk200_rerank50` a coûté **963 s au premier calcul et
+27,8 s au second** — un facteur **34,6**. C'est ce qui rend praticable un
+balayage de 15 configurations, et cela confirme l'inversion annoncée à
+l'enseignement 3 : le trafic répétitif de ce POC est la boucle d'ablation.
+
+### 13. Deux ablations invalides avant la bonne
 
 La première mesurait un dense mixte : ma condition d'attente cherchait
 « 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si

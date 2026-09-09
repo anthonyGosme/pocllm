@@ -10,7 +10,7 @@
     "profile_rerank": "fast"
   },
   "n_questions": 38,
-  "latence_totale_s": 6.2,
+  "latence_totale_s": 6.0,
   "latence_par_question_s": 0.16,
   "metriques": {
     "recall@1": 0.10526315789473684,
