@@ -1,0 +1,178 @@
+{
+  "run": "ancrage",
+  "modele": "claude-sonnet-5",
+  "n_questions": 8,
+  "attributions_interdites": 17,
+  "attributions_non_ancrees_passees": 1,
+  "taux_attribution_non_ancree": 0.0588,
+  "cout_usd": 0.1875,
+  "duree_s": 98.2,
+  "par_question": [
+    {
+      "id": "q010",
+      "type": "piege_attribution",
+      "n_interdites": 2,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "Kant : espace = concept empirique",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Kant affirme explicitement que l'espace n'est pas un concept empirique."
+        },
+        {
+          "aff": "Kant : espace abstrait de l'expérience",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Kant soutient que l'espace n'est pas abstrait de l'expérience mais existe en nous a priori."
+        }
+      ]
+    },
+    {
+      "id": "q014",
+      "type": "piege_attribution",
+      "n_interdites": 3,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "le Tout produit les finis",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le passage nie explicitement que le Tout produise le fini, présentant le rapport comme un monisme et non une genèse."
+        },
+        {
+          "aff": "le Tout fabrique les finis",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le passage affirme directement que l'axiome ne pose pas que le Tout fabrique les êtres finis."
+        },
+        {
+          "aff": "les finis sont des parties du Tout",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le texte exclut explicitement l'idée que les finis soient des morceaux (parties) du Tout."
+        }
+      ]
+    },
+    {
+      "id": "q015",
+      "type": "piege_attribution",
+      "n_interdites": 3,
+      "fuites": 1,
+      "verdicts": [
+        {
+          "aff": "VI garantit la compensation",
+          "verdict": "SOUTENU",
+          "cit_ok": true,
+          "motif": "Le passage attribue explicitement à VI la garantie que la compensation est constructible."
+        },
+        {
+          "aff": "la compensation est démontrée",
+          "verdict": "ABSENT",
+          "cit_ok": false,
+          "motif": "Aucun passage n'affirme explicitement que la compensation liée à VI est démontrée (le marqueur ◇ diffère du marqueur de preuve ∎)."
+        },
+        {
+          "aff": "VI est un théorème ∎",
+          "verdict": "CONTREDIT",
+          "cit_ok": false,
+          "motif": "Le passage associe à VI le symbole ◇ et non le symbole ∎ réservé aux théorèmes démontrés."
+        }
+      ]
+    },
+    {
+      "id": "q016",
+      "type": "faux_ami_lexical",
+      "n_interdites": 1,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "le système reprend la notion leibnizienne d'agrégat",
+          "verdict": "ABSENT",
+          "cit_ok": false,
+          "motif": "Aucun passage ne mentionne Leibniz ni la notion d'agrégat."
+        }
+      ]
+    },
+    {
+      "id": "q018",
+      "type": "faux_ami_lexical",
+      "n_interdites": 2,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "Kant définit l'agrégat comme le système",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Kant oppose système et agrégat, il ne définit pas l'un comme l'autre."
+        },
+        {
+          "aff": "le système reprend l'agrégat kantien",
+          "verdict": "ABSENT",
+          "cit_ok": false,
+          "motif": "Aucun passage n'établit de lien entre l'agrégat de l'Ontodynamique et le concept kantien d'agrégat."
+        }
+      ]
+    },
+    {
+      "id": "q033",
+      "type": "piege_attribution",
+      "n_interdites": 2,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "le LLM ne fait rien",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le passage nie explicitement que le système affirme que le LLM ne fait rien."
+        },
+        {
+          "aff": "le système soutient que le LLM est inerte",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le système précise que le LLM fait quelque chose (de l'inférence portée), donc ne le dit pas inerte."
+        }
+      ]
+    },
+    {
+      "id": "q034",
+      "type": "piege_attribution",
+      "n_interdites": 2,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "le symptôme est bon",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le passage nie explicitement que le système qualifie le symptôme de bon."
+        },
+        {
+          "aff": "le système valorise le symptôme",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le refus d'affirmer que le symptôme est bon contredit l'idée d'une valorisation du symptôme par le système."
+        }
+      ]
+    },
+    {
+      "id": "q035",
+      "type": "piege_attribution",
+      "n_interdites": 2,
+      "fuites": 0,
+      "verdicts": [
+        {
+          "aff": "la clôture perçoit sa valence",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le passage nie explicitement que la clôture perçoive sa valence."
+        },
+        {
+          "aff": "LIX établit une perception",
+          "verdict": "CONTREDIT",
+          "cit_ok": true,
+          "motif": "Le résumé précise que LIX ne dit pas que la clôture perçoit sa valence, seulement qu'elle n'est pas épiphénoménale."
+        }
+      ]
+    }
+  ]
+}

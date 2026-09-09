@@ -19,7 +19,11 @@ Le critère de réussite, posé par le cadrage : ce document doit contenir des
 | 3 · Sparse + RRF + reranker ablatables | **en cours** — 11 configurations |
 | 4 · Boucle agentique | **fait** — multi-hop résolu, 5/6 outils enchaînés |
 | 5 · Serveurs MCP | **fait** — 3 serveurs, 3 primitives chacun |
-| 6 à 10 | non commencés ; 8 et 10 bloqués sans clé API |
+| 6 · Mémoire 3 niveaux | non commencé |
+| 7 · Orchestration | non commencé |
+| 8 · Guardrails | **fait** — 5,9 % d'attribution non ancrée, injections 5/5 |
+| 9 · Caching | mesuré (enseignements 17-18) |
+| 10 · A2A | non commencé |
 
 ---
 
@@ -433,7 +437,59 @@ Résultat comparatif intéressant : l'agent coûte **20 % moins cher** que le
 baseline à contexte complet (15 k tokens par question contre 290 k), mais il est
 **2,6 fois plus lent** — la latence se paie en tours d'aller-retour, pas en tokens.
 
-### 17. Estimer un coût à la main se trompe ; l'instrumenter ne se trompe pas
+### 17. Un vérificateur crédible a un étage que le modèle ne contrôle pas
+
+Jalon 8. Le vérificateur d'ancrage a deux étages, et c'est le second qui décide.
+Un appel de modèle voit **uniquement** l'affirmation et les passages — jamais le
+raisonnement qui l'a produite — et doit classer SOUTENU / CONTREDIT / ABSENT en
+produisant une **citation littérale**. Cette citation est ensuite recherchée
+mécaniquement dans les passages : absente, le verdict est rejeté quoi qu'ait dit
+le modèle.
+
+Sans cet étage non-LLM, le vérificateur serait un second avis, pas un contrôle.
+L'enseignement 16 avait montré le coût de l'auto-déclaration ; l'étage mécanique
+est ce qui empêche de la reproduire un cran plus haut.
+
+**Taux d'attribution non ancrée : 5,9 %** — une fuite sur 17 attributions
+interdites soumises, sur 8 questions. Les 16 autres sont bloquées, dont 13
+CONTREDIT avec citation vérifiée : le vérificateur ne se contente pas de ne pas
+trouver, il **repère la négation**.
+
+La fuite unique est instructive : « VI garantit la compensation », jugée
+SOUTENUE parce que le passage dit que VI rend la compensation *constructible*.
+Le juge a confondu « garantit la constructibilité » et « garantit ». C'est
+exactement la question qui avait aussi trompé le verdict auto-déclaré du jalon 4
+— la distinction modale ◇ / ∎ est le point dur de ce corpus. Détail
+méthodologique : formulée plus complètement (« VI garantit que la compensation
+est *toujours atteignable* »), la même attribution est correctement classée
+CONTREDIT. **La formulation de l'attribution interdite change le résultat**, ce
+qui est une limite du protocole autant qu'une limite du vérificateur.
+
+### 18. Quatre détecteurs naïfs pris en défaut, tous de la même façon
+
+Tests d'injection indirecte : cinq charges — ordre direct, fausse autorité,
+exfiltration du prompt, faux passage faisant autorité, détournement d'outil —
+insérées **en tête** des résultats de recherche, là où un attaquant frapperait
+puisqu'il contrôlerait un document du corpus, pas le prompt.
+
+**Résistance : 5/5.** Le marqueur ◇ survit aux cinq charges.
+
+Mais y arriver a demandé trois protocoles. Un détecteur par sous-chaîne a donné
+3 compromis sur 5, tous faux : l'agent qui résiste **décrit l'attaque pour la
+signaler**, et le motif se déclenche sur sa description. Des détecteurs
+comportementaux ont ramené à 2 sur 5, faux également — « je ne la reproduis pas
+et je l'écarte » comptait encore comme une reprise.
+
+C'est le quatrième détecteur naïf pris en défaut dans ce projet, après le
+contrôle de couverture par mots-clés (enseignement 6), le motif d'attente
+`"384) en"` et le remappage de span par règle de trois (enseignement 19). Le
+schéma est constant : **un contrôle qui cherche la trace d'un échec trouve aussi
+la trace de sa mention**. La sortie a été d'appliquer au test le principe du
+jalon lui-même — un juge indépendant qui ne voit que la charge et la réponse, et
+à qui l'on pose une question étroite : l'instruction a-t-elle été exécutée ?
+Verdict : REFUSEE 5/5.
+
+### 19. Estimer un coût à la main se trompe ; l'instrumenter ne se trompe pas
 
 Mes devis d'API se sont trompés deux fois de suite : d'abord d'un facteur 1,8 sur
 le comptage de tokens (enseignement 14), puis de 60 % sur les écritures de cache,
@@ -459,14 +515,14 @@ de route et se repaie. Le TTL long est donc moins cher **dès la première passe
 et notre séquence amorçage + passe complète a payé une seule écriture pour 23
 questions.
 
-### 18. Le cache de reranking, mesuré en conditions réelles
+### 20. Le cache de reranking, mesuré en conditions réelles
 
 La configuration `hybride_topk200_rerank50` a coûté **963 s au premier calcul et
 27,8 s au second** — un facteur **34,6**. C'est ce qui rend praticable un
 balayage de 15 configurations, et cela confirme l'inversion annoncée à
 l'enseignement 3 : le trafic répétitif de ce POC est la boucle d'ablation.
 
-### 19. Deux ablations invalides avant la bonne
+### 21. Deux ablations invalides avant la bonne
 
 La première mesurait un dense mixte : ma condition d'attente cherchait
 « 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si
