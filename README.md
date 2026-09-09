@@ -17,7 +17,9 @@ Le critère de réussite, posé par le cadrage : ce document doit contenir des
 | 1 · Baseline contexte complet | bloqué — pas de clé API |
 | 2 · RAG dense seul | fait, puis invalidé et refait (voir Enseignement 1) |
 | 3 · Sparse + RRF + reranker ablatables | **en cours** — 11 configurations |
-| 4 à 10 | non commencés ; 4, 8 et 10 bloqués sans clé API |
+| 4 · Boucle agentique | bloqué — pas de clé API |
+| 5 · Serveurs MCP | **fait** — 3 serveurs, 3 primitives chacun |
+| 6 à 10 | non commencés ; 8 et 10 bloqués sans clé API |
 
 ---
 
@@ -69,6 +71,33 @@ Chaque étage se coupe indépendamment par `config/default.yaml`.
 - **Dense** — fastembed / ONNX Runtime, sans PyTorch (aucune wheel macOS x86_64 depuis 2.2.2)
 - **Fusion** — RRF écrit à la main, `k` exposé, pondération par branche
 - **Rerank** — cross-encoder multilingue, cache disque des scores
+- **Routage** — par fréquence documentaire, activable (enseignement 13)
+
+## Serveurs MCP (jalon 5)
+
+Trois serveurs écrits, pas consommés, chacun couvrant les trois primitives.
+Handshake vérifié sur transport stdio (protocole 2025-11-25) ; `.mcp.json`
+fournit la configuration client.
+
+| serveur | tools | resources | prompts |
+|---|---|---|---|
+| `corpus-canon` | `rechercher` | `canon://index`, `canon://oeuvre/{doc_id}` | `confrontation` |
+| `systeme-maison` | `rechercher`, `resultat_formel` | `maison://index` | `defense` |
+| `notes` | `proposer`, `confirmer`, `en_attente` | `notes://journal` | `revision` |
+
+Deux points de conception valent d'être signalés.
+
+**L'humain dans la boucle est une contrainte de protocole, pas une consigne.**
+Le §6 exige une validation avant toute écriture. Une instruction dans le prompt
+se contourne ; ici `proposer` met la note en attente et rend un identifiant,
+`confirmer` seul écrit au journal. Un agent qui voudrait écrire sans validation
+ne le peut pas — il n'a que la moitié du chemin. Vérifié : après `proposer`, le
+journal n'existe pas ; il apparaît au `confirmer`.
+
+**Les passages sont enveloppés comme données.** Le §6 pose que le contenu
+récupéré est du texte non fiable. Tout passage renvoyé est encadré de balises
+`<passage>` et précédé d'un avertissement explicite. Sans cette séparation, un
+chunk empoisonné du corpus deviendrait une consigne pour l'agent appelant.
 
 ---
 

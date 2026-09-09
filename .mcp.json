@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "corpus-canon": {
+      "command": ".venv/bin/python",
+      "args": ["-m", "pocllm.mcp.corpus_canon"],
+      "env": {"PYTHONPATH": "src"}
+    },
+    "systeme-maison": {
+      "command": ".venv/bin/python",
+      "args": ["-m", "pocllm.mcp.systeme_maison"],
+      "env": {"PYTHONPATH": "src"}
+    },
+    "notes": {
+      "command": ".venv/bin/python",
+      "args": ["-m", "pocllm.mcp.notes"],
+      "env": {"PYTHONPATH": "src"}
+    }
+  }
+}
