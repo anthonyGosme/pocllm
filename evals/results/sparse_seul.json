@@ -1,0 +1,589 @@
+{
+  "run": "sparse_seul",
+  "config": {
+    "dense": false,
+    "sparse": true,
+    "fusion": true,
+    "rrf_k": 60,
+    "rerank": false,
+    "profile_dense": "fast",
+    "profile_rerank": "fast"
+  },
+  "n_questions": 38,
+  "latence_totale_s": 0.1,
+  "latence_par_question_s": 0.0,
+  "metriques": {
+    "recall@1": 0.13157894736842105,
+    "recall@5": 0.34210526315789475,
+    "recall@10": 0.4605263157894737,
+    "recall@20": 0.5,
+    "MRR": 0.2784902125619538,
+    "nDCG@10": 0.29595704806425616,
+    "par_type": {
+      "conceptuel": {
+        "n": 3,
+        "recall@10": 0.0,
+        "MRR": 0.0
+      },
+      "faux_ami_lexical": {
+        "n": 6,
+        "recall@10": 0.25,
+        "MRR": 0.3068181818181818
+      },
+      "multi_hop": {
+        "n": 6,
+        "recall@10": 0.3333333333333333,
+        "MRR": 0.19741379310344828
+      },
+      "neologisme_maison": {
+        "n": 2,
+        "recall@10": 1.0,
+        "MRR": 0.3055555555555556
+      },
+      "piege_attribution": {
+        "n": 6,
+        "recall@10": 0.6666666666666666,
+        "MRR": 0.6666666666666666
+      },
+      "reference_exacte": {
+        "n": 15,
+        "recall@10": 0.5333333333333333,
+        "MRR": 0.19640834111422348
+      }
+    }
+  },
+  "par_question": [
+    {
+      "id": "q001",
+      "type": "neologisme_maison",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.5640920940185894,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=10.13 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q002",
+      "type": "neologisme_maison",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.1111111111111111,
+      "ndcg@10": 0.3010299956639812,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.75 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q003",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=10.67 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q004",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.2,
+      "ndcg@10": 0.38685280723454163,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=17.38 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q005",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=18.45 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q006",
+      "type": "conceptuel",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=8.80 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q007",
+      "type": "conceptuel",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=9.66 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q008",
+      "type": "conceptuel",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=10.60 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q009",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.38685280723454163,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=11.41 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q010",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:sparse(50) top=10.71 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q011",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.6309297535714575,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=11.40 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q012",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.5,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 0.9197207891481876,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=11.89 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q013",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.2640681225725909,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.34 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q014",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 1.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 1.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=9.49 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q015",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.81 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q016",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.5,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 0.6131471927654584,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=14.65 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=14.54 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q017",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.2,
+      "ndcg@10": 0.23719771276929622,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=13.14 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=7.71 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q018",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.38685280723454163,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=11.45 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=10.63 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q019",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.08 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q020",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.87 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q021",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=11.21 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q022",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.1111111111111111,
+      "ndcg@10": 0.3010299956639812,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.72 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q023",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.3333333333333333,
+      "ndcg@10": 0.5,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=9.13 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q024",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.14285714285714285,
+      "ndcg@10": 0.3333333333333333,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=9.61 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q025",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.1,
+      "ndcg@10": 0.2890648263178879,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=6.19 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q026",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.6309297535714575,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=10.76 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q027",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 1.0
+      },
+      "rr": 0.058823529411764705,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=8.42 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q028",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=9.03 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q029",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.045454545454545456,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=10.18 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=8.49 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q030",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.2640681225725909,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=7.71 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=6.33 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q031",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.045454545454545456,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=10.47 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=8.92 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q032",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=12.47 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=8.25 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q033",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 1.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 1.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=9.55 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q034",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 1.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 1.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=11.16 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q035",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 1.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 1.0,
+      "n_retrieved": 20,
+      "trace": "maison:sparse(50) top=7.95 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q036",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=11.61 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=7.37 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q037",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.2,
+      "ndcg@10": 0.23719771276929622,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=16.30 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=11.08 -> fusion(50) un seul étage actif, non fusionné"
+    },
+    {
+      "id": "q038",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.034482758620689655,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:sparse(50) top=14.11 -> fusion(50) un seul étage actif, non fusionné | canon:sparse(50) top=8.86 -> fusion(50) un seul étage actif, non fusionné"
+    }
+  ]
+}

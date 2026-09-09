@@ -24,7 +24,27 @@ CONFIGS = [
     ("hybride_rrf120",     ["retrieval.fusion.k=120", "retrieval.rerank.enabled=false"]),
     ("sparse_sans_codes",  ["retrieval.dense.enabled=false", "retrieval.rerank.enabled=false",
                             "retrieval.sparse.protect_codes=false"]),
+    # chiffre le coût d'un modèle d'embedding symétrique (paraphrase) là où la
+    # tâche est asymétrique (question -> passage). C'est l'erreur corrigée, gardée
+    # comme mesure plutôt qu'effacée.
+    ("dense_symetrique",   ["retrieval.sparse.enabled=false", "retrieval.rerank.enabled=false",
+                            "retrieval.dense.profile=symmetric"]),
+    # la branche faible dilue-t-elle la forte ? poids 2/1 en faveur du sparse.
+    ("hybride_rrf60_pondere", ["retrieval.rerank.enabled=false",
+                               "retrieval.fusion.w_sparse=2.0"]),
     ("hybride_rrf60_rerank", []),
+    # Les similarités e5 s'écrasent (toutes entre 0,81 et 0,88 sur ce corpus) :
+    # 0,03 d'écart sépare le rang 1 du rang 4 000. Couper à top_k=50 jette des
+    # chunks d'or situés aux rangs 54, 61, 115. La profondeur de candidats est
+    # donc un paramètre de premier plan ici, pas un détail d'implémentation.
+    ("dense_topk200",      ["retrieval.sparse.enabled=false", "retrieval.rerank.enabled=false",
+                            "retrieval.dense.top_k=200"]),
+    ("dense_topk500",      ["retrieval.sparse.enabled=false", "retrieval.rerank.enabled=false",
+                            "retrieval.dense.top_k=500"]),
+    ("hybride_topk200",    ["retrieval.rerank.enabled=false", "retrieval.dense.top_k=200",
+                            "retrieval.sparse.top_k=200"]),
+    ("hybride_topk200_rerank50", ["retrieval.dense.top_k=200", "retrieval.sparse.top_k=200",
+                                  "retrieval.rerank.top_n.fast=50"]),
 ]
 
 

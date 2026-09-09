@@ -24,11 +24,41 @@ def fold(s: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", s)).strip()
 
 
+def fold_mapped(raw: str) -> tuple[str, list[int]]:
+    """Replie le texte EN CONSERVANT, pour chaque caractère replié, l'index du
+    caractère brut dont il provient.
+
+    Une règle de trois entre longueur repliée et longueur brute ne marche pas :
+    le repliement supprime la ponctuation et écrase les espaces de façon non
+    uniforme, si bien que la dérive atteint des centaines de caractères dans un
+    long document. Mesuré avant correction : 42 spans faux sur 56."""
+    out: list[str] = []
+    idx: list[int] = []
+    prev_space = True
+    for i, ch in enumerate(raw):
+        dec = unicodedata.normalize("NFKD", ch.lower())
+        for c in (c for c in dec if not unicodedata.combining(c)):
+            if not (c.isalnum() or c == "_"):
+                c = " "
+            if c == " ":
+                if prev_space:
+                    continue
+                prev_space = True
+            else:
+                prev_space = False
+            out.append(c)
+            idx.append(i)
+    while out and out[-1] == " ":
+        out.pop(); idx.pop()
+    return "".join(out), idx
+
+
 def load_docs():
     out = {}
     for p in sorted(DOCS.glob("*.txt")):
         raw = p.read_text(encoding="utf-8")
-        out[p.stem] = (raw, fold(raw))
+        folded, idx = fold_mapped(raw)
+        out[p.stem] = (raw, folded, idx)
     return out
 
 
@@ -38,15 +68,14 @@ def locate(probe: str, docs, restrict: str | None = None):
     if not fp:
         return []
     hits = []
-    for doc_id, (raw, folded) in docs.items():
+    for doc_id, (raw, folded, idx) in docs.items():
         if restrict and restrict not in doc_id:
             continue
         i = folded.find(fp)
         while i != -1:
-            # ré-alignement approximatif sur le texte brut (le folding préserve l'ordre)
-            ratio = len(raw) / max(len(folded), 1)
-            s = max(0, int(i * ratio) - 40)
-            e = min(len(raw), int((i + len(fp)) * ratio) + 40)
+            # position EXACTE, lue dans la table d'index construite au repliement
+            s = idx[i]
+            e = idx[min(i + len(fp), len(idx)) - 1] + 1
             hits.append((doc_id, s, e))
             i = folded.find(fp, i + 1)
             if len(hits) > 40:

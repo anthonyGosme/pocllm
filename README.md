@@ -197,11 +197,79 @@ ne peut résoudre, ne repose donc que sur les 18 fichiers restants.
 
 ## Tableau d'ablation
 
-En cours de calcul sur les 38 questions, 11 configurations. Résultats versionnés
-dans `evals/results/`.
+38 questions · 23 615 chunks · vérité terrain vérifiée span par span.
+Table complète : `evals/results/ablation.md`.
 
-Le premier tableau (18 questions, dense défaillant) est conservé pour mémoire :
-il est la matière de l'Enseignement 1.
+| configuration | recall@10 | MRR | nDCG@10 |
+|---|---|---|---|
+| `sparse_seul` | **0,461** | 0,278 | 0,296 |
+| `sparse_sans_codes` | 0,447 | 0,315 | 0,319 |
+| `hybride_rrf60_rerank` | 0,421 | **0,331** | **0,329** |
+| `hybride_rrf10` | 0,382 | 0,244 | 0,250 |
+| `hybride_rrf60` | 0,368 | 0,227 | 0,238 |
+| `hybride_rrf60_pondere` | 0,368 | 0,263 | 0,260 |
+| `hybride_sans_fusion` | 0,316 | 0,186 | 0,197 |
+| `dense_seul` (e5-small) | 0,171 | 0,117 | 0,115 |
+| `dense_symetrique` (paraphrase) | 0,079 | 0,047 | 0,050 |
+
+recall@10 par type, aux deux extrêmes :
+
+| type | `sparse_seul` | `dense_seul` |
+|---|---|---|
+| neologisme_maison | **1,00** | 0,00 |
+| piege_attribution | 0,67 | 0,50 |
+| reference_exacte | 0,53 | 0,17 |
+| multi_hop | 0,33 | 0,00 |
+| faux_ami_lexical | 0,25 | 0,17 |
+| conceptuel | **0,00** | **0,00** |
+
+Deux tableaux invalidés sont conservés dans `evals/results/` avec la cause en
+tête : `ablation_INVALIDE_dense_mixte.md` et `ablation_INVALIDE_spans_faux.md`.
+
+### 10. L'hybride ne bat jamais le sparse seul en rappel sur ce corpus
+
+`sparse_seul` tient 0,461 ; la meilleure configuration hybride plafonne à 0,421.
+Ajouter le dense **coûte du rappel**. Ce qu'il achète est ailleurs : le
+reranking porte le MRR de 0,278 à 0,331 et le nDCG de 0,296 à 0,329.
+
+Autrement dit, sur un corpus saturé de codes formels et de vocabulaire
+idiosyncratique, l'hybride n'est pas un gain de couverture mais un **arbitrage
+couverture contre précision de rang**. Le tableau agrégé seul ne le dit pas ; il
+faut la ventilation par type.
+
+Le pari central du cadrage est confirmé sans ambiguïté sur un point : sur les
+questions à néologismes, le sparse fait **1,00 et le dense 0,00**. La
+complémentarité est démontrée, pas postulée — mais elle joue dans un seul sens.
+
+### 11. Le vrai réglage du dense n'est pas le modèle, c'est la profondeur
+
+Les similarités e5 s'écrasent : sur ce corpus, tous les chunks tiennent entre
+0,81 et 0,88. Pour q006, le chunk d'or est à 0,843 contre 0,875 pour le premier
+— **0,032 d'écart, mais 4 091 rangs**. Et q007 place ses chunks d'or aux rangs
+**54, 61 et 115**, c'est-à-dire juste au-delà du `top_k: 50` par défaut.
+
+Le dense n'échouait donc pas : il était **tronqué trop tôt**. La recette usuelle
+« récupérer 50, reranker 10 » est mauvaise dans un espace de similarités
+compressé. La profondeur de candidats devient un paramètre de premier plan,
+au même titre que le `k` du RRF.
+
+### 12. Deux ablations invalides avant la bonne
+
+La première mesurait un dense mixte : ma condition d'attente cherchait
+« 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si
+bien que l'ablation démarrait avant la fin de l'embedding du canon.
+
+La seconde mesurait contre une vérité terrain dont **42 spans sur 56 étaient
+faux** : `locate()` remappait la position de la sonde du texte replié vers le
+texte brut par une règle de trois, alors que le repliement ne supprime pas les
+caractères uniformément. Corrigé par une table d'index construite pendant le
+repliement — 56/56 exacts.
+
+La leçon n'est pas « faire attention ». C'est que **rien dans une ablation ne
+signale qu'elle mesure du bruit** : les trois tableaux avaient l'air également
+plausibles, et deux d'entre eux ne mesuraient rien. Le seul garde-fou qui a
+fonctionné est une vérification indépendante — « la sonde est-elle littéralement
+dans le span ? » — qui ne partage aucun code avec ce qu'elle contrôle.
 
 ---
 

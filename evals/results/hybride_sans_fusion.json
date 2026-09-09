@@ -1,0 +1,589 @@
+{
+  "run": "hybride_sans_fusion",
+  "config": {
+    "dense": true,
+    "sparse": true,
+    "fusion": false,
+    "rrf_k": 60,
+    "rerank": false,
+    "profile_dense": "fast",
+    "profile_rerank": "fast"
+  },
+  "n_questions": 38,
+  "latence_totale_s": 6.2,
+  "latence_par_question_s": 0.16,
+  "metriques": {
+    "recall@1": 0.06578947368421052,
+    "recall@5": 0.2631578947368421,
+    "recall@10": 0.3157894736842105,
+    "recall@20": 0.5,
+    "MRR": 0.18631104447667915,
+    "nDCG@10": 0.19666304343795457,
+    "par_type": {
+      "conceptuel": {
+        "n": 3,
+        "recall@10": 0.0,
+        "MRR": 0.0
+      },
+      "faux_ami_lexical": {
+        "n": 6,
+        "recall@10": 0.25,
+        "MRR": 0.12222222222222222
+      },
+      "multi_hop": {
+        "n": 6,
+        "recall@10": 0.16666666666666666,
+        "MRR": 0.09770499108734403
+      },
+      "neologisme_maison": {
+        "n": 2,
+        "recall@10": 0.25,
+        "MRR": 0.15833333333333333
+      },
+      "piege_attribution": {
+        "n": 6,
+        "recall@10": 0.6666666666666666,
+        "MRR": 0.5
+      },
+      "reference_exacte": {
+        "n": 15,
+        "recall@10": 0.3333333333333333,
+        "MRR": 0.16290598290598293
+      }
+    }
+  },
+  "par_question": [
+    {
+      "id": "q001",
+      "type": "neologisme_maison",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 1.0
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.2640681225725909,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.896 -> sparse(50) top=10.13 -> interleave(88) fusion désactivée"
+    },
+    {
+      "id": "q002",
+      "type": "neologisme_maison",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 1.0
+      },
+      "rr": 0.06666666666666667,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.868 -> sparse(50) top=8.75 -> interleave(77) fusion désactivée"
+    },
+    {
+      "id": "q003",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.869 -> sparse(50) top=10.67 -> interleave(74) fusion désactivée"
+    },
+    {
+      "id": "q004",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.6309297535714575,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.901 -> sparse(50) top=17.38 -> interleave(72) fusion désactivée"
+    },
+    {
+      "id": "q005",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 1.0
+      },
+      "rr": 0.08333333333333333,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.881 -> sparse(50) top=18.45 -> interleave(68) fusion désactivée"
+    },
+    {
+      "id": "q006",
+      "type": "conceptuel",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.875 -> sparse(50) top=8.80 -> interleave(99) fusion désactivée"
+    },
+    {
+      "id": "q007",
+      "type": "conceptuel",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.883 -> sparse(50) top=9.66 -> interleave(96) fusion désactivée"
+    },
+    {
+      "id": "q008",
+      "type": "conceptuel",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.879 -> sparse(50) top=10.60 -> interleave(97) fusion désactivée"
+    },
+    {
+      "id": "q009",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.2640681225725909,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.860 -> sparse(50) top=11.41 -> interleave(98) fusion désactivée"
+    },
+    {
+      "id": "q010",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "canon:dense(50) top=0.868 -> sparse(50) top=10.71 -> interleave(87) fusion désactivée"
+    },
+    {
+      "id": "q011",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.43067655807339306,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.859 -> sparse(50) top=11.40 -> interleave(88) fusion désactivée"
+    },
+    {
+      "id": "q012",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.5,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 0.8772153153380493,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.861 -> sparse(50) top=11.89 -> interleave(85) fusion désactivée"
+    },
+    {
+      "id": "q013",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.125,
+      "ndcg@10": 0.19342640361727081,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.876 -> sparse(50) top=8.34 -> interleave(87) fusion désactivée"
+    },
+    {
+      "id": "q014",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 1.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 1.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.852 -> sparse(50) top=9.49 -> interleave(79) fusion désactivée"
+    },
+    {
+      "id": "q015",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.853 -> sparse(50) top=8.81 -> interleave(96) fusion désactivée"
+    },
+    {
+      "id": "q016",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 1.0
+      },
+      "rr": 0.3333333333333333,
+      "ndcg@10": 0.3065735963827292,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.864 -> sparse(50) top=14.65 -> interleave(85) fusion désactivée | canon:dense(50) top=0.877 -> sparse(50) top=14.54 -> interleave(84) fusion désactivée"
+    },
+    {
+      "id": "q017",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.5
+      },
+      "rr": 0.09090909090909091,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.879 -> sparse(50) top=13.14 -> interleave(84) fusion désactivée | canon:dense(50) top=0.864 -> sparse(50) top=7.71 -> interleave(96) fusion désactivée"
+    },
+    {
+      "id": "q018",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.5,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.2640681225725909,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.861 -> sparse(50) top=11.45 -> interleave(94) fusion désactivée | canon:dense(50) top=0.866 -> sparse(50) top=10.63 -> interleave(89) fusion désactivée"
+    },
+    {
+      "id": "q019",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.841 -> sparse(50) top=8.08 -> interleave(89) fusion désactivée"
+    },
+    {
+      "id": "q020",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.859 -> sparse(50) top=8.87 -> interleave(94) fusion désactivée"
+    },
+    {
+      "id": "q021",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.839 -> sparse(50) top=11.21 -> interleave(95) fusion désactivée"
+    },
+    {
+      "id": "q022",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 1.0
+      },
+      "rr": 0.06666666666666667,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.862 -> sparse(50) top=8.72 -> interleave(90) fusion désactivée"
+    },
+    {
+      "id": "q023",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.16666666666666666,
+      "ndcg@10": 0.3562071871080222,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.847 -> sparse(50) top=9.13 -> interleave(90) fusion désactivée"
+    },
+    {
+      "id": "q024",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 1.0
+      },
+      "rr": 0.07692307692307693,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.856 -> sparse(50) top=9.61 -> interleave(88) fusion désactivée"
+    },
+    {
+      "id": "q025",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 1.0
+      },
+      "rr": 0.05,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.848 -> sparse(50) top=6.19 -> interleave(96) fusion désactivée"
+    },
+    {
+      "id": "q026",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.25,
+      "ndcg@10": 0.43067655807339306,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.836 -> sparse(50) top=10.76 -> interleave(93) fusion désactivée"
+    },
+    {
+      "id": "q027",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.855 -> sparse(50) top=8.42 -> interleave(95) fusion désactivée"
+    },
+    {
+      "id": "q028",
+      "type": "reference_exacte",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.851 -> sparse(50) top=9.03 -> interleave(91) fusion désactivée"
+    },
+    {
+      "id": "q029",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.847 -> sparse(50) top=10.18 -> interleave(91) fusion désactivée | canon:dense(50) top=0.855 -> sparse(50) top=8.49 -> interleave(96) fusion désactivée"
+    },
+    {
+      "id": "q030",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.5,
+        "@20": 0.5
+      },
+      "rr": 0.125,
+      "ndcg@10": 0.19342640361727081,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.841 -> sparse(50) top=7.71 -> interleave(89) fusion désactivée | canon:dense(50) top=0.856 -> sparse(50) top=6.33 -> interleave(91) fusion désactivée"
+    },
+    {
+      "id": "q031",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.025,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.849 -> sparse(50) top=10.47 -> interleave(83) fusion désactivée | canon:dense(50) top=0.865 -> sparse(50) top=8.92 -> interleave(94) fusion désactivée"
+    },
+    {
+      "id": "q032",
+      "type": "faux_ami_lexical",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.864 -> sparse(50) top=12.47 -> interleave(85) fusion désactivée | canon:dense(50) top=0.862 -> sparse(50) top=8.25 -> interleave(92) fusion désactivée"
+    },
+    {
+      "id": "q033",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 1.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 1.0,
+      "ndcg@10": 1.0,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.843 -> sparse(50) top=9.55 -> interleave(83) fusion désactivée"
+    },
+    {
+      "id": "q034",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.6309297535714575,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.853 -> sparse(50) top=11.16 -> interleave(92) fusion désactivée"
+    },
+    {
+      "id": "q035",
+      "type": "piege_attribution",
+      "recall": {
+        "@1": 0.0,
+        "@5": 1.0,
+        "@10": 1.0,
+        "@20": 1.0
+      },
+      "rr": 0.5,
+      "ndcg@10": 0.6309297535714575,
+      "n_retrieved": 20,
+      "trace": "maison:dense(50) top=0.844 -> sparse(50) top=7.95 -> interleave(90) fusion désactivée"
+    },
+    {
+      "id": "q036",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.029411764705882353,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.873 -> sparse(50) top=11.61 -> interleave(87) fusion désactivée | canon:dense(50) top=0.875 -> sparse(50) top=7.37 -> interleave(97) fusion désactivée"
+    },
+    {
+      "id": "q037",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.5
+      },
+      "rr": 0.09090909090909091,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.854 -> sparse(50) top=16.30 -> interleave(80) fusion désactivée | canon:dense(50) top=0.876 -> sparse(50) top=11.08 -> interleave(92) fusion désactivée"
+    },
+    {
+      "id": "q038",
+      "type": "multi_hop",
+      "recall": {
+        "@1": 0.0,
+        "@5": 0.0,
+        "@10": 0.0,
+        "@20": 0.0
+      },
+      "rr": 0.0,
+      "ndcg@10": 0.0,
+      "n_retrieved": 40,
+      "trace": "maison:dense(50) top=0.871 -> sparse(50) top=14.11 -> interleave(79) fusion désactivée | canon:dense(50) top=0.865 -> sparse(50) top=8.86 -> interleave(96) fusion désactivée"
+    }
+  ]
+}
