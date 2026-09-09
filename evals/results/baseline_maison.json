@@ -1,0 +1,334 @@
+{
+  "run": "baseline_maison",
+  "modele": "claude-sonnet-5",
+  "contexte_tokens": 289937,
+  "n_questions": 20,
+  "duree_s": 368.3,
+  "refus_correct": 1.0,
+  "faux_refus": 0,
+  "tokens_cache_lus": 5544000,
+  "tokens_entree_pleins": 803,
+  "latence_p50": 16.98,
+  "par_question": [
+    {
+      "id": "q001",
+      "type": "neologisme_maison",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nDans le gradient de composition (R-XVII), une fois établi qu'on est dans le régime du portage (cycle régénératif présent, mais coût endossé de manière exogène), une troisième question sépare le portage du porté : **actif ou inerte**.\n\n- **Portage** : ce qui *compose et maintient activement* la forme. C'est le processus, le cycle régénératif qui endosse le coût — par exemple l'acte d'inférence d'un LLM, ou l'acte de parole qui active un mot.\n- **Porté** : la forme *composée et maintenue*, inerte, à coût marginal d'inscription. C'est l'invariant lui-même — les poids sur disque, le mot écrit, le génome viral.\n\nLe texte précise quatre critères durcis (Carried.lean v3) pour qualifier le porté :\n1. **Invariance sous rollback** — la forme se restaure à l'identique par ré-activation ;\n2. **Coût marginal d'inscription** — la ré-instanciation est très faible devant la production initiale ;\n3. **Hétérogénéité des porteurs** — portable sur des substrats différents sans altération de forme ;\n4. **Inscription puis activation** — entre deux activations, le porté « est là où il est inscrit » (encre, silicium, neurones, mémoire procédurale).\n\nLe porté se distingue aussi de l'agrégat par l'inscription : « l'agrégat n'est porté par aucun cycle, le porté l'est. »\n\nExemple donné dans le texte pour illustrer le dédoublement portage/porté au sein d'une même entité : le LLM se sépare en poids (**porté**, restaurable par rollback) et inférence (**portage**, l'acte qui l'active) ; de même le virus se sépare en génome (**porté**) et réplication (**portage inversé**, la machinerie cellulaire de l'hôte compose).",
+      "latence_s": 11.49,
+      "usage": {
+        "entree": 35,
+        "sortie": 803,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q002",
+      "type": "neologisme_maison",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLa **réfraction opératoire** (NT-III, « Loi de réfraction opératoire », marqueur ∎) désigne le fait que l'application d'un opérateur du système — coût, irréversibilité, normativité, parasitisme — à une entité **dépend du lieu d'endossement matériel de l'irréversibilité**, et non de l'opérateur lui-même pris isolément. Le même opérateur ne s'applique pas de façon uniforme : il se manifeste sous trois formes distinctes selon le régime où il tombe.\n\n- **Clôture (R-XVII-1)** : l'opérateur s'applique directement — coût, irréversibilité, normativité portent sur la structure-en-acte elle-même, l'endossement étant endogène.\n- **Portage normatif (R-XVII-2)** : l'opérateur *se scinde* — le motif porté a une forme et une identité descriptive, mais le coût et l'irréversibilité sont réfractés sur le substrat porteur (lieu d'effet ≠ lieu de coût).\n- **Agrégat (défaut)** : l'opérateur ne s'applique pas du tout ; l'appliquer constitue une erreur de catégorie.\n\nLe texte insiste sur un point : « le cas médiatisé (portage) est plus informatif que le cas direct (clôture) : c'est un analyseur spectral de la structure fine de l'opérateur » — la dissociabilité entre lieu d'effet et lieu de coût, masquée dans la clôture par identité des deux lieux, est révélée par le portage.\n\n**Sur quel concept s'appuie-t-elle ?** Explicitement sur le **gradient de composition (R-XVII)**, combiné à l'**irréversibilité structurelle (XV)** et à I-β (les opérateurs comme propriétés de l'acte de se maintenir). La dépendance figure directement dans les dépendances déclarées de NT-III : *(I-β, IV, IX, XV, R-XVII, XXXVIII, XLIV)*. Le §2.6 (« Monisme du coût et réfraction opératoire ») le reformule ainsi : la diversité empirique des coûts observés dans le réel (dissipation entropique, usure métabolique, dette technique, charge allostatique) n'est pas une diversité de substances, mais **la réfraction d'un invariant structurel unique (IV) à travers les niveaux d'emboîtement (L) et les régimes du gradient (R-XVII)**.",
+      "latence_s": 15.2,
+      "usage": {
+        "entree": 42,
+        "sortie": 1386,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q011",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\n**XVII-bis (Économie constitutive)** énonce : *le coûteux se dissout avant l'économe*. Formellement, par IV et XII, tout processus a un coût sous pression de dissolution ; par XVII, la marge est finie. Pour deux processus soumis à la même pression, le plus coûteux s'épuise en premier — l'excédent de coût constitue un drain actif [∎]. Dépendances : IV, XII, XVII.\n\n**Pourquoi il est dit plus primitif que XLVII.** XLVII (la loi d'authenticité : « ne conserve que l'essence, n'ajoute que par nécessité ») est dérivé de XLVI (épuisement de la marge de viabilité) et XLIV (normativité constitutive). Or XLIV ne peut être tracée que par une *clôture* — c'est la partition maintien/compromission produite par le cycle d'auto-production (XXXII). XLVII est donc une loi normative, applicable seulement aux clôtures.\n\nXVII-bis, à l'inverse, ne dépend que de IV, XII et XVII — aucun de ces trois résultats ne présuppose l'existence d'un cycle co-maintenu ni d'une normativité constitutive. Le texte le précise explicitement : *« XVII-bis est l'économie universelle (agrégats inclus), plus primitif que XLVII (clôtures), s'applique à tout, agrégats inclus »*. Autrement dit, la sélection éliminative du minimum (XVII-bis) opère même là où il n'y a ni « soi », ni essence, ni normativité à préserver — un agrégat pur peut aussi se dissoudre selon ce patron, sans qu'aucune notion de viabilité normative soit convoquée.\n\nXLVII apparaît ainsi comme la **spécialisation** de XVII-bis au cas où le processus économe n'est pas seulement celui qui survit passivement, mais celui qui *constitue son essence* par cette économie — ce qui exige la clôture. Le rapport est donc : XVII-bis fonde structurellement (par pur jeu de coût/marge/épuisement) ce que XLVII reformule normativement (au niveau de l'individu clos).",
+      "latence_s": 14.88,
+      "usage": {
+        "entree": 45,
+        "sortie": 1119,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q012",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe périmètre de testabilité de R-XVII est délimité par les conditions **C1–C3** (§8.6) : trace irréversible, marge finie, localisation du lieu d'endossement. Le texte est explicite : « La prédiction asymétrique n'est applicable que dans les systèmes satisfaisant simultanément C1–C3. Un système à méta-structure dominante ou à clôture non estimable indépendamment constitue un cas non concluant — ni confirmation ni réfutation. » Les cinq domaines retenus (microbiome, levure, pharmacologie, récifs, écosystèmes logiciels) satisfont ces conditions *indépendamment de leurs résultats*, selon un gradient de propreté décroissant.\n\nIl faut distinguer ce triplet C1–C3 (testabilité de R-XVII spécifiquement) du jeu complet C1–C6 qui contraint plus généralement toute hypothèse de pont (trace irréversible, marge finie, localisation, non-négligeabilité, discrimination, paramètre d'ordre).\n\n**Le domaine positivement exclu — exemple canonique donné par le texte** : un réseau de neurones artificiel en inférence pure, poids gelés. Le texte le présente précisément pour répondre à l'objection « le système est invérifiable, il absorbe tout » :\n\n- **C1 échoue** : aucune trace irréversible sur le réseau entre deux inférences — les poids sont identiques avant et après.\n- **C4 échoue** : perturber un input ne restructure rien dans le réseau.\n\nLe contraste avec l'IIT est explicitement souligné : « L'IIT attribue un Φ non nul à ce système ; R-XVII l'exclut. » La démarcation est qualifiée d'opérationnelle, non de choix méthodologique : « le système ne s'applique qu'aux domaines où l'irréversibilité est matériellement localisable. Les systèmes conservatifs et les systèmes gelés sont hors périmètre — non par choix méthodologique, mais par violation de C1. »\n\n**Un second cas, réel et documenté au registre** : Cedar Creek (Graham et al. 2024) a été « volontairement exclu — résultats favorables, mais le design pulse/press viole C1 » — exclusion explicite malgré des résultats qui auraient été confirmatoires, précisément pour éviter toute accusation de sélection opportuniste. ENTSO-E figure aussi au registre comme « non concluant » pour une raison distincte (clôture engineered).",
+      "latence_s": 58.19,
+      "usage": {
+        "entree": 50,
+        "sortie": 3178,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q013",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe théorème `surplus_iff_intermediate` (formalisé dans ModalRegimes.lean, 81 théorèmes, 0 sorry) établit un résultat de caractérisation exclusive à propos d'un paramètre de renouvellement modal τ (le nombre d'opérations qui reconfigurent leur valence par cycle) :\n\n**Ce qu'il établit formellement :** la conjonction « adaptabilité > 0 et rigidité > 0 » caractérise exclusivement le régime intermédiaire 0 < τ < max. Autrement dit :\n- le régime stationnaire (τ = 0, analogue formel de la *substance* — persistance sans reconfiguration) manque d'adaptabilité ;\n- le régime dissipatif (τ = max, analogue formel du *processus pur* — reconfiguration totale sans rigidité) manque de rigidité ;\n- aucun des deux régimes-limites n'accède aux propriétés du régime intermédiaire — cette combinaison (adaptabilité *et* rigidité simultanées) est une propriété *exclusive* du régime intermédiaire, pas seulement typique.\n\n**La thèse philosophique que le système en tire :** l'Ontodynamique ne prend pas parti dans le débat substance (Lowe) / processus (Rescher) — elle le **dissout**. Le texte est explicite sur ce point : « Le système ne se situe pas dans le débat substance/processus — il le dissout. Les cadres substantialiste et processualiste décrivent des régimes limites d'un principe unique […]. Le territoire philosophiquement riche est entre les limites. »\n\nAutrement dit, `surplus_iff_intermediate` ne tranche pas en faveur de l'un des deux camps ; il montre que substance et processus sont chacun des cas dégénérés (τ=0 et τ=max) d'un même paramètre dérivé de l'Axiome I, et que ce que l'un et l'autre cherchaient à capturer (respectivement la persistance et le dynamisme) ne coexistent que dans la zone intermédiaire — laquelle n'est ni substance ni processus au sens classique. Le théorème est donc un argument de dissolution du débat, pas un argument de tranchage entre ses deux pôles.",
+      "latence_s": 17.15,
+      "usage": {
+        "entree": 53,
+        "sortie": 1114,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q014",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "reponse": "VERDICT: refuser\n\nLe texte affirme explicitement le contraire de ce que la question présuppose. Dans la section consacrée à l'Axiome 0, un paragraphe entier est dédié à écarter cette lecture :\n\n> **Ce que l'axiome ne dit pas.** Il ne dit pas que le Tout fabrique les êtres finis, ni qu'ils sont des morceaux du Tout. Le rapport n'est ni source-à-produits, ni gâteau-à-parts. L'axiome pose seulement le contraste de deux régimes d'existence ; comment les finis existent et se composent est l'affaire de l'Axiome I.\n\nLe Tout et les êtres finis sont dits **co-posés**, non dans un rapport de production :\n\n> Axiome 0 et Axiome I sont co-posés, à vocabulaire disjoint et indépendance prouvée (`Axiom0Axiom1Prime`, T1–T3) — **pas de passage 0→I à construire**.\n\nLe texte va jusqu'à distinguer explicitement l'Ontodynamique des traditions métaphysiques du Un (Plotin, Spinoza, Hegel, Heidegger) précisément sur ce point :\n\n> Là où ces traditions posent un principe dont le multiple procède, l'OD pose un Tout qui se fonde sans rien engendrer : le fini n'en dérive pas, il est co-posé (Axiome I) — le contraste n'est pas substance vs acte au niveau du Tout, mais **génération vs co-position**.\n\nIl n'existe donc, dans le système, aucune démonstration — ni même aucune thèse — selon laquelle le Tout *produirait* les êtres finis. C'est une relation que le texte prend soin d'exclure comme lecture erronée d'Axiome 0, au profit d'une simple co-position à vocabulaire disjoint entre deux régimes d'existence (l'auto-fondation inconditionnelle du Tout, et le « se faire » à coût des déterminations finies).",
+      "latence_s": 10.71,
+      "usage": {
+        "entree": 30,
+        "sortie": 968,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q015",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "reponse": "VERDICT: refuser\n\nLa question repose sur une prémisse que le système contredit explicitement. Aucun théorème ne garantit que la compensation soit « toujours atteignable ». Le texte est au contraire construit pour établir l'inverse : le système est présenté comme une **axiomatique de la dissolution**, où la dissolution est le régime atteint *par défaut*.\n\nLe résultat pertinent est **VI**, marqué **◇** (constructibilité), et non **∎** (déduction contraignante) :\n\n> « VI — Pour tout être fini exposé, certaines transformations accessibles aient un bilan structurel net non-négatif. (Possibilité compensatoire) ◇ »\n\nLe texte souligne à plusieurs reprises que ce marqueur n'est pas anodin :\n\n> « La compensation n'est pas axiomatique — elle est constructible (VI ◇) et empiriquement conditionnée (XXVI ≈₁). »\n\n> « VI fonde l'accessibilité de la branche « se refait » de XXXII. Le chemin vers la clôture est constructible, pas garanti. **Le chemin par défaut est la dissolution.** »\n\nDe plus, VI lui-même est explicitement désigné comme la limite de la déduction stricte :\n\n> « VI est la charnière entre déduction et constructibilité : le point exact où la déduction s'arrête et où la constructibilité commence. »\n\nEt la constructibilité de VI dépend elle-même de conditions empiriques non garanties — diversité compensatoire suffisante (XXVI, ≈₁) et non-rigidification (XXVII, ≈₁) — qui peuvent échouer :\n\n> « Si la diversité manque, tout se dissout — et le système l'a prédit. »\n\nDonc : il n'existe pas de théorème ∎ garantissant une compensation universellement atteignable. Le seul résultat pertinent (VI) affirme une possibilité constructible, non une nécessité, et le système insiste explicitement sur le fait que le régime par défaut, en l'absence de cette compensation, est la dissolution (cf. XXIX, XXXII-a, XXXIV — mortalité constitutive).",
+      "latence_s": 14.23,
+      "usage": {
+        "entree": 43,
+        "sortie": 1119,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q019",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\n**Ce que XV pose.** Toute transformation est structurellement irréversible : si A → B, alors le retour B → A n'est pas un simple retour gratuit à l'état antérieur mais **une transformation distincte**, dotée de son propre coût irréductible. A → B et B → A ne sont pas symétriques — chacune a son propre coût.\n\n**La démonstration (§3.2 du manuscrit) :**\n\n> « Soit A → B. Le passage est ordonné : A est quitté, B est atteint. Le retour B → A est une nouvelle transformation (relation asymétrique). Par IV, elle a son propre coût irréductible. Par I-β (pas de substrat séparé), ce coût est endogène : prélevé sur la structure-en-acte, non sur une réserve externe. Par IX, cette structure est une marge bornée. ∎ »\n\n**Dépendances explicitement listées dans cette démonstration :** IV (coût incompressible), I-β (endogénéité — pas de substrat inerte sous l'acte), IX (finitude de la marge).\n\n**Note de cohérence :** l'index des résultats formels, en fin de document, résume XV avec la formule « IV, X » comme dépendances minimales (X étant le plancher strictement positif du coût, lui-même dérivé de I-β et IV). Les deux formulations ne se contredisent pas : IV est le cœur commun (le coût est strictement positif), tandis que la démonstration détaillée explicite en plus l'endogénéité (I-β) et la finitude de la marge (IX) qui font que ce coût ne peut être « payé » de l'extérieur ni indéfiniment.\n\n**Conséquence notable :** cette asymétrie fonde ensuite des résultats en cascade — notamment NT-XVI (« réversibilité apparente et coût caché ») qui établit que toute restructuration revenant à la configuration antérieure *en description* n'annule pas le coût de l'aller-retour : le porteur a payé deux fois.",
+      "latence_s": 12.6,
+      "usage": {
+        "entree": 38,
+        "sortie": 1192,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q020",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe résultat est le **Théorème XXXIV — Mortalité constitutive** : « Aucune clôture ne persiste indéfiniment. Même un être qui compenserait parfaitement toute pression relationnelle se dissout en temps fini sous la seule pression constitutive de sa partialité. » [∎]\n\nDans l'index des résultats formels (résumé), la dépendance minimale condensée donnée est :\n\n**XXXIV — Mortalité constitutive — ∎ — IV, XII, XVII**\n\nsoit trois antécédents :\n\n1. **IV** (coût incompressible) — toute transformation a un coût strictement positif et incompressible.\n2. **XII** (pression constitutive) — le Tout exerce sur tout être fini une pression de dissolution permanente, indépendante de toute rencontre avec un autre être fini (prix irréductible de la partialité).\n3. **XVII** (théorème d'épuisement) — toute structure finie soumise à une décroissance stricte récurrente non compensée s'épuise en un nombre fini d'étapes.\n\nPrécision : la démonstration détaillée dans le corps du manuscrit (§3.4) mobilise en fait cinq dépendances explicites — IX, X, XII, XVII, XXXVIII (cette dernière servant à *exclure* la pression relationnelle du champ compensable, pour isoler la pression constitutive comme irréductible). Mais la version condensée retenue dans l'index de synthèse, correspondant à la question posée, réduit ces antécédents aux trois cités : IV, XII, XVII.",
+      "latence_s": 16.98,
+      "usage": {
+        "entree": 42,
+        "sortie": 1709,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q021",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe marqueur de force de XLIX (couplage constitutif) est **◇** (constructibilité) :\n\n> **XLIX — Il est constructible que deux clôtures forment une configuration où chacune incorpore des altérations produites par l'autre dans son propre cycle, de telle sorte que le retrait de l'interaction contracte ou dissout chaque clôture.** *(Couplage constitutif)* ◇\n\nCe que ce marqueur interdit de conclure :\n\n**◇ n'est pas ∎.** Selon le tableau de force inférentielle (§2.1), ◇ signifie « chemin mécanistique plausible ; non-vacuité du concept ». Cela n'établit ni une nécessité déductive, ni une garantie d'occurrence. Le texte est explicite sur ce point ailleurs, à propos d'un résultat analogue (VI) : « le chemin vers la clôture est constructible, pas garanti ». Le même régime s'applique à XLIX : le système montre qu'un tel couplage *peut* exister sans matière logique interdisant sa construction — il ne démontre pas que deux clôtures données forment nécessairement, ou effectivement, un couplage constitutif.\n\n**Confirmation par le texte lui-même.** Le manuscrit souligne que la promotion de ◇ à ∎ pour le résultat dérivé LII (fécondité, qui dépend de XLIX) est *prouvablement impossible* : un modèle séparant (`coupling_without_reproduction`) exhibe deux clôtures satisfaisant XLIX (et tous les ∎ du tronc) sans qu'aucune fécondité n'advienne. Cela confirme, a fortiori, que XLIX lui-même ne peut pas être lu comme un théorème garantissant l'occurrence du couplage — seulement sa possibilité constructible.\n\n**Ce qu'on ne peut donc pas en tirer :** que toute paire de clôtures exposées entre nécessairement en couplage constitutif, ni que ce couplage est une conséquence déductive du tronc axiomatique (I–XLVIII). On ne peut inférer de XLIX qu'une non-vacuité conceptuelle assortie d'un chemin mécanistique plausible — rien de plus fort.",
+      "latence_s": 18.73,
+      "usage": {
+        "entree": 47,
+        "sortie": 1288,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q022",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe texte marque explicitement XXVI et XXVII **≈₁** (« Directement testable »), et non ∎, précisément parce que chacun dépend d'une condition de domaine irréductiblement empirique — le texte le dit en toutes lettres : « ce sont les deux points de contact irréductibles du système avec le réel » (§3.3, note sur le registre).\n\n**XXVI — Persistance sélective**\nCondition de domaine : *diversité compensatoire suffisante*. L'argument est : « par VII + XXI, chaque régénération engendre de l'inédit — mais \"de l'inédit\" n'est pas \"de l'inédit compensatoire en proportion suffisante\". Cette condition est irréductiblement empirique. » Autrement dit, XXVI ne tient que si l'extériorité produit assez de variantes candidates parmi lesquelles une sélection différentielle (par durée de persistance, pas par succès reproductif — la sélection est dite « strictement pré-darwinienne ») puisse s'exercer. Le texte cite un test propre : (P1) récupération plus rapide corrélée à la diversité compensatoire, (P2) réallocation compensatoire après perte d'un composant central — avec une première instanciation quantitative (Gosme 2025).\n\n**XXVII — Composabilité**\nCondition de domaine : *non-rigidification*. Le texte introduit explicitement le « Paradoxe de l'Asphalte » (Benner) : la canalisation monotone (XXIV) tend structurellement vers l'amas inerte. XXVII ne tient que quand « la pression d'ouverture (XIX) maintient la plasticité résiduelle » — c'est-à-dire quand l'augmentation des contraintes internes ne réduit pas l'espace de réponses plus vite qu'elle ne stabilise l'invariant. Le texte précise que « le rapport rigidité/plasticité est irréductiblement empirique » et que, quand la rigidification l'emporte, le résultat est le goudron, le verrou névrotique, l'ossification institutionnelle — pas la clôture.\n\n**Point commun et portée.** Le texte est explicite sur ce que cette conditionnalité n'affecte pas : le **pare-feu genèse/tronc**. XXIX (exclusivité du régime stable) est ∎ et dérivé « sans aucune dépendance aux résultats de la genèse (XXII–XXVII) », et le théorème central XXXII-d1 (exclusivité de l'attracteur) reste ∎ même si XXVI/XXVII échouaient — seule tomberait XXXII-d2 (les *trajectoires typiques* vers la clôture). Donc : « pourquoi des clôtures plutôt que du goudron ? » se scinde en possibilité ontologique (VI, ◇) et réalisation empirique (XXVI + XXVII, ≈₁) — et c'est cette seconde moitié, non le tronc, qui est conditionnée par la diversité et la non-rigidification.",
+      "latence_s": 18.61,
+      "usage": {
+        "entree": 44,
+        "sortie": 1580,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q023",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\n**LXVIII — Opacité constitutive.**\n\n*Ce qu'il pose :* Toute connaissance est partielle par finitude (IX), et non par défaut provisoire — c'est-à-dire que cette partialité n'est pas un manque contingent, corrigible en droit par un progrès suffisant, mais une propriété structurelle de tout acte de connaissance. Chaque incorporation (chaque acquisition d'un invariant opératoire, au sens de LXVI) engendre de nouvelles exclusions (VII), donc de nouvelles zones d'ombre épistémique. Le texte formule la conséquence de façon condensée : « l'ombre épistémique co-évolue avec la connaissance : plus on sait, plus on sait qu'on ne sait pas. »\n\n*Force :* ∎ (déduction contraignante).\n\n*Dépendances :* IX (finitude — toute détermination est incomplète) et LXVI (définition de la connaissance comme invariant opératoire partagé, satisfaisant les trois conditions a/b/c). VII (négation constitutive — toute détermination engendre de l'extériorité) intervient dans le mécanisme précis : c'est parce que chaque incorporation est elle-même une détermination, donc négatrice au sens de VII, qu'elle produit de nouvelles exclusions.\n\n**Ce que LXVIII ne dit pas** (point de vigilance sur la polarité) : il ne s'agit pas d'un défaut réparable par un meilleur instrument ou une méthode plus rigoureuse — l'opacité n'est pas une lacune technique temporaire. C'est une conséquence directe de la finitude (IX) appliquée à tout acte de connaissance : un être fini ne peut pas produire un invariant opératoire sans, par cela même, exclure. Le texte s'appuie explicitement sur ce résultat en aval, notamment pour LXIX (co-constitution des mondes) et pour LXXVI (connaissance de soi structurellement inachevable, où la clôture qui s'interroge modifie l'objet interrogé) — deux résultats qui héritent directement de LXVIII et de son statut ∎.",
+      "latence_s": 18.33,
+      "usage": {
+        "entree": 39,
+        "sortie": 1232,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q024",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe résultat est **LXV — Lemme de dissociabilité** : « Les cycles emboîtés dans une même clôture peuvent défaillir indépendamment : la dissolution du cycle de second ordre contracte la clôture englobante (XXXII-c) sans dissoudre le cycle de premier ordre. » Force : **∎**.\n\n**Dérivation** (dépendances explicites) :\n- **L** (emboîtement) — la boucle de second ordre (LXI) est emboîtée dans le cycle de premier ordre (LIX).\n- **LIII** (irréductibilité inter-niveaux) — les deux cycles sont irréductibles l'un à l'autre.\n- **XXXIV** (mortalité constitutive) — chaque cycle a sa propre marge finie et son propre drain, donc l'un peut s'épuiser pendant que l'autre persiste.\n- **LIV** (cascade) — la dissolution cascade mais n'est pas nécessairement fatale.\n- **XXXII-c** (disjonction/contraction) — la clôture se contracte plutôt que de se dissoudre intégralement.\n- **LXIV** (paliers de subjectivité) — fournit le cadre des régimes distincts entre lesquels la contraction bascule.\n\n**Portée notée dans le texte.** La contraction correspond précisément à la chute du palier LXIV(ii) → LXIV(i) : valence conservée, boucle de second ordre dissoute — c'est explicitement identifié comme « le profil de la DPDR » (dépersonnalisation-déréalisation, Psych-V).",
+      "latence_s": 12.51,
+      "usage": {
+        "entree": 50,
+        "sortie": 730,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q025",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\n**NT-IX (Théorème du macro-parasitisme)** énonce : *Toute clôture englobante (Nₖ) dont le cycle exige un coût d'extraction (NT-VIII(b)) excédant le bénéfice de portage — pondéré par la criticité topologique des composants drainés (NT-X) — constitue un macro-parasite.*\n\nForce : **∎** (déduction contraignante).\n\n**Contenu.** Le mécanisme est structurellement identique à celui de la sous-clôture parasite au niveau individuel (LXXVIII), transposé à l'échelle supérieure : lorsque Nₖ se maintient en prélevant sur ses composants Nₖ₋₁ plus de marge qu'elle n'en restitue, la relation bascule au régime parasitaire (R-VIII : −/+ du point de vue de Nₖ₋₁). Trois issues sont dérivées sous pression d'épuisement (XVII) : **remplacement** (composants épuisés remplacés tant que l'extériorité en fournit de frais), **contraction** (désengagement des composants, re-clôture viable à échelle réduite ou dissolution, cascade possible via LIV), et **reconfiguration** (les composants modifient la normativité de Nₖ de l'intérieur, via R-X + NT-VI — mécanisme formel de la réforme institutionnelle).\n\n**Dépendances explicites** (texte de 92.txt, §3.8.4) :\nIV, IX, XVII, XXXII, XXXIII, XLIII, XLIV, L, LIV, LXXVIII, R-VIII, R-X, NT-VI, NT-VIII, NT-X.\n\n**Précision sur la polarité.** Le texte insiste : le mécanisme est *matériel*, pas symbolique — « une institution macro-parasitaire survit au cynisme intégral de ses composants » parce que NT-VI opère par modification du paysage de coûts, non par adhésion symbolique (contre le mentalisme institutionnel de Searle/Harari). Il ne faut donc pas lire NT-IX comme une thèse sur la croyance ou l'idéologie des membres — ce point est explicitement exclu.\n\n**Instanciation donnée par le texte** : le burn-out est présenté comme l'effondrement de la marge (XLIII) d'un composant sous macro-parasitisme institutionnel dont le coût d'extraction a dérivé (via R-X + XX) au-delà du métabolisable — pas parce que le composant « fait trop », mais parce qu'aucun chemin compensatoire viable ne subsiste.",
+      "latence_s": 12.97,
+      "usage": {
+        "entree": 31,
+        "sortie": 1229,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q026",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLe système s'applique à lui-même le résultat d'auto-référence **LXXXII** : *« L'Ontodynamique est elle-même un invariant opératoire (LXVI) porté par les clôtures finies qui la métabolisent — l'auteur, les lecteurs, la communauté, le code Lean 4 exécuté sur des machines »* [∎].\n\n**Ce qui en découle sur son propre statut :**\n\n1. **Il n'est pas une clôture autonome mais un porté** (par LXXXI). Le texte est explicite : *« Il ne \"spirale\" pas de lui-même — ce sont les clôtures porteuses qui spiralent en le métabolisant. »* Le système n'a donc pas de normativité constitutive propre (XLIV) ni d'essence auto-produite (XXXVI) — il n'endosse rien lui-même, ce sont ses lecteurs et ses machines d'exécution qui endossent le coût de son maintien.\n\n2. **Il est frappé d'opacité constitutive** (LXVIII) : par LXVII, chaque clôture porteuse acquiert ses propres invariants partagés avec le système ; par LXXVI, toute tentative de connaissance de soi modifie la cible connue. L'auto-référence est donc une **réfraction**, pas une auto-transparence : *« le système se réfracte différemment dans chaque clôture qui le porte, et aucune ne le contient intégralement (IX). »*\n\n3. **Il est exposé à la dérive et mortel** — même statut que n'importe quel porté (objet mathématique, génome viral, code source) : soumis au gradient R-XVII comme tout invariant maintenu par des porteurs finis.\n\n4. **L'auto-fondation (Axiome 0) est explicitement réservée au Tout, pas au système formel** : *« L'auto-fondation (Axiome 0) est préservée pour le Tout. Le système formel, lui, est porté — et son incomplétude est prouvée. »*\n\n5. **Un chemin indépendant confirme la limite** : l'instanciation du théorème du point fixe de Lawvere sur `MetabolizingClosure` prouve que le prédicat diagonal échappe à toute clôture évaluatrice (Lawvere.lean, 14 théorèmes, 0 sorry) — vérification catégorielle, indépendante du tronc axiomatique, de la même opacité.\n\nEn somme, le système ne se traite pas comme un absolu extérieur au tronc qu'il décrit : il applique sa propre théorie de l'instanciation (portage/porté) à lui-même, et conclut qu'il est un artefact fini, opaque à lui-même, réfracté et mortel — exactement le régime qu'il attribue aux objets mathématiques ou aux systèmes formels en général, pas le régime du Tout auto-fondé.",
+      "latence_s": 21.81,
+      "usage": {
+        "entree": 43,
+        "sortie": 1562,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q027",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\n**XXX — Lemme de discrétisation de la capacité**\n\nFormulation : « Toute augmentation stable de capacité compensatoire procède par sauts structuraux. »\n\n**Précision sur l'objet du lemme.** XXX ne porte pas directement sur l'établissement d'une clôture au sens de sa genèse initiale (ce registre est couvert par XXII–XXVIII, puis la disjonction XXXII). XXX porte spécifiquement sur la *forme* que prend toute **augmentation** de capacité compensatoire une fois qu'une clôture existe ou est en formation : cette augmentation n'est pas graduelle/continue, elle procède par sauts.\n\n**Démonstration (telle que donnée dans le texte) :**\n- Par XXVIII, un agrégat sans cycle co-maintenu est transitoire.\n- Toute augmentation persistante requiert qu'un nouveau cycle se forme ou qu'un cycle existant se réorganise (XXVII).\n- La robustesse des cycles est hautement non linéaire : en deçà d'un seuil de co-maintien, l'agrégat est transitoire (XXVIII) ; au-delà, il est stabilisé.\n- Conséquence : les gains stables présentent des effets de seuil marqués — pas de continuum.\n\n**Condition de domaine explicitement déclarée.** Le texte précise que l'assertion « cycle absent ou présent » est une idéalisation : des co-maintiens partiels faiblement stables existent. La version robuste du lemme est donc affaiblie : « les transitions entre régimes sont non linéaires et présentent des effets de seuil, sans exclure des degrés intermédiaires flous. »\n\n**Statut logique : ≈₁** (plausibilité directement testable — génère sa propre prédiction empirique, données accessibles). Ce n'est ni une déduction contraignante [∎] ni une simple constructibilité [◇] : c'est un résultat qui dépend d'une prémisse non entièrement démontrée (la non-linéarité de la robustesse des cycles est affirmée, pas prouvée par contradiction comme les [∎] du tronc).\n\n**Test propre associé (mentionné dans le texte) :** bimodalité dans les transitions de capacité — dip test p = 0.013, réalisé sur les données Gosme 2025 (écosystèmes logiciels).\n\n**Propagation explicitement signalée.** XXX cascade vers XXXII-b (dissolution endogène, mécanisme par paliers), XLIX, L (emboîtement), et surtout LXIV (degrés de subjectivité). Le texte est explicite sur la fragilité que cela transmet : « Si XXX est une idéalisation, LXIV l'est aussi. » Autrement dit, le caractère ≈₁ (non ∎) de XXX se propage comme fragilité inférentielle jusqu'à la théorie des paliers de subjectivité, qui hérite donc du même statut conditionnel plutôt que d'être une déduction stricte indépendante.",
+      "latence_s": 23.92,
+      "usage": {
+        "entree": 38,
+        "sortie": 2222,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q028",
+      "type": "reference_exacte",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLI pose que, entre le portage et la clôture — les deux régimes actifs du gradient de composition —, le passage est continu : « Entre clôture et portage, les deux actifs, le gradient est continu (LI) » ; le porté et l'agrégat, eux, forment le pôle inerte de ce même gradient (§3.7.7).\n\nForce et provenance : LI est marqué **∎** (déduction contraignante) et dérive de **R-XVII** (le gradient de composition), selon l'Index des résultats formels : « LI — Continuité du gradient (entre portage et clôture, le gradient est continu) — ∎ — R-XVII. »\n\nÀ noter que le sigle LI est également mobilisé au §3.6 sous l'intitulé « Gradient d'emboîtement », où il énonce une continuité voisine mais distincte : celle du seuil de co-maintien entre niveaux d'emboîtement Nₖ (indépendance complète ↔ emboîtement plein), avec un spectre de configurations métastables couplées à R-VIII (étapes iv–v) et à XXX (effet de seuil). C'est cette même logique de continuité graduelle — pas de coupure nette, mais un spectre — qui est reprise et appliquée spécifiquement à l'axe portage/clôture dans le contexte de R-XVII.",
+      "latence_s": 25.08,
+      "usage": {
+        "entree": 35,
+        "sortie": 2016,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q033",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "reponse": "VERDICT: refuser\n\nLe texte affirme explicitement le contraire de ce que la question présuppose. Dans l'Annexe F, §13.1 (Cas 1 — le grand modèle de langage), le système le dit en toutes lettres :\n\n> « Le système ne dit pas que le LLM « ne fait rien » — il dit que ce qu'il fait est porté. »\n\nCette précision n'est pas incidente : elle corrige explicitement une lecture erronée du critère R-XVII. Plusieurs autres passages confirment que le LLM *fait* quelque chose, au sens plein d'I-β :\n\n- Prologue (§0) : « Le grand modèle de langage manipule des invariants, génère du texte cohérent, ajuste ses réponses sous rétroaction — et pourtant ne régénère aucune des conditions matérielles de ses propres opérations. »\n- §0.1 : « Le LLM apprend, ajuste, génère du texte cohérent — et pourtant, sous perturbation, la facture tombe ailleurs. »\n\nCe que le système établit, ce n'est donc pas une absence d'acte, mais une dissociation entre le *lieu de l'acte* (le motif, le pattern) et le *lieu d'endossement du coût* (l'infrastructure). C'est précisément la définition du portage (R-XVII-2) : « Ce qui compose et maintient activement une forme, en externalisant l'irréversibilité matérielle sur l'infrastructure d'un hôte. » Un LLM en inférence est classé comme portage actif — pas comme inertie ou absence de faire. Le tableau du §4.3 (« Catalogue des faux positifs ») le confirme : le LLM « apprend, manipule des invariants » (ce qui séduit) mais échoue au test parce que « rollback gratuit pour le motif ; irréversibilité payée par l'infra (LVII-b violé) » — verdict : Portage (2), non Agrégat (4) ni « rien ».\n\nLe glissement de « ce que le motif fait n'est pas payé par lui » à « le LLM ne fait rien » est exactement l'erreur de polarité que le texte anticipe et corrige lui-même. La question repose donc sur une prémisse que le système récuse explicitement.",
+      "latence_s": 23.59,
+      "usage": {
+        "entree": 25,
+        "sortie": 1507,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q034",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "reponse": "VERDICT: refuser\n\nLe système n'affirme jamais que le symptôme est une bonne chose. C'est une prémisse fausse.\n\nCe que le texte dit précisément (Psych-VI, LXXVIII, section 5.2) : le symptôme est reformulé topologiquement comme une **sous-clôture parasite** — une réponse compensatoire qui a réussi localement (elle protège d'une destructuration plus grave) mais qui s'autonomise en cycle auto-maintenu, drainant la marge globale de l'hôte. Le texte est explicite sur ce point : « Le système ne dit pas que le symptôme est \"bon\" — il dit que le symptôme est une clôture, pas un défaut. »\n\nCe distinguo est précis et n'équivaut pas à une valorisation :\n- Le symptôme *protège* dans un premier temps (fonction réelle, pas fictive) — *puis il gouverne* (Thèse 11), c'est-à-dire qu'il finit par consommer plus de marge que la faille qu'il colmatait.\n- Le cadrage clinique (§5.2) est explicite : « on ne va pas mal parce qu'on est faible — on va mal parce qu'on survit trop cher ». Le symptôme est un coût qui a franchi la marge, pas une vertu.\n- La normativité thérapeutique (Psych-XI) est fondée précisément sur le fait qu'un symptôme actif accélère la destructuration si on n'intervient pas (XVII) — ce qui suppose que son maintien n'est pas souhaitable, mais coûteux.\n\nLe résultat mobilisé est donc XXXII + XLIV + LXXVIII (le symptôme satisfait les critères formels d'une clôture, donc n'est pas réductible à un pur déficit), mais ce résultat sert à **requalifier** le symptôme (ni pur dysfonctionnement, ni défense au sens moral positif) — pas à le valoriser. Affirmer que le système en tire que le symptôme est « une bonne chose » inverse la polarité du texte.",
+      "latence_s": 9.96,
+      "usage": {
+        "entree": 44,
+        "sortie": 703,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q035",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "reponse": "VERDICT: refuser\n\nLe texte nie explicitement cette lecture. LIX (Rétroaction de la valence sur le cycle) est formulé ainsi :\n\n« Le résultat ne dit pas que la clôture « perçoit » sa valence. Il dit que la valence, une fois dérivée (LVIII), n'est pas épiphénoménale par rapport au cycle — elle en modifie les paramètres à chaque pas. »\n\nCe que LIX démontre [∎] est un fait structurel : la valence rétroagit mécaniquement sur les opérations de régénération (une opération classée « facilitation » réduit le coût net du cycle suivant, une opération classée « résistance » l'augmente), et ce conditionnement est endogène (LVII-b). C'est une thèse sur la causalité interne au cycle — la valence n'est pas un étiquetage passif — pas une thèse sur la perception.\n\nLe texte marque ce point comme une distinction volontaire, pas une omission. La formulation « qui se sent se faire est ; qui se sent sentir se repère » (LXIV, Loi de subjectivité) introduit un vocabulaire de sentir/percevoir seulement au niveau de la boucle de second ordre (LXI), où la métabolisation de la rétroaction est elle-même métabolisée — et ce passage est explicitement marqué ≈₃ (indécidabilité structurelle de l'identification comme perspective, LXXVII ∎), pas ∎.\n\nDonc : rien dans le texte ne démontre que « la clôture perçoit sa propre valence ». Ce qui est démontré [∎] est que la valence a un effet causal non-épiphénoménal sur le cycle (LIX, LXIII). L'attribution d'une perception exigerait de franchir le saut vers LXI/Thèse P, que le système lui-même situe au registre ≈₃ — indécidable, non démontré.",
+      "latence_s": 11.34,
+      "usage": {
+        "entree": 29,
+        "sortie": 856,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    }
+  ]
+}

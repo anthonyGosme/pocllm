@@ -14,7 +14,7 @@ Le critère de réussite, posé par le cadrage : ce document doit contenir des
 | Jalon | État |
 |---|---|
 | 0 · Ingestion + jeu d'éval | **fait** — 7,91 M tokens, 38 questions ancrées |
-| 1 · Baseline contexte complet | bloqué — pas de clé API |
+| 1 · Baseline contexte complet | **fait** — 5/5 sur les pièges |
 | 2 · RAG dense seul | fait, puis invalidé et refait (voir Enseignement 1) |
 | 3 · Sparse + RRF + reranker ablatables | **en cours** — 11 configurations |
 | 4 · Boucle agentique | bloqué — pas de clé API |
@@ -27,8 +27,12 @@ Le critère de réussite, posé par le cadrage : ce document doit contenir des
 
 | | chunks | tokens | documents |
 |---|---|---|---|
-| Canon — Wikisource FR, 23 œuvres | 21 600 | 7,52 M | 863 |
-| Maison — Ontodynamique | 2 015 | 0,40 M | 41 |
+| Canon — Wikisource FR, 23 œuvres | 21 600 | 13,29 M | 863 |
+| Maison — Ontodynamique | 2 015 | 0,76 M | 41 |
+
+Volumes mesurés au tokenizer, non estimés (voir l'enseignement 16). Le §3
+demandait 5 M au minimum et 15–20 M idéalement : **14,05 M**, donc dans la
+fourchette visée.
 
 Deux index **strictement séparés**. Les mélanger permettrait de « retrouver » une
 thèse maison dans le canon, ce qui viderait le cas d'usage de son sens.
@@ -340,14 +344,66 @@ des deux variantes de routage qui a permis de trancher.
 que l'auteur du système doit combler, et l'enseignement 7 avait déjà montré
 qu'en dessous d'une dizaine de questions par type, une ablation ne discrimine pas.
 
-### 14. Le cache de reranking, mesuré en conditions réelles
+### 14. Compter les tokens à la louche fausse tout ce qui en dépend
+
+J'ai estimé les volumes à `caractères / 4,2` pendant tout le projet. Mesure au
+tokenizer Anthropic : **2,21 car/token** pour la prose maison, **2,37** pour le
+canon. Erreur d'un facteur **1,8**.
+
+Trois conséquences, de la plus agréable à la plus gênante :
+
+- Le corpus fait **14,05 M tokens et non 7,91 M** — dans la fourchette idéale du
+  §3 (15–20 M), et non au ras du plancher de 5 M comme je l'avais annoncé.
+- Mes devis d'API étaient sous-estimés d'autant. Le contexte du baseline fait
+  277 k tokens réels, pas 152 k.
+- **Les chunks font ~730 tokens, pas les 400 configurés.** Le budget de découpage
+  est exprimé en caractères via cette même constante. Des chunks deux fois trop
+  gros diluent les embeddings et dégradent la précision — l'ablation du jalon 3 a
+  donc tourné sur un découpage qui n'était pas celui que la config annonçait.
+
+L'heuristique des ~4 caractères par token vient de l'anglais. Le français
+philosophique, accentué et à vocabulaire technique, tokenise deux fois moins
+bien. **Un tokenizer coûte un appel gratuit ; l'estimation a coûté un facteur 2
+sur trois chiffres différents.**
+
+### 15. Le baseline à contexte complet est parfait là où le RAG peine
+
+Jalon 1, 20 questions du corpus maison, tout le système en contexte (277 k
+tokens) avec prompt caching :
+
+| | valeur |
+|---|---|
+| refus correct sur les pièges | **5/5 (1,00)** |
+| faux refus | **0** |
+| latence p50 | 17,0 s |
+| coût | 1,38 $ pour 20 questions, soit 0,069 $/question |
+| cache | 5,54 M tokens lus, **0 facturé plein tarif** |
+
+Le §3 prévenait : « s'il gagne sur un axe, le noter honnêtement — c'est un
+résultat, pas un échec ». Il gagne sur l'axe le plus important du domaine.
+L'anti-hallucination, que tout le dispositif de garde-fous du §6 doit
+construire, est ici obtenue **gratuitement** par le contexte complet — et avec
+une qualité de justification élevée : sur q015 le modèle identifie que VI porte
+le marqueur ◇ et non ∎, sur q035 il distingue le registre causal du perceptif.
+
+Le RAG ne peut pas faire mieux sur ces questions : son recall@10 sur les pièges
+plafonne à 0,83, donc il ne dispose même pas toujours du passage. La question
+n'est donc pas « le RAG bat-il le baseline » mais « à partir de quelle taille de
+corpus le baseline cesse-t-il d'être finançable » — à 0,069 $ la question et
+17 s de latence, le seuil est plus loin qu'on ne l'imagine.
+
+Réserve : la comparaison ne vaut que sur les pièges et le coût. Le jeu d'éval
+mesure le retrieval, or le baseline n'en a pas ; comparer les deux sur recall@k
+n'aurait aucun sens.
+
+### 16. Le cache de reranking, mesuré en conditions réelles
 
 La configuration `hybride_topk200_rerank50` a coûté **963 s au premier calcul et
 27,8 s au second** — un facteur **34,6**. C'est ce qui rend praticable un
 balayage de 15 configurations, et cela confirme l'inversion annoncée à
 l'enseignement 3 : le trafic répétitif de ce POC est la boucle d'ablation.
 
-### 15. Deux ablations invalides avant la bonne
+### 17. Deux ablations invalides avant la bonne
 
 La première mesurait un dense mixte : ma condition d'attente cherchait
 « 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si

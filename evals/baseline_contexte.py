@@ -25,6 +25,10 @@ from pocllm.llm import make_provider                            # noqa: E402
 EVAL = ROOT / "evals" / "eval_v0_echantillon.jsonl"
 RESULTS = ROOT / "evals" / "results"
 SOURCES = ("92.txt", "resume12.md", "executive4.md")
+# Mesuré au tokenizer Anthropic sur ce corpus : 2,21 car/token pour la prose
+# maison, 2,37 pour le canon. L'heuristique usuelle de ~4 car/token sous-estime
+# le français philosophique d'un facteur 1,8.
+CHARS_PAR_TOKEN = 2.21
 
 CONSIGNE = """Tu réponds à propos du système philosophique « Ontodynamique »,
 dont le texte intégral t'est fourni ci-dessus.
@@ -68,19 +72,26 @@ def main():
     ap.add_argument("--name", default="baseline_contexte")
     ap.add_argument("--limit", type=int, default=0, help="ne traiter que les N premières questions")
     ap.add_argument("--types", nargs="*", default=None, help="filtrer sur des types de question")
+    ap.add_argument("--corpus", nargs="*", default=["maison"],
+                    help="corpus des questions retenues (défaut : maison seul)")
     a = ap.parse_args()
 
     cfg = yaml.safe_load((ROOT / "config" / "default.yaml").read_text(encoding="utf-8"))
     prov = make_provider(cfg["generation"])
     ctx = contexte()
-    print(f"contexte : {len(ctx)/4.2/1000:.1f} k tokens · modèle {prov.model} · TTL {prov.cache_ttl}",
-          flush=True)
-
     qs = [json.loads(l) for l in EVAL.open(encoding="utf-8")]
+    # Le contexte ne contient QUE le système maison : une question sur le canon y
+    # est légitimement refusée, et la compter comme faux refus serait une erreur de
+    # mesure. Vérifié sur q003 (Éthique II/7), refusée à juste titre — le modèle a
+    # même cité la seule mention de Spinoza présente dans le texte maison.
+    if a.corpus:
+        qs = [q for q in qs if q["corpus"] in a.corpus]
     if a.types:
         qs = [q for q in qs if q["type"] in a.types]
     if a.limit:
         qs = qs[:a.limit]
+    print(f"contexte : {len(ctx)/CHARS_PAR_TOKEN/1000:.1f} k tokens · modèle {prov.model} "
+          f"· TTL {prov.cache_ttl} · {len(qs)} questions", flush=True)
 
     # Le bloc système porte le point de cache : stable en tête, question en queue.
     systeme = [{"type": "text", "text": ctx}, {"type": "text", "text": CONSIGNE}]
@@ -107,7 +118,7 @@ def main():
     dt = time.perf_counter() - t0
     pieges = [l for l in lignes if l["attendu"] == "refuser"]
     out = {
-        "run": a.name, "modele": prov.model, "contexte_tokens": int(len(ctx) / 4.2),
+        "run": a.name, "modele": prov.model, "contexte_tokens": int(len(ctx) / CHARS_PAR_TOKEN),
         "n_questions": len(lignes), "duree_s": round(dt, 1),
         "refus_correct": round(sum(l["correct"] for l in pieges) / len(pieges), 3) if pieges else None,
         "faux_refus": sum(1 for l in lignes if l["attendu"] == "repondre" and l["verdict"] == "refuser"),

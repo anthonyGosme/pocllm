@@ -1,0 +1,62 @@
+{
+  "run": "smoke_baseline",
+  "modele": "claude-sonnet-5",
+  "contexte_tokens": 152562,
+  "n_questions": 3,
+  "duree_s": 58.9,
+  "refus_correct": null,
+  "faux_refus": 1,
+  "tokens_cache_lus": 554400,
+  "tokens_entree_pleins": 126,
+  "latence_p50": 22.52,
+  "par_question": [
+    {
+      "id": "q001",
+      "type": "neologisme_maison",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nDans R-XVII, le gradient de composition se lit par un arbre de questions successives, et portage et porté ne se séparent pas par le même critère que celui qui sépare les trois premiers régimes entre eux.\n\n**Le critère principal (lieu d'endossement du coût)** distingue clôture / portage / agrégat : endogène (clôture), exogène (portage), absent (agrégat). Mais ce critère ne suffit pas à distinguer portage et porté, puisque le porté n'est pas défini par où tombe le coût mais par sa relation à ce qui le porte.\n\n**Le critère qui sépare portage et porté** est explicitement désigné comme *distinct du coût* — c'est l'axe **actif / inerte** :\n\n> « (3) Dans le régime de portage, par un critère distinct du coût, actif ou inerte : ce qui compose et maintient activement la forme est le portage ; la forme composée et maintenue, à coût marginal d'inscription, est le porté. »\n\nLa table de discrimination le confirme ligne par ligne :\n\n| Test | Portage (2) | Porté (3) |\n|------|-------------|-----------|\n| Actif (compose) ou inerte (composé) ? | Actif | Inerte |\n| Qui endosse l'irréversibilité ? | L'hôte | Son porteur |\n| Forme restaurable à l'identique (rollback) ? | — | Oui |\n| Coût d'inscription marginal ? | Non | Oui |\n\nConcrètement : le **portage** est le processus qui compose et maintient activement — c'est lui qui régénère, qui active, qui paie (même si ce paiement est réfracté sur un hôte plutôt qu'endogène à une clôture). Le **porté** est la forme stable qu'un portage maintient, sans cycle propre — elle est qualifiée par quatre critères durcis (Carried.lean v3) : invariance sous rollback (restauration à l'identique par ré-activation), coût marginal d'inscription (ré-instanciation très faible devant la production initiale), hétérogénéité des porteurs (portable sur substrats différents sans altération de forme), inscription puis activation.\n\nExemple donné dans le texte : « l'acte de parole est le portage qui active et maintient » le mot, tandis que « le langage écrit est un porté ». De même, pour le LLM : « poids = porté ; inférence = portage ».",
+      "latence_s": 22.55,
+      "usage": {
+        "entree": 35,
+        "sortie": 1384,
+        "cache_ecrit": 277200,
+        "cache_lu": 0,
+        "taux_cache": 0.0
+      }
+    },
+    {
+      "id": "q002",
+      "type": "neologisme_maison",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "reponse": "VERDICT: repondre\n\nLa **réfraction opératoire** désigne le fait qu'un même opérateur du système — coût, irréversibilité, normativité, parasitisme — ne s'applique pas de façon uniforme à une entité, mais se scinde différemment selon le lieu où l'irréversibilité matérielle est effectivement endossée. C'est l'objet du théorème **NT-III** (« Loi de réfraction opératoire », ∎) :\n\n> « L'application d'un opérateur du système […] à une entité dépend du lieu d'endossement matériel de l'irréversibilité (XV) le long du gradient de composition (R-XVII). »\n\nTrois cas illustrent cette scission :\n- **Clôture** (R-XVII-1) : l'opérateur s'applique directement — le lieu d'effet et le lieu de coût coïncident.\n- **Portage normatif** (R-XVII-2) : l'opérateur se scinde — le motif porté a une forme et une identité descriptive, mais le coût et l'irréversibilité sont réfractés sur le substrat porteur (lieu d'effet ≠ lieu de coût).\n- **Agrégat** : l'opérateur ne s'applique pas — erreur de catégorie s'il est invoqué.\n\nLe texte souligne que ce cas médiatisé (portage) est *plus* informatif que le cas direct (clôture), parce qu'il révèle une structure interne de l'opérateur — la dissociabilité entre lieu d'effet et lieu de coût — que le cas de la clôture masque par identité des deux lieux.\n\nSur le plan des dépendances, la réfraction opératoire **s'appuie principalement sur le gradient de composition (R-XVII)** : c'est ce gradient — clôture/portage/porté/agrégat, défini par le lieu d'endossement du coût — qui fournit les régimes à travers lesquels l'opérateur se réfracte. Elle mobilise aussi l'irréversibilité (XV), puisque ce qui varie selon le régime, c'est précisément où se localise l'inscription irréversible de la perturbation.\n\nLe §2.6 généralise ce mécanisme au niveau du monisme du coût : IV pose un invariant structurel unique, et « la diversité empirique des coûts est la réfraction de cet invariant à travers les niveaux d'emboîtement (L) et les régimes (R-XVII) ». La réfraction opératoire est donc le nom du mécanisme par lequel un invariant unique (le coût, IV) produit une diversité de manifestations observables, sans que cette diversité implique une pluralité de coûts ontologiquement distincts.",
+      "latence_s": 22.52,
+      "usage": {
+        "entree": 42,
+        "sortie": 1860,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    },
+    {
+      "id": "q003",
+      "type": "reference_exacte",
+      "verdict": "refuser",
+      "attendu": "repondre",
+      "correct": false,
+      "reponse": "VERDICT: refuser\n\nLe texte fourni ne traite pas de cette question. La seule mention de Spinoza dans le document est une entrée de tableau comparatif (section « Démarcations ») qui se limite à ceci :\n\n« Spinoza | Dérive le conatus dans son système géométrique | Conatus par un autre chemin (XIII + XXII). Dérivation alternative »\n\nCette entrée ne mentionne ni la Partie II de l'Éthique, ni la proposition 7, ni la thèse sur l'ordre et la connexion des idées (« ordo et connexio idearum idem est ac ordo et connexio rerum »). Le document ne fournit aucun élément permettant de répondre à une question d'exégèse spinoziste sur ce point précis : il ne cite pas le texte de Spinoza, n'en discute pas le contenu doctrinal, et se contente d'indiquer que l'Ontodynamique propose une dérivation alternative du conatus à partir de ses propres théorèmes (XIII, XXII).\n\nRépondre sur le contenu réel de Spinoza, Éthique II, prop. 7, reviendrait à mobiliser des connaissances extérieures au texte fourni, ce que les règles m'interdisent ici. Si votre question porte en réalité sur la comparaison esquissée par l'Ontodynamique entre sa propre dérivation du conatus et le système spinoziste, je peux répondre dans les limites de ce que le texte en dit — mais cela reste très succinct et ne permettra pas de trancher le contenu doctrinal de la proposition 7 elle-même.",
+      "latence_s": 13.82,
+      "usage": {
+        "entree": 49,
+        "sortie": 909,
+        "cache_ecrit": 0,
+        "cache_lu": 277200,
+        "taux_cache": 1.0
+      }
+    }
+  ]
+}
