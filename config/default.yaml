@@ -70,6 +70,7 @@ generation:
   thinking: true               # adaptatif ; budget_tokens est rejeté sur ces modèles
   max_tokens: 16000
   effort: high                 # low | medium | high | xhigh | max
+  cache_ttl: 1h                # 5m par défaut : trop court pour une passe d'éval
 
 # Jalon 10 : deux process, deux modèles distincts (§A2A)
 a2a:

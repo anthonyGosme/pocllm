@@ -36,7 +36,8 @@ def make_provider(cfg: dict):
     if p == "anthropic":
         from pocllm.llm.anthropic_provider import AnthropicProvider
         return AnthropicProvider(model=cfg.get("model", "claude-opus-5"),
-                                 thinking=cfg.get("thinking", True))
+                                 thinking=cfg.get("thinking", True),
+                                 cache_ttl=cfg.get("cache_ttl", "1h"))
     if p == "ollama":
         from pocllm.llm.ollama_provider import OllamaProvider
         return OllamaProvider(model=cfg.get("model", "llama3.1:8b"))

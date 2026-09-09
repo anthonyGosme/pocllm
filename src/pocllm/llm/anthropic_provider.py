@@ -26,7 +26,7 @@ class AnthropicProvider:
     name = "anthropic"
 
     def __init__(self, model="claude-opus-5", api_key=None, base_url=None,
-                 thinking=True, timeout=600.0):
+                 thinking=True, timeout=600.0, cache_ttl="1h"):
         import anthropic
         key = api_key or os.environ.get("POCLLM_ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_API_KEY")
         if not key:
@@ -37,7 +37,7 @@ class AnthropicProvider:
         if base_url:                       # jamais hérité de l'environnement
             kw["base_url"] = base_url
         self.client = anthropic.Anthropic(**kw)
-        self.model, self.thinking = model, thinking
+        self.model, self.thinking, self.cache_ttl = model, thinking, cache_ttl
 
     def generate(self, system, messages, max_tokens=16000, cache_system=False, effort=None):
         # Le bloc système porte le point de cache : stable en tête, volatil en queue.
@@ -45,7 +45,14 @@ class AnthropicProvider:
             system = [{"type": "text", "text": system}]
         if cache_system and system:
             system = [dict(b) for b in system]
-            system[-1]["cache_control"] = {"type": "ephemeral"}
+            # TTL explicite. Par défaut le cache expire en 5 minutes ; or une passe
+            # de 38 questions sur 152 k tokens de contexte dure bien davantage, et
+            # le cache expirerait en cours de route — on repaierait alors le
+            # contexte plein à chaque question, soit un facteur 5 à 10 sur la note.
+            cc = {"type": "ephemeral"}
+            if self.cache_ttl:
+                cc["ttl"] = self.cache_ttl
+            system[-1]["cache_control"] = cc
 
         kw = dict(model=self.model, max_tokens=max_tokens, system=system, messages=messages)
         if self.thinking and self.model in ADAPTIVE_THINKING:
