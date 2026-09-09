@@ -11,3 +11,8 @@ logs/
 # Le reste se recalcule en local et ne mérite pas d'être versionné :
 data/chunks/
 data/index/
+
+# Secrets — le dépôt est public
+.env
+.env.*
+!.env.example
