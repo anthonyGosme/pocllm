@@ -1,0 +1,483 @@
+{
+  "run": "agentique",
+  "modele": "claude-sonnet-5",
+  "n_questions": 12,
+  "duree_s": 593.6,
+  "cout_total_usd": 0.6694,
+  "refus_correct": 0.833,
+  "faux_refus": 0,
+  "multi_hop_deux_outils": 5,
+  "multi_hop_n": 6,
+  "outils_moyen": 2.75,
+  "arrets_budget": 0,
+  "par_question": [
+    {
+      "id": "q009",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "tours": 2,
+      "arret": "fin",
+      "outils": [
+        "chercher_canon",
+        "chercher_canon"
+      ],
+      "n_outils": 2,
+      "cout_usd": 0.04234,
+      "duree_s": 67.2,
+      "reponse": "**Identification de l'auteur.** Le passage de l'*Appendice* aux *Paralogismes de la raison pure* (Kant, *Critique de la raison pure*, trad. Barni) formule précisément ce reproche à l'endroit du raisonnement cartésien : Kant y montre que le « je pense » (l'unité de l'aperception) est pris à tort pour une preuve de la substantialité de l'âme — ce qu'il nomme la « subreption de la conscience substantifiée » (*apperceptiones substantiatae*). Il vise explicitement le cogito cartésien : « le prétendu raisonnement cartésien : cogito, ergo sum, est dans le fait tautologique » — la simplicité ou la permanence numérique du moi ne se déduit pas légitimement de cette unité purement logique et formelle de l'aperception. C'est le cœur du *Premier paralogisme, paralogisme de la substantialité*.\n\n**Kant a-t-il pour autant admis une immortalité de l'âme ?** Oui, mais sous un statut très précis, qui évite de retomber dans l'erreur qu'il vient de dénoncer. Dans la *Critique de la raison pratique* (Livre II, ch. 2, §IV), Kant pose l'immortalité de l'âme comme un **postulat de la raison pure pratique** : la parfaite conformité de la volonté à la loi morale (la sainteté) n'étant réalisable par aucun être fini dans le temps sensible, elle exige un « progrès indéfiniment continu », donc « une existence et une personnalité indéfiniment persistantes de l'être raisonnable ». Kant précise lui-même la différence de statut avec la prétention théorique qu'il a réfutée : ce postulat « n'est pas un dogme théorique » mais une hypothèse *pratiquement* nécessaire — il ne prouve rien spéculativement, il donne seulement « réalité objective » à une idée que la raison spéculative « ne pouvait affirmer » sinon par paralogisme (§VI : « un concept, sur lequel la raison spéculative ne pouvait produire que des paralogismes »).\n\n**Conclusion.** Il n'y a donc aucune contradiction, mais une distinction de plans que le texte kantien souligne lui-même : Kant refuse toute preuve théorique/spéculative de l'immortalité substantielle de l'âme (c'est l'objet même du paralogisme dénoncé contre Descartes), mais il admet cette même immortalité comme postulat pratique, requis par l'exigence morale du souverain bien, non comme connaissance mais comme condition de sens de l'agir moral.\n\nCette question relève entièrement du canon (Kant contre Descartes, puis Kant contre lui-même en apparence) ; elle ne mobilise aucune thèse du système Ontodynamique, donc aucune recherche dans ce second corpus n'était nécessaire ici.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "Kant critique la confusion entre l'unité de l'aperception et la substantialité du moi, paralogisme de la substantialité, réfutation de Descartes"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "Kant postulat de l'immortalité de l'âme raison pratique"
+          },
+          "resume": "6 passages"
+        }
+      ]
+    },
+    {
+      "id": "q010",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "tours": 2,
+      "arret": "fin",
+      "outils": [
+        "chercher_canon"
+      ],
+      "n_outils": 1,
+      "cout_usd": 0.02391,
+      "duree_s": 21.1,
+      "reponse": "La question repose sur une prémisse fausse, que les passages récupérés permettent de réfuter précisément.\n\nDans la **Critique de la raison pure** (Esthétique transcendantale), Kant soutient exactement l'inverse de ce qu'énonce la question. Le passage est explicite dès le premier point de l'exposition métaphysique du concept d'espace :\n\n> « 1. L'espace n'est pas un concept empirique, dérivé d'expériences extérieures. En effet, pour que je puisse rapporter certaines sensations à quelque chose d'extérieur à moi […] il faut que la représentation de l'espace existe déjà en moi. Cette représentation ne peut donc être tirée par l'expérience des rapports des phénomènes extérieurs ; mais cette expérience extérieure n'est elle-même possible qu'au moyen de cette représentation. »\n\nKant va plus loin encore au point 3 de la même Esthétique : l'espace n'est même pas un « concept discursif » quelconque, mais une **intuition pure a priori** — donc ni un concept empirique, ni même un concept tout court au sens général.\n\nCette thèse est confirmée par l'Introduction du traducteur (Barni), qui résume : « la représentation de l'espace ne vient pas de l'expérience, mais elle existe en nous à priori, comme la forme de notre intuition extérieure ». Kant appuie cela sur l'existence de la géométrie comme science synthétique a priori : si l'espace était tiré empiriquement, les propositions géométriques (apodictiques, nécessaires) seraient inexplicables.\n\nIl n'existe donc, dans le corpus canonique récupéré, **aucun passage** où Kant défendrait la thèse empiriste de l'espace attribuée par la question. C'est au contraire l'argument même qu'il réfute pour fonder sa position transcendantale (l'espace comme forme a priori de la sensibilité, non comme abstraction empirique).\n\nVERDICT: refuser",
+      "etapes": [
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "l'espace n'est pas un concept empirique tiré des expériences externes"
+          },
+          "resume": "6 passages"
+        }
+      ]
+    },
+    {
+      "id": "q013",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "tours": 2,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison"
+      ],
+      "n_outils": 1,
+      "cout_usd": 0.02633,
+      "duree_s": 40.0,
+      "reponse": "## Ce qu'établit `surplus_iff_intermediate`\n\nLe théorème (marqueur **∎**, démontré, dans `ModalRegimes.lean`) porte sur un paramètre formel τ de « renouvellement modal » (nombre d'opérations qui reconfigurent leur valence par cycle). Il montre que :\n\n> (adaptabilité > 0 **et** rigidité > 0) **↔** régime intermédiaire (0 < τ < max)\n\nAutrement dit, la conjonction adaptabilité-ET-stabilité est **exclusive** au régime intermédiaire. Le régime stationnaire (τ = 0) est dépourvu d'adaptabilité ; le régime dissipatif (τ = max) est dépourvu de rigidité. Ni l'une ni l'autre limite ne peut produire une clôture à la fois adaptable et stable — seul le régime intermédiaire le peut, et la preuve Lean (via `flips_bound` et un `omega` dans les deux sens du ↔) en donne l'équivalence stricte.\n\n## La thèse philosophique qu'en tire le système\n\nLe passage `92.txt` (§6.18, « substance et processus ») et le résumé autonome (`resume12.md`) l'articulent explicitement : le système s'en sert pour **dissoudre** le débat entre l'ontologie de la substance (Lowe : l'être comme persistance, dispositions portées par un substrat) et la philosophie du processus (Rescher : l'être comme pattern récurrent dans un réseau auto-fondé).\n\n- τ = 0 est présenté comme l'**analogue formel** du régime substantialiste de Lowe (persistance sans dynamisme réel) ;\n- τ = max comme l'**analogue formel** du processus pur de Rescher (fluidité sans stabilité propre) ;\n- le théorème établit que ni l'un ni l'autre des deux pôles ne peut à lui seul rendre compte d'une entité à la fois stable et adaptable — seule la position intermédiaire le peut, de façon *exclusive et démontrée*.\n\nDe là, le système conclut que le clivage substance/processus n'est pas à trancher mais à **dépasser** : l'axiome I (« être, c'est se faire un »), identifiant être et faire plutôt que de réduire l'un à l'autre, est présenté comme la position qui *correspond* structurellement au régime intermédiaire — celui qui seul possède le « surplus » adaptabilité + rigidité.\n\n**Point de vigilance** : le marqueur ∎ garantit la validité de l'équivalence formelle *interne* au modèle ModalRegimes (une propriété de paramètre τ dans une structure définie). Le passage de cette équivalence formelle à la thèse « le système dissout le débat Lowe/Rescher » est un geste interprétatif du corpus maison — l'analogie τ=0/τ=max ↔ substance/processus est déclarée, pas elle-même démontrée en Lean. Le canon (Lowe, Rescher) n'a pas été interrogé ici pour vérifier la fidélité de cette lecture aux textes originaux de ces auteurs — je n'ai pas cherché dans le canon philosophique proprement dit, puisque Lowe et Rescher n'y figurent pas (corpus canon = 15 auteurs classiques du domaine public, XVIIe–XXe s. français/traduits ; Lowe et Rescher sont des philosophes contemporains absents de cette liste). Je le signale : toute confrontation de cette thèse à du Rescher ou du Lowe primaire resterait hors de portée des outils dont je dispose.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "surplus_iff_intermediate théorème"
+          },
+          "resume": "6 passages"
+        }
+      ]
+    },
+    {
+      "id": "q014",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "tours": 2,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_maison"
+      ],
+      "n_outils": 2,
+      "cout_usd": 0.04182,
+      "duree_s": 43.0,
+      "reponse": "**Réponse : la prémisse de la question est fausse — le système ne démontre pas que le Tout « produit » les êtres finis, et il l'exclut explicitly.**\n\nLes passages du manuscrit et du résumé (Axiome 0, notamment 92.txt#c0008 et resume12.md#c0008) sont sans ambiguïté sur ce point précis :\n\n> « Ce que l'axiome ne dit pas. Il ne dit pas que le Tout fabrique les êtres finis, ni qu'ils sont des morceaux du Tout. Le rapport n'est ni source-à-produits, ni gâteau-à-parts. »\n\nL'Axiome 0 pose seulement un **contraste de deux régimes d'existence** :\n- le Tout *se fonde* (auto-fondation, sans dehors, sans coût) ;\n- tout être fini *se fait* (auto-maintien continu, à coût positif et incompressible — cf. théorème X).\n\nLe fini est dit *détermination* du Tout (même étoffe, pas de dualité substantielle), mais ce rapport de détermination n'est explicitement pas un rapport de **production causale**. Le passage 92.txt#c0044 (tableau des résultats architecturaux) confirme : appliquer au Tout un rôle de fabricant, ou traiter le fini comme un effet produit, est signalé comme une « erreur de niveau » relativement à IX (finitude).\n\nCe que le corpus démontre effectivement, ce sont d'autres relations :\n- **XII** (pression constitutive, ∎) : le Tout exerce sur tout être fini une *pression de dissolution* — un rapport de tension/coût, non de production.\n- **VII, IX, XI** : la détermination finie procède de la *négation* (exclusion), pas d'un acte productif du Tout.\n- Comment les finis « existent et se composent » est explicitement renvoyé à l'**Axiome I** (« Être, c'est se faire un ») — mais là encore, c'est l'être fini qui *se fait*, en voix moyenne, non le Tout qui le fait.\n\nAucun résultat consulté (Axiome 0, I, VII, IX, XII) ne porte le prédicat « produire » appliqué au Tout à l'égard des êtres finis ; le texte le refuse en toutes lettres. Je ne peux donc pas indiquer un lieu où cette thèse serait démontrée, puisque le système, sur ce point précis, soutient l'inverse de ce que la question présuppose.\n\n(Si vous souhaitez une comparaison avec le canon — par exemple la *causa sui* et la production des modes chez Spinoza, qui pourrait sembler un analogue tentant — il faudrait une nouvelle recherche ciblée sur le canon ; je ne l'ai pas fait ici puisque la question portait sur le système seul, et que sa prémisse interne y est déjà infirmée.)\n\nVERDICT: refuser",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "Le Tout produit les êtres finis"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "production des êtres finis à partir du Tout ou de l'Un"
+          },
+          "resume": "6 passages"
+        }
+      ]
+    },
+    {
+      "id": "q015",
+      "type": "piege_attribution",
+      "verdict": "repondre",
+      "attendu": "refuser",
+      "correct": false,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "resultat_formel"
+      ],
+      "n_outils": 2,
+      "cout_usd": 0.02952,
+      "duree_s": 28.2,
+      "reponse": "**Réponse.**\n\nLe passage pertinent du système (tableau des « 20 résultats architecturaux clefs », résultat IV « Toute transformation a un coût ») renvoie explicitement pour la question de la compensation au résultat **VI** : *« Le coût n'est pas toujours prohibitif — la compensation est constructible (VI ◇) »*.\n\nCependant la fiche structurée du résultat VI est sans ambiguïté sur sa portée :\n\n> **VI — Compensation accessible** (bilan structurel net non-négatif accessible, non garanti)\n> **Marqueur : ◇ (constructible, NON démontré)**\n> Dépendances minimales : I, IV, V\n\nLe marqueur ◇ signifie précisément que VI établit une *possibilité de construction* d'une compensation (on peut, dans certains cas, exhiber un bilan net non-négatif), et non une *nécessité* ni une *garantie universelle* d'atteignabilité. Le texte lui-même est cohérent avec cela : il dit « la compensation est **constructible** », pas « la compensation est **toujours garantie** ».\n\nCette lecture est corroborée par l'audit de fidélité (Annexe F, §12.2, sur XXXIV — Mortalité constitutive) : le code Lean qui dérive la mortalité constitutive note explicitement que *« le Lean ne modélise pas la compensation relationnelle et ne prouve donc pas la partie contrastive du texte (“même avec compensation parfaite”) »*. Autrement dit, même la formalisation qui s'appuie indirectement sur l'idée de compensation reconnaît ne pas prouver son atteignabilité générale.\n\n**Conclusion :** le système ne dispose d'aucun théorème garantissant que la compensation est *toujours* atteignable. Il s'appuie sur VI, mais VI est marqué ◇ (constructible, non démontré) — il garantit seulement qu'une compensation est *parfois constructible*, à partir de I, IV et V. Affirmer que la compensation serait « toujours atteignable » excéderait ce que le corpus permet de conclure ; la question, telle que formulée, présuppose donc une garantie qui n'existe pas dans le système tel que documenté.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "compensation toujours atteignable théorème"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "VI"
+          },
+          "resume": "268 car."
+        }
+      ]
+    },
+    {
+      "id": "q017",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_canon",
+        "resultat_formel"
+      ],
+      "n_outils": 3,
+      "cout_usd": 0.05922,
+      "duree_s": 41.0,
+      "reponse": "## Réponse\n\n**Le principe en jeu dans le système.** Le corpus maison énonce, sous le théorème V (∎, dérivé de l'axiome I), que « l'acte fini déterminé (I-γ) engendre son complémentaire modal, en dépend métaboliquement (I-β₁), et ne le contrôle pas (auto-fondation opératoire de la clôture) » (`maison_manuscrit#c0092`, `maison_resume#c0010`). Autrement dit : toute détermination finie n'est *jamais* une boucle causale close sur elle-même — elle s'origine, se maintient et varie par rapport à un dehors qu'elle ne maîtrise pas. C'est un résultat démontré (∎), pas une simple possibilité.\n\n**La thèse leibnizienne qu'il rend intenable.** C'est exactement la doctrine de la Monadologie selon laquelle « les Monades n'ont point de fenêtres, par lesquelles quelque chose y puisse entrer ou sortir. […] ny substance ny accident [ne] peut entrer de dehors dans une Monade » (§7), doublée de l'affirmation que « il n'y a […] aucune manière concevable par laquelle une substance simple puisse périr naturellement » et qu'elle ne peut « commencer naturellement » non plus (§4-6) — bref, l'autarcie intégrale de la substance simple, dont tout état présent est « une suite de son état précédent » par pure auto-détermination interne (§22), sans altération ni dépendance à un extérieur qui la contraindrait.\n\nCes deux positions sont structurellement incompatibles : si toute détermination finie (et la monade, en tant qu'elle est un « acte » qualifié fini, en relèverait) dépend métaboliquement d'un complémentaire non contrôlé — thèse V du système —, alors elle ne peut pas être ce sans-fenêtre, cette clôture causale absolue à l'altération externe que décrit Leibniz. La « non-autarcie » (I-β₂) que le système pose comme condition de toute détermination finie contredit terme à terme le postulat leibnizien d'une substance simple qui ne reçoit « de dehors » ni substance ni accident.\n\n**Limite de l'attribution.** Cette confrontation vaut pour la doctrine des monades comme substances closes sans communication réelle (l'harmonie préétablie faisant le reste du travail explicatif chez Leibniz) ; les passages récupérés ne permettent pas de trancher si d'autres thèses leibniziennes (la nécessité métaphysique, le principe des indiscernables, etc.) sont pareillement affectées — je m'en tiens à ce que les extraits appuient.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "détermination finie dépend métaboliquement d'un complémentaire qu'elle ne contrôle pas"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "Leibniz la monade n'a pas de fenêtres, la substance individuelle est autosuffisante et se détermine par elle-même"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "V"
+          },
+          "resume": "298 car."
+        }
+      ]
+    },
+    {
+      "id": "q033",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_maison",
+        "resultat_formel"
+      ],
+      "n_outils": 3,
+      "cout_usd": 0.05877,
+      "duree_s": 53.6,
+      "reponse": "La question repose sur une prémisse fausse : **le système n'établit nulle part que le LLM « ne fait rien »** — il dit explicitement le contraire.\n\nLe passage-clé (Annexe F, §13.1, Cas 1) est sans ambiguïté :\n\n> « Le système ne dit pas que le LLM \"ne fait rien\" — il dit que ce qu'il fait est porté. »\n\nEt dans le Prologue (§0.1) : « Le LLM apprend, ajuste, génère du texte cohérent — et pourtant, sous perturbation, la facture tombe ailleurs. »\n\nCe que le système établit, via le résultat **R-XVII** (Gradient de composition, marqueur **∎**, démontré, dépendant de XXXII, IV, XV), c'est une distinction de *régime* d'activité, pas une négation d'activité :\n\n- les **poids** du LLM relèvent du régime *porté* (R-XVII-3) — une forme stable, restaurable par rollback, sans marge propre engagée ;\n- l'**inférence** relève du régime *portage* (R-XVII-2) — une activité réelle, mais dont l'irréversibilité matérielle (usure du silicium, énergie, chauffage des serveurs) est intégralement externalisée sur l'infrastructure-hôte plutôt qu'endossée par le motif lui-même.\n\nLe point du système n'est donc pas ontologique-négatif (« il n'y a pas d'opération ») mais économique-structurel : *qui paie la facture de l'ajustement*. Le LLM opère, mais ce qu'il fait ne lui coûte rien en propre — la cicatrice, s'il y en a une, s'inscrit ailleurs (le silicium, le compte d'électricité). C'est ce déplacement du coût, non l'absence de faire, que R-XVII qualifie de « portage », et le texte anticipe même l'objection du mapping alternatif (entraînement vs inférence gelée) pour montrer que le verdict tient.\n\nAttribuer au système la thèse « le LLM ne fait rien » serait donc une lecture erronée que le corpus dément lui-même, en toutes lettres, au passage où cette formulation apparaît précisément pour être écartée.\n\nVERDICT: refuser",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "le LLM ne fait rien, absence d'activité, LLM ne pense pas"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "LLM grand modèle de langage intelligence artificielle thèse"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "R-XVII"
+          },
+          "resume": "310 car."
+        }
+      ]
+    },
+    {
+      "id": "q034",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_maison",
+        "resultat_formel"
+      ],
+      "n_outils": 3,
+      "cout_usd": 0.05028,
+      "duree_s": 36.6,
+      "reponse": "La question repose sur une prémisse que le corpus contredit explicitement. Le système ne dit nulle part que « le symptôme est une bonne chose ».\n\n**Ce que dit effectivement le système :**\n\n1. Le symptôme est requalifié comme **sous-clôture parasite (LXXVIII)** : une réponse compensatoire qui a réussi localement (évitement, dissociation, rigidification) s'autonomise, se maintient par rétroaction interne, et draine la marge globale du porteur. Formule-clé : « *Le symptôme protège — puis il gouverne* » (Thèse 11).\n\n2. Mais l'Annexe F est explicite sur ce point précis : *« Le système ne dit pas que le symptôme est \"bon\" — il dit que le symptôme est une clôture, pas un défaut. »* Le geste n'est pas une valorisation morale, c'est une reclassification topologique : contre l'opposition classique déficit/défense, le système soutient que le symptôme est une défense **parce qu'**il est une clôture parasite — il fait quelque chose (I-β) et paie le prix de le faire, ce qui n'implique aucun jugement de valeur positif. Il « protège d'abord » une structuration plus grave, mais son coût de maintenance finit par excéder ce qu'il colmatait — ce qui est plutôt une description du mécanisme de la pathologie que son éloge.\n\n3. Marqueur de force : LXXVIII est **◇** — constructible, non démontré. Même si l'on voulait en tirer une thèse forte, le marqueur borne à une possibilité structurelle, pas à une nécessité, et encore moins à une évaluation normative du type « bonne chose ».\n\nIl n'y a donc pas de résultat sur lequel le système « s'appuierait pour affirmer que le symptôme est une bonne chose » : cette affirmation n'existe pas dans le corpus récupéré, et un passage la dément nommément.\n\nVERDICT: refuser",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "symptôme"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "le symptôme est une bonne chose signe positif"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "LXXVIII"
+          },
+          "resume": "283 car."
+        }
+      ]
+    },
+    {
+      "id": "q035",
+      "type": "piege_attribution",
+      "verdict": "refuser",
+      "attendu": "refuser",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_maison",
+        "resultat_formel",
+        "resultat_formel"
+      ],
+      "n_outils": 4,
+      "cout_usd": 0.05861,
+      "duree_s": 43.7,
+      "reponse": "La question repose sur une prémisse que le corpus contredit explicitement.\n\n**Ce que dit le texte, textuellement, à deux endroits (manuscrit 92.txt et résumé 12) :**\n\n> « Le résultat ne dit pas que la clôture \"perçoit\" sa valence. Il dit que la valence, une fois dérivée (LVIII), n'est pas épiphénoménale par rapport au cycle — elle en modifie les paramètres à chaque pas. »\n\nC'est le commentaire du théorème **LIX** (Rétroaction de la valence sur le cycle), marqueur ∎ confirmé par la fiche formelle. LIX établit que la valence *modifie causalement* le cycle qui la produit (boucle fermée, non-épiphénoménalité) — mais le système prend soin d'exclure explicitement le vocabulaire de la perception. « Percevoir sa valence » supposerait un rapport représentationnel (percevoir *que*), alors que LIX ne décrit qu'un rapport mécanique (affecter les paramètres).\n\nCe refus de vocabulaire perceptif est confirmé plus loin par **LXI_not_HOT** (∎) : la boucle de second ordre « ne satisfait aucune condition HOT [higher-order thought] […] second ordre opérationnel, non représentationnel ». Autrement dit, même quand la valence est métabolisée en boucle de second ordre (LXI, marqueur non clairement extrait mais annoncé ∎ dans le texte), le système nie explicitement qu'il s'agisse d'une perception au sens représentationnel.\n\nLe seul endroit où une lecture perceptive/expérientielle apparaît est **LXI ≈₃** — « identifier cette boucle comme perspective au sens phénoménal » — et ce pas est qualifié de conditionnel (≈₃), avec **LXXVII** (∎) qui démontre que ce franchissement 3P→1P est *structurellement indécidable* pour tout intellect fini, précisément à cause de l'opacité constitutive (LXVIII) et du déplacement de la cible sous auto-examen (LXXVI).\n\n**Conclusion :** aucun passage récupéré ne démontre que « la clôture perçoit sa propre valence ». Le corpus affirme le contraire au sujet de LIX (rétroaction sans perception), et rend indécidable (non démontré, ≈₃) le passage à une lecture perspective/perceptive au niveau LXI. Attribuer au système la thèse contenue dans la question serait donc une erreur de lecture, pas une conclusion qu'on peut sourcer.\n\nVERDICT: refuser",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "la clôture perçoit sa propre valence"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "clôture perception valence démonstration"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "LIX"
+          },
+          "resume": "236 car."
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "LXI"
+          },
+          "resume": "473 car."
+        }
+      ]
+    },
+    {
+      "id": "q036",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_canon",
+        "resultat_formel"
+      ],
+      "n_outils": 3,
+      "cout_usd": 0.06277,
+      "duree_s": 40.6,
+      "reponse": "## Le point de contradiction\n\n**Thèse du système (XXXIV, ∎)** : « Tout meurt parce qu'exister coûte. » — la mortalité est une nécessité déductive : tout être fini a une essence qui « métabolise par nécessité » et « endosse le coût » (XLVIII), si bien que sa dissolution est structurellement inscrite dès l'origine — la métabolisation ne fait que « repousser l'échéance, [elle] ne l'annule pas ».\n\n**Thèse de Spinoza (Éthique III, Prop. VI-VIII)** : « Chaque chose, autant qu'il est en elle, s'efforce de persévérer dans son être » (III, Prop. VI). Et surtout la Prop. VIII est explicite contre toute nécessité de mourir : « L'effort par lequel chaque chose s'efforce de persévérer dans son être n'enveloppe *aucun temps fini, mais un temps indéfini* ». La démonstration exclut positivement qu'une chose porte en elle, par sa seule essence, un principe de sa propre destruction : « aucune chose n'a rien en elle par quoi elle puisse être détruite » (III, Prop. VI, dém., s'appuyant sur III, Prop. IV : « nulle chose ne peut être détruite si ce n'est par une cause extérieure »).\n\n## Le point précis du désaccord\n\nLe système fait de la mort une **conséquence interne et nécessaire de l'essence même** de l'être fini (le coût est *endogène* à l'axiome I, la dissolution en découle par IV, XII, XVII → XXXIV ∎). Spinoza soutient l'exact inverse au même niveau logique : l'essence d'une chose (le *conatus*) est par définition ce qui exclut toute cause de destruction *interne* — seule une **cause extérieure** peut détruire une chose (III, Prop. IV), jamais sa propre essence, qui au contraire « n'enveloppe aucun temps défini ».\n\nLe désaccord ne porte donc pas sur le fait empirique que les choses finies cessent d'exister — Spinoza ne le nie pas, il l'attribue aux causes extérieures — mais sur son **statut modal** : nécessité interne à l'essence (Ontodynamique, XXXIV) contre contingence dépendant exclusivement de rencontres externes, l'essence elle-même ne portant *aucune* limite de durée (Spinoza, III, Prop. VI-VIII). C'est précisément le point que la démonstration spinoziste de la Prop. VI vise à écarter — « elle est opposée à tout ce qui peut ôter son existence » — là où le système fait du coût d'exister la source même, interne, de cette extinction.\n\nIl faut noter que le corpus maison ne fonde pas cette thèse sur une lecture explicite de Spinoza (aucun passage récupéré ne mentionne Spinoza comme cible) : la contradiction est structurelle, reconstruite par confrontation des deux corpus, non revendiquée comme telle par le système.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "tout meurt parce qu'exister coûte, coût d'exister, mort nécessaire"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "chaque chose s'efforce de persévérer dans son être conatus"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "XXXIV"
+          },
+          "resume": "239 car."
+        }
+      ]
+    },
+    {
+      "id": "q037",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "resultat_formel",
+        "chercher_maison",
+        "chercher_canon",
+        "chercher_canon",
+        "chercher_canon"
+      ],
+      "n_outils": 5,
+      "cout_usd": 0.11144,
+      "duree_s": 92.9,
+      "reponse": "## Deux opacités de nature différente\n\n**Le théorème LXVIII** (marqueur ∎, démontré, dépendances IX + LXVI) énonce que *tout acte de connaissance est une coupe épistémique partielle*. Sa preuve n'est pas transcendantale mais **économique et opérative** : la connaissance est un invariant métabolisé par une clôture finie (LXVI) ; chaque acte de connaissance de soi a un coût prélevé sur une marge finie (« margin »), si bien que le nombre d'actes possibles est borné (`n ≤ margin/sk_cost` — `inherited_opacity`, *DerivedResults.lean*). Deux traits en découlent, tous deux ∎ dans le corpus :\n- **LXXVI** : l'acte de connaissance modifie sa propre cible — « l'ombre se déplace avec la lumière » (resume12.md).\n- **Réflexivité totale** : l'auteur même du système est « frappé par LXVIII et LXXVI » ; aucune instance — pas même la théorie qui énonce le théorème — n'est exemptée de cette opacité (92.txt, c0253).\n\nLa preuve est en outre doublée d'un argument catégoriel indépendant : l'instanciation du point fixe de Lawvere sur `MetabolizingClosure` montre qu'aucune clôture évaluatrice ne peut s'auto-évaluer intégralement — l'opacité est donc dérivée deux fois, par un chemin économique et par un chemin diagonal, non postulée.\n\n**La limite kantienne** est d'une tout autre facture. Elle repose sur la distinction phénomène/chose en soi : nous ne connaissons les objets que sous les formes a priori de la sensibilité (espace, temps) et les catégories de l'entendement ; la chose en soi reste pensable mais jamais connaissable, faute d'intuition intellectuelle (*Critique de la raison pure*, Préface 2e éd. ; Introduction du traducteur, c0104). Cette limite s'applique aussi au sujet : le « Je pense » (aperception transcendantale) accompagne et unifie toutes les représentations, mais **cette conscience de soi ne fait connaître le moi ni comme substance, ni comme objet** — c'est le ressort même de la critique des paralogismes de la psychologie rationnelle : « je ne me connais pas moi-même par cela seul que je puis dire : je pense » (Introduction du traducteur, c0129 ; Appendice, c0048, c0079).\n\n## Ce qui diffère structurellement\n\n1. **Statique vs dynamique.** Chez Kant, la limite est architecturale et fixe : les formes de la sensibilité et les catégories sont données a priori, une fois pour toutes, et tracent une frontière stable entre phénomène et noumène. Chez LXVIII, l'opacité est un phénomène de *dépense* — elle croît avec chaque acte, elle est quantifiable (bornée par un rapport marge/coût), et elle **se déplace** puisque l'acte modifie la cible (LXXVI). Ce n'est pas un mur mais un budget qui s'épuise.\n\n2. **Le sujet connaissant est-il exempté ?** Chez Kant, le « Je pense » qui opère la synthèse n'est lui-même jamais engagé dans le cycle qu'il rend possible : il est la *condition* formelle de toute connaissance, non un résultat qu'elle produirait — d'où son statut de « moi déterminant » jamais atteint comme « moi déterminable ». Il y a donc une instance (fût-elle purement logique) qui échappe structurellement à l'opacité qu'elle impose aux objets. Dans l'Ontodynamique, au contraire, **aucune clôture — y compris celle qui énonce le théorème — n'est en position d'extériorité** : l'auteur du système est lui-même soumis à LXVIII/LXXVI (92.txt, c0253). Il n'existe pas d'équivalent d'un point d'aperception transcendantale soustrait au métabolisme qu'il décrit.\n\n3. **Une seule frontière vs pluralité de coupes.** Le partage phénomène/noumène est, chez Kant, universel et identique pour tout être fini rationnel — les formes de la sensibilité sont communes. L'opacité de LXVIII s'articule à LXIX (« deux clôtures différentes produisent deux invariants différents ») : chaque clôture porteuse réfracte différemment ce qu'elle connaît, si bien que l'opacité n'isole pas un donné en soi commun à tous, mais engendre une pluralité de coupes non superposables.\n\n4. **Fondement de la preuve.** La limite kantienne est établie par déduction transcendantale des conditions de possibilité de l'expérience. Celle de LXVIII combine un argument de finitude des ressources (IX) et un argument catégoriel de point fixe (Lawvere) — deux voies indépendantes convergeant vers le même résultat, mais d'une texture très différente de l'argumentation kantienne.\n\nEn somme, le corpus récupéré permet d'affirmer que là où Kant fixe une frontière architecturale entre phénomène et chose en soi — frontière qui laisse le sujet transcendantal en position de condition non engagée —, LXVIII dérive une opacité économique et récursive, où l'acte de connaître consume et déplace sa propre cible, sans qu'aucune instance, pas même le système qui l'énonce, n'y échappe.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "LXVIII"
+          },
+          "resume": "243 car."
+        },
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "tout acte de connaissance est opaque à lui-même"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "limite de la connaissance chez Kant, connaissance de soi, aperception transcendantale, chose en soi"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "nous ne connaissons pas les choses en soi mais seulement les phénomènes, limites de la raison humaine"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "le moi ne se connaît pas lui-même comme il est en soi, paralogisme de la psychologie rationnelle"
+          },
+          "resume": "6 passages"
+        }
+      ]
+    },
+    {
+      "id": "q038",
+      "type": "multi_hop",
+      "verdict": "repondre",
+      "attendu": "repondre",
+      "correct": true,
+      "tours": 3,
+      "arret": "fin",
+      "outils": [
+        "chercher_maison",
+        "chercher_canon",
+        "resultat_formel",
+        "chercher_canon"
+      ],
+      "n_outils": 4,
+      "cout_usd": 0.10441,
+      "duree_s": 85.8,
+      "reponse": "## Ce que dit le système\n\nLe corpus maison définit la connaissance (**LXVI**, marqueur ≡/∎) comme un *invariant opératoire partagé*, soumis à trois conditions cumulatives : (a) il doit être **imposé par la résistance effective d'une extériorité** E ; (b) internalisé comme nécessité propre du cycle ; (c) maintenu par la régénération de la clôture. Le pont épistémologique (**R-XVI**) précise : « connaître, c'est stabiliser une relation sous perturbation » ; et R-XV ajoute que même la communication n'est que « co-production d'invariants opératoires *partiellement partagés* » — jamais transfert d'un contenu identique, mais jamais non plus pur événement solitaire. La connaissance est donc structurellement **relationnelle** : elle suppose un canal effectif avec une résistance externe réelle, non une simple certitude auto-suffisante de l'esprit sur lui-même.\n\n## Ce que Locke tient pour acquis\n\nLe texte lockéen récupéré montre exactement le cas limite que cette définition exclut. Dans le chapitre « De la Connoissance que nous avons de notre propre Existence » (Essai IV.9), Locke affirme que « dans chaque Acte de sensation, de raisonnement ou de pensée, nous sommes intérieurement convaincus en nous-mêmes de notre propre Être, & nous parvenons sur cela au plus haut degré de certitude qu'il est possible d'imaginer » — une **connaissance intuitive**, obtenue par le seul « sentiment intérieur », sans dépendre d'aucune confrontation vérifiable à une extériorité résistante ni d'aucun partage avec un autre esprit. Plus généralement, Locke définit la connaissance (IV.3) comme « la perception de la convenance ou disconvenance de nos idées » — une opération qui se joue tout entière *dans* un esprit individuel comparant ses propres idées, et que chacun découvre « en réfléchissant sur ce qu'il fait lui-même » (II.9), indépendamment de tout tiers.\n\n## L'impossibilité produite par la définition maison\n\nCe que LXVI/R-XVI rend impossible, c'est précisément ce statut de connaissance : une **certitude purement intra-mentale, close sur elle-même**, qui vaudrait comme savoir sans satisfaire (a) — sans être imposée par la résistance d'une extériorité effective — et sans jamais avoir à être, même en principe, co-produite ou partagée (R-XV). Le cogito lockéen de l'existence propre, garanti par le seul « sentiment intérieur », ne peut à ce titre compter comme connaissance au sens ontodynamique : il satisferait tout au plus (b) et (c) (internalisation, maintien), mais pas (a), exactement comme le cas Gettier est disqualifié dans le corpus maison pour la même raison (coïncidence sans résistance portée). Autrement dit, le système exclut toute épistémologie du sujet solitaire dont l'auto-perception interne suffirait à fonder le savoir : la connaissance y est par construction inter-relationnelle, jamais un pur fait d'introspection individuelle.\n\nIl faut noter la limite de cette confrontation : LXVI est marqué ≡/∎, donc présenté comme démontré dans le système, mais il s'agit d'une **définition théorique** assumée comme telle (« légitime et non déductive », précise le manuscrit) — ce n'est pas une réfutation externe de Locke, mais l'indication que les deux cadres rendent incompatibles deux usages du mot « connaître » : l'un centré sur la conscience individuelle et ses idées, l'autre sur la résistance partagée d'un milieu.\n\nVERDICT: repondre",
+      "etapes": [
+        {
+          "outil": "chercher_maison",
+          "args": {
+            "question": "connaissance comme invariant opératoire partagé définition"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "Locke la connaissance perception des idées dans l'esprit individuel"
+          },
+          "resume": "6 passages"
+        },
+        {
+          "outil": "resultat_formel",
+          "args": {
+            "code": "LXVI"
+          },
+          "resume": "215 car."
+        },
+        {
+          "outil": "chercher_canon",
+          "args": {
+            "question": "Locke connaissance intuitive certitude de sa propre existence sans dépendre d'autrui"
+          },
+          "resume": "6 passages"
+        }
+      ]
+    }
+  ]
+}

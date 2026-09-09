@@ -17,7 +17,7 @@ Le critère de réussite, posé par le cadrage : ce document doit contenir des
 | 1 · Baseline contexte complet | **fait** — 5/5 sur les pièges |
 | 2 · RAG dense seul | fait, puis invalidé et refait (voir Enseignement 1) |
 | 3 · Sparse + RRF + reranker ablatables | **en cours** — 11 configurations |
-| 4 · Boucle agentique | bloqué — pas de clé API |
+| 4 · Boucle agentique | **fait** — multi-hop résolu, 5/6 outils enchaînés |
 | 5 · Serveurs MCP | **fait** — 3 serveurs, 3 primitives chacun |
 | 6 à 10 | non commencés ; 8 et 10 bloqués sans clé API |
 
@@ -396,7 +396,44 @@ Réserve : la comparaison ne vaut que sur les pièges et le coût. Le jeu d'éva
 mesure le retrieval, or le baseline n'en a pas ; comparer les deux sur recall@k
 n'aurait aucun sens.
 
-### 16. Estimer un coût à la main se trompe ; l'instrumenter ne se trompe pas
+### 16. L'agent a raison sur le fond et tort sur l'étiquette
+
+Jalon 4, boucle écrite à la main, trois outils, 12 questions — les 6 multi-hop et
+les 6 pièges :
+
+| | valeur |
+|---|---|
+| multi-hop enchaînant ≥ 2 outils | **5 / 6** |
+| refus corrects sur les pièges | 5 / 6 (0,833) |
+| faux refus | **0** |
+| appels d'outils par question | 2,75 · aucun arrêt sur budget |
+| coût | **0,056 $/question**, contre 0,069 $ pour le baseline |
+| latence | 45 s, contre 17 s pour le baseline |
+
+Les séquences d'outils correspondent exactement à la décomposition visée : sur
+q017, q036 et q038, `chercher_maison → chercher_canon → resultat_formel` —
+la thèse maison, l'objection canonique, puis la vérification du marqueur.
+
+**Le seul échec n'en est pas un.** Sur q015, l'agent appelle `resultat_formel("VI")`,
+lit le marqueur ◇ et écrit : « affirmer que la compensation serait toujours
+atteignable excéderait ce que le corpus permet de conclure ; la question
+présuppose donc une garantie qui n'existe pas ». C'est un refus. Puis il émet
+`VERDICT: repondre`.
+
+Le raisonnement est juste, l'étiquette est fausse. Ce que mesurait ma métrique
+n'était pas l'ancrage mais **un verdict auto-déclaré** — un instrument que le
+modèle renseigne lui-même, et qui peut contredire sa propre réponse. C'est
+l'argument le plus concret en faveur du jalon 8 : le vérificateur d'ancrage doit
+être un **contrôle indépendant** sur les passages récupérés, pas une consigne de
+format que le modèle s'applique à lui-même. Même famille de défaut que
+l'enseignement 6, où un contrôle de couverture par mots-clés répondait 17/18
+alors que quatre questions n'avaient pas de source.
+
+Résultat comparatif intéressant : l'agent coûte **20 % moins cher** que le
+baseline à contexte complet (15 k tokens par question contre 290 k), mais il est
+**2,6 fois plus lent** — la latence se paie en tours d'aller-retour, pas en tokens.
+
+### 17. Estimer un coût à la main se trompe ; l'instrumenter ne se trompe pas
 
 Mes devis d'API se sont trompés deux fois de suite : d'abord d'un facteur 1,8 sur
 le comptage de tokens (enseignement 14), puis de 60 % sur les écritures de cache,
@@ -422,14 +459,14 @@ de route et se repaie. Le TTL long est donc moins cher **dès la première passe
 et notre séquence amorçage + passe complète a payé une seule écriture pour 23
 questions.
 
-### 17. Le cache de reranking, mesuré en conditions réelles
+### 18. Le cache de reranking, mesuré en conditions réelles
 
 La configuration `hybride_topk200_rerank50` a coûté **963 s au premier calcul et
 27,8 s au second** — un facteur **34,6**. C'est ce qui rend praticable un
 balayage de 15 configurations, et cela confirme l'inversion annoncée à
 l'enseignement 3 : le trafic répétitif de ce POC est la boucle d'ablation.
 
-### 18. Deux ablations invalides avant la bonne
+### 19. Deux ablations invalides avant la bonne
 
 La première mesurait un dense mixte : ma condition d'attente cherchait
 « 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si
