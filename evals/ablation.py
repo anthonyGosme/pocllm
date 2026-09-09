@@ -45,6 +45,17 @@ CONFIGS = [
                             "retrieval.sparse.top_k=200"]),
     ("hybride_topk200_rerank50", ["retrieval.dense.top_k=200", "retrieval.sparse.top_k=200",
                                   "retrieval.rerank.top_n.fast=50"]),
+    # Routage : les requêtes portant du vocabulaire absent du canon partent au
+    # sparse seul, le reste à l'hybride profond. Teste l'hypothèse née du
+    # constat que la meilleure config globale est la pire sur les néologismes.
+    ("route_topk200_rerank50", ["retrieval.dense.top_k=200", "retrieval.sparse.top_k=200",
+                                "retrieval.rerank.top_n.fast=50", "retrieval.routing.enabled=true"]),
+    ("route_df20", ["retrieval.dense.top_k=200", "retrieval.sparse.top_k=200",
+                    "retrieval.rerank.top_n.fast=50", "retrieval.routing.enabled=true",
+                    "retrieval.routing.max_canon_df=20"]),
+    ("route_sparse_pur", ["retrieval.dense.top_k=200", "retrieval.sparse.top_k=200",
+                          "retrieval.rerank.top_n.fast=50", "retrieval.routing.enabled=true",
+                          "retrieval.routing.disable_rerank=true"]),
 ]
 
 

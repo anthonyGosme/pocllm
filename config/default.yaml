@@ -44,6 +44,15 @@ retrieval:
     k: 60                            # paramètre exposé et testé (§6)
     w_dense: 1.0                     # 1.0/1.0 = RRF canonique. Pondérer permet de
     w_sparse: 1.0                    # mesurer la dilution d'une branche par l'autre.
+  # Routage par rareté documentaire : une requête portant du vocabulaire que le
+  # canon n'emploie pas relève du sparse seul, le dense ne sachant pas le
+  # représenter. Né d'un résultat mesuré, pas d'une intuition (README §11).
+  routing:
+    enabled: false
+    max_canon_df: 5              # terme vu dans <= N documents du canon
+    min_maison_df: 2             # ... et dans >= N documents maison
+    disable_rerank: false        # router vers un sparse PUR, sans reranking
+
   rerank:
     enabled: true
     profile: fast

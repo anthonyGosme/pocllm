@@ -256,24 +256,69 @@ un artefact de réglage pris pour une propriété du corpus.*
 `hybride_topk200_rerank50` gagne partout — sauf là où le sparse était parfait :
 sur les questions à néologismes, il tombe de **1,00 à 0,25**.
 
-C'est le résultat le plus contre-intuitif du POC. Le pari du cadrage était que
-l'hybride réunirait les forces des deux étages ; il les moyenne. Le vocabulaire
-idiosyncratique est exactement ce que le dense ne peut pas représenter, et le
-faire entrer dans la fusion dilue un signal qui était sans défaut.
+Le cadrage pariait que l'hybride réunirait les forces des deux étages. Il les
+moyenne. Le vocabulaire idiosyncratique est exactement ce que le dense ne sait
+pas représenter, et le faire entrer dans la fusion dilue un signal sans défaut.
 
-Conséquence pratique : la bonne architecture n'est pas une fusion unique mais un
-**routage** — envoyer les requêtes à vocabulaire maison au sparse seul, le reste
-à l'hybride profond. Le tableau agrégé ne le dit pas ; seule la ventilation par
-type le montre, et c'est l'argument le plus fort en faveur d'un jeu d'éval typé.
+### 12. Le reranking agit de façon non monotone sur le signal lexical
 
-### 12. Le cache de reranking, mesuré en conditions réelles
+En isolant l'effet de chaque étage sur les questions à néologismes :
+
+| configuration | rerank `top_n` | recall@10 |
+|---|---|---|
+| `sparse_seul` | — | **1,00** |
+| `hybride_rrf60`, `hybride_topk200` | aucun | 0,25 |
+| `hybride_rrf60_rerank` | 20 | 0,75 |
+| `hybride_topk200_rerank50` | 50 | 0,25 |
+
+Deux effets se superposent, et il a fallu les séparer pour les voir. La fusion
+avec le dense fait chuter de 1,00 à 0,25 **avant tout reranking** : le dense
+dilue. Puis le cross-encoder **rattrape à `top_n=20` (0,75) et reperd tout à
+`top_n=50` (0,25)** : plus il a de candidats à réordonner, plus il rétrograde le
+chunk trouvé par correspondance exacte au profit de voisins sémantiquement
+plausibles.
+
+C'est le contre-exemple direct à l'enseignement 10, qui montrait que la
+profondeur de candidats est ce qui fait gagner la configuration globale. La
+même profondeur détruit le type de question où le sparse est parfait. **Aucun
+réglage unique n'est bon pour les deux**, ce qui est l'argument le plus fort du
+POC en faveur d'un routage.
+
+### 13. Le routage restaure le signal lexical sans coûter de rappel
+
+Routeur écrit en conséquence : une requête portant un terme de faible fréquence
+documentaire dans le canon part au sparse seul. Le signal est mesurable et le
+seuil est dans la config, pas enfoui dans une heuristique.
+
+| configuration | recall@10 | recall@20 | MRR | néologismes |
+|---|---|---|---|---|
+| `sparse_seul` | 0,461 | 0,500 | 0,278 | **1,00** |
+| `hybride_topk200_rerank50` | **0,500** | **0,566** | **0,404** | 0,25 |
+| `route_topk200_rerank50` | 0,474 | 0,553 | 0,402 | 0,25 |
+| `route_sparse_pur` | **0,500** | 0,526 | 0,332 | **1,00** |
+
+Le routage **égale** la meilleure configuration en recall@10 tout en restaurant
+les néologismes à 1,00. Il coûte en revanche du MRR (0,332 contre 0,404) et du
+recall@20.
+
+Détail qui a demandé deux mesures : router en coupant seulement le dense ne
+restaure **rien** (0,25). Il faut couper aussi le reranker. Le premier essai
+concluait donc à tort que le dense n'était pas en cause — c'est la comparaison
+des deux variantes de routage qui a permis de trancher.
+
+**Réserve honnête :** le type `neologisme_maison` ne compte que 2 questions. Ces
+écarts sont indicatifs, pas établis. C'est précisément le trou du jeu d'éval
+que l'auteur du système doit combler, et l'enseignement 7 avait déjà montré
+qu'en dessous d'une dizaine de questions par type, une ablation ne discrimine pas.
+
+### 14. Le cache de reranking, mesuré en conditions réelles
 
 La configuration `hybride_topk200_rerank50` a coûté **963 s au premier calcul et
 27,8 s au second** — un facteur **34,6**. C'est ce qui rend praticable un
 balayage de 15 configurations, et cela confirme l'inversion annoncée à
 l'enseignement 3 : le trafic répétitif de ce POC est la boucle d'ablation.
 
-### 13. Deux ablations invalides avant la bonne
+### 15. Deux ablations invalides avant la bonne
 
 La première mesurait un dense mixte : ma condition d'attente cherchait
 « 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si

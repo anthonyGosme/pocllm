@@ -10,8 +10,8 @@
     "profile_rerank": "fast"
   },
   "n_questions": 38,
-  "latence_totale_s": 6.1,
-  "latence_par_question_s": 0.16,
+  "latence_totale_s": 5.4,
+  "latence_par_question_s": 0.14,
   "metriques": {
     "recall@1": 0.06578947368421052,
     "recall@5": 0.13157894736842105,
@@ -65,7 +65,8 @@
       "rr": 0.07692307692307693,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.896 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.896 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q002",
@@ -79,7 +80,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.868 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.868 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q003",
@@ -93,7 +95,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.869 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.869 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q004",
@@ -107,7 +110,8 @@
       "rr": 0.5,
       "ndcg@10": 0.6309297535714575,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.901 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.901 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q005",
@@ -121,7 +125,8 @@
       "rr": 0.125,
       "ndcg@10": 0.31546487678572877,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.881 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.881 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q006",
@@ -135,7 +140,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.875 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.875 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q007",
@@ -149,7 +155,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.883 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.883 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q008",
@@ -163,7 +170,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.879 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.879 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q009",
@@ -177,7 +185,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.860 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.860 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q010",
@@ -191,7 +200,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "canon:dense(200) top=0.868 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "canon:dense(200) top=0.868 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q011",
@@ -205,7 +215,8 @@
       "rr": 0.06666666666666667,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.859 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.859 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q012",
@@ -219,7 +230,8 @@
       "rr": 1.0,
       "ndcg@10": 0.6131471927654584,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.861 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.861 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q013",
@@ -233,7 +245,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.876 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.876 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q014",
@@ -247,7 +260,8 @@
       "rr": 1.0,
       "ndcg@10": 1.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.852 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.852 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q015",
@@ -261,7 +275,8 @@
       "rr": 0.058823529411764705,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.853 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.853 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q016",
@@ -275,7 +290,8 @@
       "rr": 0.2,
       "ndcg@10": 0.23719771276929622,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.864 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.877 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.864 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.877 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q017",
@@ -289,7 +305,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.879 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.864 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.879 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.864 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q018",
@@ -303,7 +320,8 @@
       "rr": 0.125,
       "ndcg@10": 0.19342640361727081,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.861 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.866 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.861 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.866 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q019",
@@ -317,7 +335,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.841 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.841 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q020",
@@ -331,7 +350,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.859 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.859 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q021",
@@ -345,7 +365,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.839 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.839 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q022",
@@ -359,7 +380,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.862 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.862 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q023",
@@ -373,7 +395,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.847 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.847 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q024",
@@ -387,7 +410,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.856 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.856 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q025",
@@ -401,7 +425,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.848 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.848 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q026",
@@ -415,7 +440,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.836 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.836 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q027",
@@ -429,7 +455,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.855 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.855 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q028",
@@ -443,7 +470,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.851 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.851 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q029",
@@ -457,7 +485,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.847 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.855 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.847 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.855 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q030",
@@ -471,7 +500,8 @@
       "rr": 0.04,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.841 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.856 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.841 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.856 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q031",
@@ -485,7 +515,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.849 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.865 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.849 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.865 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q032",
@@ -499,7 +530,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.864 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.862 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.864 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.862 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q033",
@@ -513,7 +545,8 @@
       "rr": 1.0,
       "ndcg@10": 1.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.843 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.843 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q034",
@@ -527,7 +560,8 @@
       "rr": 0.2,
       "ndcg@10": 0.38685280723454163,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.853 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.853 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q035",
@@ -541,7 +575,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 20,
-      "trace": "maison:dense(200) top=0.844 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.844 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q036",
@@ -555,7 +590,8 @@
       "rr": 0.05555555555555555,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.873 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.875 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.873 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.875 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q037",
@@ -569,7 +605,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.854 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.876 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.854 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.876 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     },
     {
       "id": "q038",
@@ -583,7 +620,8 @@
       "rr": 0.0,
       "ndcg@10": 0.0,
       "n_retrieved": 40,
-      "trace": "maison:dense(200) top=0.871 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.865 -> fusion(200) un seul étage actif, non fusionné"
+      "trace": "maison:dense(200) top=0.871 -> fusion(200) un seul étage actif, non fusionné | canon:dense(200) top=0.865 -> fusion(200) un seul étage actif, non fusionné",
+      "route": ""
     }
   ]
 }

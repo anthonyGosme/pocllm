@@ -40,16 +40,17 @@ def ndcg(gains: list[float], ideal: int, k=10) -> float:
     return dcg / idl if idl else 0.0
 
 
-def evaluate(cfg, questions, retrievers, ks=(1, 5, 10, 20)):
+def evaluate(cfg, questions, retrievers, ks=(1, 5, 10, 20), router=None):
     per_q = []
     for q in questions:
+        qcfg, motif = router.route(q["question"], cfg) if router else (cfg, "")
         cols = ["maison", "canon"] if q["corpus"] == "mixte" else [q["corpus"]]
         merged, traces = [], []
         for c in cols:
             r = retrievers.get(c)
             if r is None:
                 continue
-            res, tr = r.search(q["question"], cfg)
+            res, tr = r.search(q["question"], qcfg)
             merged += [(x, r.chunks[x.chunk_id]) for x in res]
             traces.append(f"{c}:{tr}")
         merged.sort(key=lambda t: -(t[0].rerank_score if t[0].rerank_score is not None else t[0].score))
@@ -70,6 +71,7 @@ def evaluate(cfg, questions, retrievers, ks=(1, 5, 10, 20)):
             "rr": 1.0 / first if first else 0.0,
             "ndcg@10": ndcg(gains, len(srcs)),
             "n_retrieved": len(merged), "trace": " | ".join(traces),
+            "route": motif,
         })
     return per_q
 
@@ -122,8 +124,15 @@ def main():
                           k1=r["sparse"]["k1"], b=r["sparse"]["b"],
                           protect_codes=r["sparse"].get("protect_codes", True))
                   for c in ("maison", "canon")}
+    router = None
+    if r.get("routing", {}).get("enabled"):
+        from pocllm.retrieve.routing import Router
+        router = Router(max_canon_df=r["routing"]["max_canon_df"],
+                        min_maison_df=r["routing"]["min_maison_df"],
+                        protect_codes=r["sparse"].get("protect_codes", True),
+                        disable_rerank=r["routing"].get("disable_rerank", False))
     t0 = time.perf_counter()
-    per_q = evaluate(cfg, questions, retrievers)
+    per_q = evaluate(cfg, questions, retrievers, router=router)
     dt = time.perf_counter() - t0
     agg = aggregate(per_q)
 
