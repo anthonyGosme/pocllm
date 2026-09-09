@@ -21,10 +21,14 @@ chunking:
 retrieval:
   dense:
     enabled: true
-    profile: fast                    # fast | quality
+    profile: fast                    # fast | quality | symmetric
     models:
-      fast:    sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2  # 384d, 27.8 chunks/s mesurés
-      quality: intfloat/multilingual-e5-large                               # 1024d
+      # asymétriques (recherche) — préfixes query:/passage: appliqués automatiquement
+      fast:    intfloat/multilingual-e5-small     # 5,71 chunks/s -> 69 min le corpus
+      quality: intfloat/multilingual-e5-large     # 0,68 chunks/s -> 9 h39, tirage final
+      # symétrique (paraphrase) : conservé comme ligne d'ablation, PAS comme défaut.
+      # Mesuré : chunk d'or de q006 au rang 15 342/21 600, recall@10 global 0,111.
+      symmetric: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
     top_k: 50
   sparse:
     enabled: true
@@ -38,6 +42,8 @@ retrieval:
     enabled: true
     method: rrf
     k: 60                            # paramètre exposé et testé (§6)
+    w_dense: 1.0                     # 1.0/1.0 = RRF canonique. Pondérer permet de
+    w_sparse: 1.0                    # mesurer la dilution d'une branche par l'autre.
   rerank:
     enabled: true
     profile: fast

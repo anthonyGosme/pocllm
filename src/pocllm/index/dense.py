@@ -20,9 +20,50 @@ INDEX = ROOT / "data" / "index"
 CACHE = ROOT / ".cache"
 
 PROFILES = {
-    "fast":    ("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2", 384),
-    "quality": ("intfloat/multilingual-e5-large", 1024),
+    # e5 est un modèle de recherche ASYMÉTRIQUE : il note « ce passage répond-il
+    # à cette requête ». paraphrase-* est SYMÉTRIQUE — il note « ces deux phrases
+    # disent-elles la même chose » — et pénalise donc structurellement le couple
+    # question/réponse, qui n'est pas une paraphrase. Mesuré sur ce corpus : le
+    # chunk d'or de q006 tombait au rang 15 342 sur 21 600.
+    # Débits MESURÉS sur ce CPU pour les 23 615 chunks :
+    #   e5-small 5,71 ch/s -> 69 min   | e5-base 1,62 -> 4 h03 | e5-large 0,68 -> 9 h39
+    # Seul e5-small permet la boucle d'itération que le §5 impose (deux découpages
+    # à comparer). e5-large reste accessible pour un tirage de qualité final.
+    "fast":      ("intfloat/multilingual-e5-small", 384),
+    "quality":   ("intfloat/multilingual-e5-large", 1024),
+    # conservé comme ligne d'ablation : chiffre le coût d'un modèle symétrique.
+    "symmetric": ("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2", 384),
 }
+
+# Les modèles e5 sont entraînés AVEC ces préfixes ; les omettre les dégrade fortement.
+PREFIXES = {
+    "intfloat/multilingual-e5-small": ("query: ", "passage: "),
+    "intfloat/multilingual-e5-base":  ("query: ", "passage: "),
+    "intfloat/multilingual-e5-large": ("query: ", "passage: "),
+}
+
+# fastembed ne connaît pas les petites variantes e5 ; on les enregistre depuis
+# leurs poids ONNX publiés sur le Hub.
+CUSTOM = {
+    "intfloat/multilingual-e5-small": 384,
+    "intfloat/multilingual-e5-base": 768,
+}
+_registered: set[str] = set()
+
+
+def register(model: str):
+    if model not in CUSTOM or model in _registered:
+        return
+    from fastembed import TextEmbedding
+    from fastembed.common.model_description import PoolingType, ModelSource
+    TextEmbedding.add_custom_model(
+        model=model, pooling=PoolingType.MEAN, normalization=True,
+        sources=ModelSource(hf=model), dim=CUSTOM[model], model_file="onnx/model.onnx")
+    _registered.add(model)
+
+
+def prefixes(model: str) -> tuple[str, str]:
+    return PREFIXES.get(model, ("", ""))
 
 
 class EmbeddingCache:
@@ -55,13 +96,15 @@ class EmbeddingCache:
 def embed_chunks(chunks: list[dict], profile="fast", batch=64, log=print) -> np.ndarray:
     from fastembed import TextEmbedding
     model, dim = PROFILES[profile]
-    texts = [(c.get("header", "") + "\n" + c["text"]).strip() for c in chunks]
+    _, doc_prefix = prefixes(model)
+    texts = [doc_prefix + (c.get("header", "") + "\n" + c["text"]).strip() for c in chunks]
     cache = EmbeddingCache(CACHE / "emb.sqlite", model, dim)
     keys, found = cache.get_many(texts)
     todo = [i for i, k in enumerate(keys) if k not in found]
     log(f"  {len(found)} vecteurs en cache, {len(todo)} à calculer")
 
     if todo:
+        register(model)
         emb = TextEmbedding(model)
         done, new_keys, new_vecs = 0, [], []
         for i0 in range(0, len(todo), batch):

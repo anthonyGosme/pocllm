@@ -46,14 +46,23 @@ class Trace:
                            for s in self.stages)
 
 
-def rrf(rankings: list[list[str]], k: int = 60) -> dict[str, float]:
-    """Reciprocal Rank Fusion. k amortit le poids des premiers rangs :
-    petit k = confiance aux têtes de liste, grand k = plus de place à la
-    diversité. Paramètre exposé et testé (§6)."""
+def rrf(rankings: list[list[str]], k: int = 60,
+        weights: list[float] | None = None) -> dict[str, float]:
+    """Reciprocal Rank Fusion.
+
+    `k` amortit le poids des premiers rangs : petit k = confiance aux têtes de
+    liste, grand k = plus de place à la diversité. Paramètre exposé et testé (§6).
+
+    `weights` : le RRF canonique pondère les branches à égalité, ce qui fait
+    qu'une branche faible DILUE une branche forte au lieu de la compléter —
+    observé sur ce corpus, où l'hybride tombait sous le sparse seul. Les poids
+    permettent de mesurer ce phénomène plutôt que de le subir. Défaut 1.0
+    partout, donc identique au RRF canonique."""
+    w = weights or [1.0] * len(rankings)
     out: dict[str, float] = {}
-    for ranking in rankings:
+    for ranking, wi in zip(rankings, w):
         for rank, cid in enumerate(ranking, start=1):
-            out[cid] = out.get(cid, 0.0) + 1.0 / (k + rank)
+            out[cid] = out.get(cid, 0.0) + wi / (k + rank)
     return out
 
 
@@ -66,10 +75,13 @@ class HybridRetriever:
         self._emb = None
 
     def _embed_query(self, q, model):
+        from pocllm.index.dense import prefixes, register
         if self._emb is None:
             from fastembed import TextEmbedding
+            register(model)
             self._emb = TextEmbedding(model)
-        v = np.asarray(next(iter(self._emb.embed([q]))), dtype=np.float32)
+        q_prefix, _ = prefixes(model)
+        v = np.asarray(next(iter(self._emb.embed([q_prefix + q]))), dtype=np.float32)
         return v / (np.linalg.norm(v) + 1e-9)
 
     def search(self, query: str, cfg: dict) -> tuple[list[Result], Trace]:
@@ -100,9 +112,11 @@ class HybridRetriever:
             order = legs[0]
             tr.add("fusion", len(order), "un seul étage actif, non fusionné")
         elif r["fusion"]["enabled"]:
-            scores = rrf(legs, k=r["fusion"]["k"])
+            wd, ws = r["fusion"].get("w_dense", 1.0), r["fusion"].get("w_sparse", 1.0)
+            w = [wd if leg is dense_rank else ws for leg in legs]
+            scores = rrf(legs, k=r["fusion"]["k"], weights=w)
             order = sorted(scores, key=lambda c: -scores[c])
-            tr.add("rrf", len(order), f"k={r['fusion']['k']}")
+            tr.add("rrf", len(order), f"k={r['fusion']['k']} w={wd}/{ws}")
         else:
             seen, order = set(), []
             for cid in [c for pair in zip(*legs) for c in pair]:   # entrelacement
