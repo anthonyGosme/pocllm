@@ -100,7 +100,8 @@ def main():
     for i, q in enumerate(qs, 1):
         r = prov.generate(systeme, [{"role": "user", "content": q["question"]}],
                           max_tokens=cfg["generation"]["max_tokens"],
-                          cache_system=True, effort=cfg["generation"].get("effort"))
+                          cache_system=True, effort=cfg["generation"].get("effort"),
+                          contexte=f"jalon1:{a.name}")
         v = verdict(r.text)
         attendu = q.get("expected_behavior", "repondre")
         lignes.append({

@@ -396,14 +396,40 @@ Réserve : la comparaison ne vaut que sur les pièges et le coût. Le jeu d'éva
 mesure le retrieval, or le baseline n'en a pas ; comparer les deux sur recall@k
 n'aurait aucun sens.
 
-### 16. Le cache de reranking, mesuré en conditions réelles
+### 16. Estimer un coût à la main se trompe ; l'instrumenter ne se trompe pas
+
+Mes devis d'API se sont trompés deux fois de suite : d'abord d'un facteur 1,8 sur
+le comptage de tokens (enseignement 14), puis de 60 % sur les écritures de cache,
+que j'avais toutes tarifées à 1,25× le prix d'entrée. Le multiplicateur ne vaut
+1,25 que pour un TTL de 5 minutes ; **à 1 heure, il est de 2,00**.
+
+Dépense réelle du jalon 1, reconstituée après correction : **2,65 $** pour 23
+questions. La leçon n'est pas « mieux estimer » : c'est qu'un compteur branché sur
+les `usage` renvoyés par l'API ne se trompe jamais, et que le §4 demandait ce
+compteur dès le départ. Il est désormais dans `src/pocllm/llm/couts.py`, journalise
+chaque appel, et le total du journal est la dépense du POC.
+
+Le TTL d'une heure reste le bon choix, mais pour une raison qu'il fallait chiffrer :
+
+| | coût |
+|---|---|
+| écriture TTL 5 min | 0,693 $ |
+| écriture TTL 1 h | 1,109 $ (+60 %) |
+| deux écritures à 5 min | **1,386 $** |
+
+Une passe de 20 questions dure 6,1 minutes : le cache à 5 minutes expire en cours
+de route et se repaie. Le TTL long est donc moins cher **dès la première passe**,
+et notre séquence amorçage + passe complète a payé une seule écriture pour 23
+questions.
+
+### 17. Le cache de reranking, mesuré en conditions réelles
 
 La configuration `hybride_topk200_rerank50` a coûté **963 s au premier calcul et
 27,8 s au second** — un facteur **34,6**. C'est ce qui rend praticable un
 balayage de 15 configurations, et cela confirme l'inversion annoncée à
 l'enseignement 3 : le trafic répétitif de ce POC est la boucle d'ablation.
 
-### 17. Deux ablations invalides avant la bonne
+### 18. Deux ablations invalides avant la bonne
 
 La première mesurait un dense mixte : ma condition d'attente cherchait
 « 384) en », motif que la ligne `[maison] (2015, 384)` satisfaisait déjà, si

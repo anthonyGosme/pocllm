@@ -39,7 +39,8 @@ class AnthropicProvider:
         self.client = anthropic.Anthropic(**kw)
         self.model, self.thinking, self.cache_ttl = model, thinking, cache_ttl
 
-    def generate(self, system, messages, max_tokens=16000, cache_system=False, effort=None):
+    def generate(self, system, messages, max_tokens=16000, cache_system=False, effort=None,
+                 contexte=""):
         # Le bloc système porte le point de cache : stable en tête, volatil en queue.
         if isinstance(system, str):
             system = [{"type": "text", "text": system}]
@@ -67,10 +68,12 @@ class AnthropicProvider:
         dt = time.perf_counter() - t
 
         u = msg.usage
+        usage = Usage(u.input_tokens, u.output_tokens,
+                      getattr(u, "cache_creation_input_tokens", 0) or 0,
+                      getattr(u, "cache_read_input_tokens", 0) or 0)
+        from pocllm.llm.couts import enregistrer
+        enregistrer(msg.model, usage, contexte)
         return LLMResponse(
             text="".join(b.text for b in msg.content if b.type == "text"),
             thinking="".join(getattr(b, "thinking", "") for b in msg.content if b.type == "thinking"),
-            usage=Usage(u.input_tokens, u.output_tokens,
-                        getattr(u, "cache_creation_input_tokens", 0) or 0,
-                        getattr(u, "cache_read_input_tokens", 0) or 0),
-            model=msg.model, stop_reason=msg.stop_reason, latency_s=dt)
+            usage=usage, model=msg.model, stop_reason=msg.stop_reason, latency_s=dt)
